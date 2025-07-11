@@ -1,0 +1,3196 @@
+
+SCR # 0 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 6 3 A9 31 8D 0 3 20 EE 7 B0 E AD B 3 D0 9 AD A 3 C9 4 B0 2 A2 1 A9 80 18 CA F0 1 
+  5 A 8D 8 3 2A 8D 9 3 20 F4 7 A6 2E AD 3 3 60 A5 47 A6 48 8D 4 3 8E 5 3 60 A0 4E 20 E7 
+  6 9 A9 C 2C A9 1 8D 8 3 A2 0 8E 9 3 E8 8E 6 3 20 E8 7 4C 59 E4 0 0 4C 3B 17 4C F4 7 
+  7 4C 9 B 0 0 0 0 0 A9 43 A2 1B D0 C7 AD 1 3 C9 5 60 20 EE 7 90 3 4C 45 A A8 A9 E0 4C 
+  8 D5 7 E5 1C D0 3C A2 B BD 0 3 48 CA 10 F9 A0 48 A9 20 8D A 3 A2 0 8E B 3 20 E9 9 20 C4 
+  9 7 A0 3F 20 E7 9 20 C4 7 30 4 AD 43 1B 2C A9 28 AC 1 3 99 E2 7 A2 0 68 9D 0 3 E8 E0 C 
+ 10 D0 F7 98 9 30 8D 3A 2 AD A 3 8D 3C 2 AD B 3 8D 3D 2 AD 2 3 8D 3B 2 B9 E2 7 8D 4 D2 
+ 11 A2 0 8E 6 D2 E8 86 37 BA 86 39 78 A9 D 85 36 A9 0 85 30 85 38 A9 3A 85 32 A9 2 85 33 A9 4 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 1 ( TXT )
+  0  ( ?PCOBJ )
+  1 
+  2 : OXY DUP C@ SWAP 1+ C@ ;
+  3 : ?POBJ DUP OXY POSOBJ
+  4        2+ ?OBJ ;
+  5 
+  6 : ?PCOBJ DUP OUNT + 1 - >R
+  7    R C@ 1 > IF FIRST <MOVE
+  8    FIRST ?POBJ ELSE 2+ ?POBJ
+  9    ENDIF R C@ 2 MOD
+ 10    IF R % 5 - 708 % 5 CMOVE
+ 11    ENDIF R> DROP ;
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 2 ( TXT )
+  0  ( DDLE DYN-MOVE        21 )
+  1 
+  2 
+  3 : DDLE DUP BEGIN DUP @ DUP 2+
+  4     SWAP >R + R> 0= UNTIL 2 -
+  5     SWAP - ;
+  6 ( DADR --- DLU daje na stos
+  7 ( ilosc bajtow do konca zapisu
+  8 ( w tablicy dynamic od elementu
+  9 ( o adresie DADR     )
+ 10 
+ 11 : #D-M >R DUP DUP @ + 2+ DUP
+ 12         DDLE R> SWAP >R OVER
+ 13         + R> ;
+ 14 : DYN-MOVE 2DUP @ =
+ 15     IF 2+ SWAP CMOVE
+ 16     ELSE 2DUP @ - DUP 0<
+ 17      IF #D-M 2DUP + >R
+ 18        CMOVE R> 4 ERASE
+ 19        2DUP ! 2+ SWAP CMOVE
+ 20      ELSE #D-M 2DUP + >R
+ 21         CMOVE> R> 4 ERASE
+ 22        2DUP ! 2+ SWAP CMOVE
+ 23      ENDIF ENDIF ;
+ 24 
+ 25 ( ZK DLU DADR --- przenosi
+ 26 (  ciag z adresu ZK o dlugosci
+ 27 (  DLU do elementu tablicy
+ 28 ( DYNAMIC o adresie DADR
+ 29 ( odpowiednio przesuwajac
+ 30 ( reszte elementow.  )
+ 31    -->
+
+SCR # 3 ( TXT )
+  0  ( DYN-RES DYN-C )
+  1 
+  2 
+  3 
+  4 : DYN-RES DUP DUP DDLE >R DUP 2+
+  5      R> 2DUP + 4 ERASE
+  6      CMOVE> 0 SWAP ! ;
+  7 
+  8 ( DADR --- reserwuje element
+  9 (   tablicy typu DYNAMIC
+ 10 (  o adresie DADR do zapisu
+ 11 (  przesuwajac zapis o tym
+ 12 ( numerze o 1 wyzej oraz wyzsze
+ 13 ( Jest to dla wpisu miedzy
+ 14 ( elementy tablicy    )
+ 15 
+ 16 : DYN-C DUP DUP @ + 2+ DUP
+ 17    DDLE >R SWAP R> 2DUP +
+ 18    >R CMOVE R> 4 ERASE ;
+ 19 
+ 20 ( DADR --- kasuje calkowicie
+ 21 (   element o adresie DADR
+ 22 (   przesuwajac inne.   )
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 4 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 5 ( TXT )
+  0  ( INIC-PM           26 )
+  1 
+  2 
+  3 0 VARIABLE CPM 4 ALLOT
+  4 : =>COL CPM + C! ;
+  5 ( 16*col+jas NR ---    ustawia )
+  6 ( kolory graczy                )
+  7 
+  8 : ?COL-PM CPM 704 4 CMOVE ;
+  9 
+ 10 ( --- uruchamia kolory   )
+ 11 
+ 12 0 VARIABLE PMA#
+ 13 : PMBASE@ PMA# @ 1280 + ;
+ 14 : PMBASE! DUP 54279 C! 256 *
+ 15    PMA# ! ;
+ 16 ( --- komorka zawierajaca      )
+ 17 (     strone  startowa PM      )
+ 18 
+ 19 
+ 20 : C-PM PMBASE@ 767
+ 21                  ERASE ;
+ 22 
+ 23 : ON-PM 3 53277 C! ;
+ 24 : OFF-PM 0 53277 C! 53248 8
+ 25       ERASE ;
+ 26 ( --- wlancza i wylancz PM     )
+ 27 
+ 28             -->
+ 29 
+ 30 
+ 31 
+
+SCR # 6 ( TXT )
+  0 
+  1 
+  2 0 VARIABLE XR# 3 ALLOT
+  3 
+  4 : XPM! XR# 3 ROT FILL XR#
+  5     53249 3 CMOVE ;
+  6 
+  7 ( X --- wpisuje pozycje x )
+  8 
+  9  0 16 * 14 +   1 =>COL
+ 10  0 16 * 8  +   2 =>COL
+ 11  0 16 * 0  +   3 =>COL
+ 12 
+ 13 : ST# [ 0 C, 0 C, 16 C, 8 C, 228
+ 14    C, 2 C, 0 C, 0 C, 0 C, 0 C,
+ 15    0 C, 0 C, 0 C,
+ 16    0 C, 0 C, 0 C, 16 C, 24 C,
+ 17    252 C, 254 C, 252 C, 24 C,
+ 18    16 C, 0 C, 0 C, 0 C,
+ 19    0 C, 0 C, 0 C, 0 C, 0 C,
+ 20    0 C, 1 C, 2 C, 228 C, 8 C,
+ 21    16 C, 0 C, 0 C, ] ;
+ 22 
+ 23        -->
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 7 ( TXT )
+  0 
+  1 
+  2 0 VARIABLE ILPM
+  3 : ZD-PM! DK ! ZK ! ;
+  4 
+  5 ( ZK DK --- wpisuje )
+  6 : DL-IL! ILPM ! +DOD ! ;
+  7 ( DLUGOSC ILOSC-PM --- wpis )
+  8 
+  9 CODE YP& XSAVE STX,
+ 10     ILPM LDX,
+ 11   BEGIN, 0 # LDY,
+ 12     BEGIN,
+ 13       ZK )Y LDA, DK )Y STA,
+ 14       INY, +DOD CPY, 0=
+ 15     UNTIL,
+ 16     DK 1+ INC, MAC ZK+
+ 17     DEX, 0=
+ 18   UNTIL, XSAVE LDX, NEXT JMP,
+ 19    C;
+ 20 : YPM! [ ' ST# ] LITERAL
+ 21    SWAP PMBASE@
+ 22   + ZD-PM! % 13 3 DL-IL!
+ 23    YP& ;
+ 24 
+ 25         -->
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 8 ( TXT )
+  0 
+  1 
+  2 
+  3 : VARRAY <BUILDS , ALLOT
+  4     DOES> DUP @ @ + 2+ ;
+  5 
+  6 
+  7 0 VARIABLE GDZIE
+  8 ( ktory obszar obsluguje )
+  9 
+ 10 10 GDZIE VARRAY XYPM0
+ 11 ( lewy gorny rog obszaru )
+ 12 10 GDZIE VARRAY XYP
+ 13 ( zwiera ostatnio wpisana war )
+ 14 10 GDZIE VARRAY XYPD
+ 15 ( o ile skacze strzalka )
+ 16 10 GDZIE VARRAY XYPMX
+ 17 ( wartosci maksymalne )
+ 18 0 GDZIE !
+ 19 83 XYPM0 C! 28 XYPM0 1+ C!
+ 20 0 XYP C! 0 XYP 1+ C!
+ 21 4 XYPD C! 6 XYPD 1+ C!
+ 22 19 XYPMX C! 14 XYPMX 1+ C!
+ 23 2 GDZIE !
+ 24 54 XYPM0 C! 52 XYPM0 1+ C!
+ 25 0 XYP C! 0 XYP 1+ C!
+ 26 15 XYPD C! 31 XYPD 1+ C!
+ 27 1 XYPMX C! 1 XYPMX 1+ C!
+ 28 0 GDZIE !
+ 29 
+ 30                -->
+ 31 
+
+SCR # 9 ( TXT )
+  0 
+  1 
+  2 : XYP! DUP XYP C! XYPD C@ *
+  3       XYPM0 C@ + ;
+  4 : XP! XYP! XPM! ;
+  5 : YP! 1 GDZIE +! XYP! YPM!
+  6       -1 GDZIE +! ;
+  7 ( wpisywanie pozycji startowe )
+  8 : XYM! GDZIE @ 2 MOD IF YPM!
+  9        ELSE XPM! ENDIF ;
+ 10 
+ 11 : XYP+ >R XYP C@ XYPD C@ * XYPM0
+ 12       C@ + R 0=
+ 13     IF R> 2DROP
+ 14     ELSE
+ 15      R SWAP R + DUP XYPD C@ R *
+ 16      + DUP R - SWAP ROT
+ 17        DO
+ 18     DUP I = 0= IF 1 PAUSE ENDIF
+ 19         I XYM!
+ 20        OVER +LOOP
+ 21      2DROP XYP C@ R> + XYP C!
+ 22     ENDIF ;
+ 23 
+ 24 : XYP+! DUP 0<
+ 25     IF XYP C@ 0 >
+ 26       IF XYP+ ELSE DROP ENDIF
+ 27     ELSE XYP C@ XYPMX C@ <
+ 28       IF XYP+ ELSE DROP ENDIF
+ 29     ENDIF ;
+ 30 
+ 31               -->
+
+SCR # 10 ( TXT )
+  0 
+  1 
+  2 
+  3 : XP+! XYP+! ;
+  4 : YP+! 1 GDZIE +! XYP+!
+  5        -1 GDZIE +! ;
+  6 
+  7 ( NR --- przesuwa poziomo strz
+  8 (   o 1 pole w przod NR=1 lub
+  9 (   w tyl NR=-1   )
+ 10 
+ 11 HEX D010 CONSTANT TG0
+ 12     0278 CONSTANT JS0
+ 13 DECIMAL
+ 14 : STRIG TG0 + C@ 1 AND ;
+ 15 ( NR --- F  NR=0 lub 1  F=0   )
+ 16 (    dla wcisnietego FIRE     )
+ 17 : STICK JS0 + C@ ;
+ 18 ( NR --- LICZBA               )
+ 19 -1 CONSTANT -1
+ 20 SELECT XST 1 1 1 0 -1 -1 -1 0 0
+ 21 0 0 ;
+ 22 SELECT YST 1 -1 0 0 1 -1 0 0 1
+ 23 -1 0 ;
+ 24 : STI>XY 5 - DUP XST SWAP
+ 25          YST ;
+ 26 ( STICK --- Xd Yd )
+ 27 
+ 28 
+ 29 
+ 30  -->
+ 31 
+
+SCR # 11 ( TXT )
+  0  ( ---- )
+  1 
+  2 : STRZALKA BEGIN
+  3      0 STICK STI>XY YP+! XP+!
+  4      0 STRIG 0=
+  5      UNTIL XYP C@ XYP 1+ C@ ;
+  6 
+  7 
+  8 : INIC-PM
+  9        62 559 C! 1 623 C!
+ 10        [ HEX B8 DECIMAL ]
+ 11        LITERAL PMBASE!
+ 12        C-PM ?COL-PM
+ 13       ON-PM 1 XP! 1 YP! ;
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 12 ( TXT )
+  0  ( INP-RAMB           22 )
+  1 
+  2 0 VARIABLE IR 0 VARIABLE #RA
+  3   108 LOAD" <DYN
+  4 : D-R* #RA ! 0 X!
+  5     0 RAMB DDLE ." DLU=" U.
+  6     ."  MAX=14330" CR
+  7     #DD @ DUP 20 + SWAP
+  8     DO I % 5 .R ." -"
+  9     I #RA @ ADRD @ DUP 4 0.R
+ 10     0= IF LEAVE ENDIF
+ 11     LOOP CR 0 BEGIN DUP #RA @
+ 12     ADRD
+ 13     @ >R 1+ R> 0= UNTIL IR ! ;
+ 14 ( DADR --- )
+ 15 : DIR-RAMB 0 RAMB D-R* ;
+ 16 : D-R 2+ #DD @ >R 0 #DD !
+ 17      D-R* R> #DD ! ;
+ 18 : I-NRB CR
+ 19    S" Numer w buforze:"
+ 20   -1 IR @ 1+ 3 INPUT< RAMB CR ;
+ 21 : R- 2DUP I-NRB DYN-MOVE 0 ;
+ 22 : R-P 2DUP I-NRB DUP DYN-RES
+ 23       DYN-MOVE 0 ;
+ 24 : R-C I-NRB DYN-C 0 ;
+ 25 : R-1 IR 1 I-NRB DYN-MOVE 0 ;
+ 26 : R-E 2DROP 1 ;
+ 27 
+ 28 KEY: KEYB 68 80 49 67 69 90 82 7
+ 29 8 300
+ 30  SELECT WYR 0 R- R-P R-1 R-C R-E
+ 31  >DYNM <DYNM NDD ;  -->
+
+SCR # 13 ( TXT )
+  0  ( ------ )
+  1 
+  2 
+  3 : INP-RAMB BEGIN GR.0
+  4    S" WPIS DO BUFORA"
+  5    CR CR DIR-RAMB CR
+  6    S" D-wpis do" CR
+  7    S" P-wpis przed" CR
+  8  S" 1-wpis '1' przed" CR
+  9  S" C-niszczenie" CR
+ 10  S" Z-zbicie elementow" CR
+ 11  S" R-rozbicie" CR
+ 12  S" N-inny pocz. DIR" CR
+ 13  S" E-Exit" CR
+ 14       ?WYB KEYB ?KL WYR
+ 15      UNTIL ;
+ 16 
+ 17 
+ 18 
+ 19 ( ZK DLU ---
+ 20 (        wyswietla elementy
+ 21 (  tablicy RAMB (NR DLUGOSC)
+ 22 (  oraz wprowadza ciag o dlugo-
+ 23 (  sci DLU z pod adresu ZK
+ 24 (  do tablicy RAMB  )
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 14 ( TXT )
+  0  ( Message )
+  1 
+  2 Stos pusty
+  3 
+  4 Slownik pelny
+  5 
+  6 Zly tryb adresowania
+  7 
+  8 Nie jedyne
+  9 
+ 10 Blad wartosci
+ 11 
+ 12 Bledny adres na dysku
+ 13 
+ 14 Stos pelny
+ 15 
+ 16 Blad dyskowy
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 15 ( TXT )
+  0  ( Message )
+  1 
+  2 Tylko w definicjach
+  3 
+  4 Tylko w fazie wykonania
+  5 
+  6 Brak pary slow
+  7 
+  8 Definicja nie zakonczona
+  9 
+ 10 W slowniku chronoinym
+ 11 
+ 12 Tylko podczas ladowania
+ 13 
+ 14 Poza biezacym ekranem
+ 15 
+ 16 Zadeklaruj VOCABULARY
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 2E 38 7F FF FB DF 33 10 D0 0 1D F6 F0 B5 E5 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+SCR # 16 ( TXT )
+  0   ( ? KONWERTER ---> DDOS ? )
+  1 
+  2 
+  3 
+  4  ( FORGET FREE )
+  5 
+  6  111 LOAD" FREE
+  7  ( te ekrany )
+  8 
+  9 
+ 10  072 LOAD" GRAF-DOSII
+ 11  ( OBIEKTY )
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17        -->
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 17 ( TXT )
+  0  ( ?MENU-D ?LO ?SA )
+  1 
+  2 3 VARIABLE TSL
+  3 : OXY DUP C@ SWAP 1+ C@ ;
+  4  100 LOAD" ?DL
+  5  052 LOAD" <MS
+  6  090 LOAD" ?OBJ
+  7 : ?WYB CR S" WYBIERZ:" ;
+  8 : ?KL K# @ EMIT ;
+  9 : ?MENU-D % 125 EMIT CR
+ 10     S"  DDOS " CR
+ 11     CR
+ 12     S" D-DIREKTORY" CR
+ 13     S" M-MENU" CR
+ 14     S" N-NUMBER DISK" CR
+ 15  TSL @ 1 AND IF
+ 16  S" L-LOAD" CR THEN
+ 17  TSL @ 2 AND IF
+ 18  S" S-SAVE" CR THEN
+ 19     S" R-RESERVA" CR
+ 20     S" E-EXIT" CR
+ 21      CR ;
+ 22 0 VARIABLE #NRZ
+ 23 : NR-ZAP CR
+ 24     S" NUMER ZAPISU:"
+ 25     0 128 3 INPUT< #NRZ ! ;
+ 26 : B0 ;   : B1 CR BEEP
+ 27    S" Blad dysk" ;
+ 28 : B2 CR BEEP
+ 29     S" Za duzy" ;
+ 30 : B3 CR BEEP
+ 31 S" Nie ma takiego zapisu" ; -->
+
+SCR # 18 ( TXT )
+  0  ( SPA EX ?DIR )
+  1 
+  2 : SPA 2 ;
+  3 SELECT ?BLAD B0 B1 B2 B3 ;
+  4 : ?LO TSL @ 1 AND IF NR-ZAP 2DUP
+  5  #NRZ @ BLOAD ?BLAD THEN 1 ;
+  6 : ?SA TSL @ 2 AND IF NR-ZAP 2DUP
+  7  #NRZ @ BSAVE ?BLAD THEN 1 ;
+  8  : EX 2DROP 0 ;
+  9 : ?N-D DDO PAD DIRB 1 1 -DISK
+ 10       0= 0= DUP 0=
+ 11       IF CR S" DYSK NR:" PAD
+ 12       C@ . ENDIF FORTH ;
+ 13 : ?DIR ?N-D -DUP 0=
+ 14       IF DDIR ENDIF ?BLAD 1 ;
+ 15 : N-D ?N-D DDO -DUP 0=
+ 16     IF CR S" Nowy numer:"
+ 17      -1 256 3 INPUT<
+ 18     PAD C! PAD DIRB 1 0
+ 19    -DISK 0= 0= ENDIF ?BLAD 1
+ 20     FORTH ;
+ 21 : RES ?N-D -DUP 0= IF PAD 1+ @
+ 22     DDO IF CR BEEP
+ 23   S" Wyczysc dysk" 0
+ 24     ELSE
+ 25      CR S" Ile sektorow:"
+ 26      0 508 3 INPUT< 255 /MOD
+ 27      IF 255 PAD 1+ C! PAD 2+ C!
+ 28      ELSE PAD 1+ C! ENDIF
+ 29      PAD DIRB 1 0 -DISK 0= 0=
+ 30     ENDIF FORTH
+ 31    ENDIF ?BLAD 1 ;       -->
+
+SCR # 19 ( TXT )
+  0  ( DDOS )
+  1 
+  2 
+  3 
+  4 : PAUSE 0 DO % 20 C@
+  5       BEGIN DUP % 20 C@ = 0=
+  6       UNTIL DROP
+  7       LOOP ;
+  8 
+  9 : SPP % 20 PAUSE 1 ;
+ 10 : MPP 2 ;
+ 11 
+ 12 KEY: KEYD 69 32 68 83 76 78 82 7
+ 13 7 300
+ 14 SELECT ROB 1 EX SPP ?DIR ?SA ?LO
+ 15  N-D RES MPP ;
+ 16 
+ 17 
+ 18 : DDOS ?MENU-D
+ 19       BEGIN ?WYB
+ 20        KEYD ?KL ROB
+ 21        DUP 2 = IF ?MENU-D ENDIF
+ 22       0= UNTIL ;
+ 23 
+ 24 
+ 25 ( ADR ILSEK --- )
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31   -->
+
+SCR # 20 ( TXT )
+  0  ( EK-LOAD RAMB )
+  1 
+  2 
+  3  14340 DYNAMIC RAMB
+  4 
+  5 : EK-SEK 64 * 1+ ;
+  6 ( NR-OBR --- NR-SEK )
+  7 : BAJ-SEK B/BUF / 1+ ;
+  8 : LIN-BAJ 40 * ;
+  9 ( : PA1 0 RAMB DUP 2 - @ 2 / + ;
+ 10 
+ 11 ( : LOA OVER + SWAP >R >R PA1
+ 12 ( 2+ R> R> DO DUP I 1 R/W B/BUF
+ 13 (   + LOOP DROP ;
+ 14 
+ 15 ( NR-SEK ILOSC --- wcz na PA1 )
+ 16 
+ 17 (   : RLOA >R EK-SEK R> LIN-BAJ
+ 18 (   DUP PA1 ! BAJ-SEK LOA ;
+ 19 
+ 20 ( NR-EKRAN ILOSC-LINI-EK ----
+ 21 (  wczytuje pod PAD poprzedzaja
+ 22 (  dwoma bajtami dlugosci   )
+ 23 
+ 24 ( : EK-LOAD RLOA PA1 OUNT
+ 25    0 RAMB SWAP >MOVE ;  )
+ 26 
+ 27                    -->
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 21 ( TXT )
+  0  ( RDIR )
+  1 
+  2 
+  3  002 LOAD" DYN-MOVE
+  4 
+  5 
+  6 
+  7 85 8 * CONSTANT SR0
+  8 
+  9 : RDIR EMPTY-BUFFERS
+ 10   CR 0 SR0 DUP 4 + SWAP
+ 11    DO I BLOCK DUP B/BUF + SWAP
+ 12     DO DUP % 10 <
+ 13      IF DUP . I 32 STYPE CR
+ 14         1+ ENDIF
+ 15     32 +LOOP
+ 16    LOOP DROP ;
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22                    -->
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 22 ( TXT )
+  0  ( ?MENU-R )
+  1 
+  2 : RD& ;
+  3 : ADRD DYC ZK @ ;
+  4  012 LOAD" INP-RAMB
+  5 : ?MENU-R % 125 EMIT
+  6   S"  RB " CR
+  7   0 RAMB @ IF
+  8    S" C-czysc buf." CR
+  9   ENDIF
+ 10    S" D-Dir" CR
+ 11 (  S" S-Wczytywanie ekranu" CR )
+ 12   S" O-Wczyt. obiekt" CR
+ 13   S" P-O+scisk"
+ 14   CR S" E-Exit" CR ;
+ 15 : ?RD RDIR 1 ;
+ 16 ( : R0 0 RAMB @ IF BEEP CR
+ 17 (  S" Bufor nie jet czysty"
+ 18 (  ELSE GR.15/0 EK-LOAD 0 RAMB
+ 19 (  ADGR @ <MS
+ 20 (  S" ten? T/N" KEY 84 =
+ 21 (  0= IF
+ 22 (  0 RAMB DUP 2 - @ ERASE ENDIF
+ 23 (  GR.0 ?MENU-R DIR-RAMB
+ 24 ( ENDIF ;
+ 25 
+ 26 ( EK-L CR S" Podaj nr. ekranu:"
+ 27 ( -1 10 1 INPUT< SCOL CR
+ 28 ( S" Podaj ilosc lini:" 0 193 3
+ 29 ( INPUT< CR R0 1 ;  )
+ 30 : C-R 0 RAMB DUP 2 - @ ERASE 1 ;
+ 31  -->
+
+SCR # 23 ( TXT )
+  0 
+  1 
+  2  0 VARIABLE SCI
+  3 : PBUF PAD B/BUF + ;
+  4 
+  5 : FO>
+  6  FIRST @ 2045 > IF CR BEEP
+  7  S" Za duzy obiekt!"
+  8               ENDIF ;
+  9 
+ 10 
+ 11 : INP-XY CR
+ 12 
+ 13    S" X-"
+ 14    -1 40 2 INPUT< CR
+ 15    S" Y-"
+ 16    -1 114 3 INPUT< CR ;
+ 17 
+ 18 : ?GR15  GR.15/0
+ 19    S" Czyscic T/N"
+ 20    KEY % 84 =
+ 21    IF CG ENDIF ;
+ 22 
+ 23 : WCOL >R   CR
+ 24    S" Kolory? T/N "
+ 25    KEY % 84 = IF
+ 26    2DUP + 708 SWAP % 5 CMOVE
+ 27 % 6 + 2DUP + 1 - R> 1 + SWAP C!
+ 28    ELSE 2DUP + R> SWAP C! 1+
+ 29    ENDIF ;
+ 30    -->
+ 31 
+
+SCR # 24 ( TXT )
+  0  ( RDOS L-O )
+  1 
+  2 : R* LOBJ CR
+  3   S" Nr. obiektu (0-"
+  4   LIB @ 1 - . ." ?):"
+  5   -1 LIB @ 3 INPUT<
+  6   PBUF 2+ SWAP PRZ-OBJ DROP
+  7   INP-XY 2DUP PBUF 1+ C!
+  8    PBUF C!
+  9  POSOBJ PBUF 2+ ?OBJ CR FORTH ;
+ 10 060 LOAD" ?R*
+ 11 : RM* BEGIN ?R* KEY DUP
+ 12    % 67 = IF CG ENDIF
+ 13   DUP % 82 = IF R* ENDIF
+ 14   DUP % 85 = IF NDD DROP ENDIF
+ 15   DUP % 80 = IF P* ENDIF
+ 16      % 82 = UNTIL ;
+ 17 
+ 18 : L-O DIS>OBJ GR.15/0
+ 19  BEGIN LOBJ RM*
+ 20   S" ten T/N " KEY % 84 =
+ 21  IF GR.0 PBUF 2+ C@ PBUF 3 + C@
+ 22   * 4 +
+ 23  SCI @ IF PBUF FIRST ROT
+ 24      >MO FO>
+ 25     FIRST OUNT 2 ELSE PBUF SWAP
+ 26    0 ENDIF WCOL INP-RAMB CR
+ 27   S" Tyle? T/N" KEY % 84 =
+ 28   DUP 0= IF GR.15/0 ENDIF
+ 29   ELSE 0 ENDIF
+ 30  UNTIL GR.0 ?MENU-R
+ 31  EMPTY-BUFFERS 1 FORTH ;  -->
+
+SCR # 25 ( TXT )
+  0  ( RDOS )
+  1 
+  2 : O-SC 1 SCI ! L-O ;
+  3 : O-ZW 0 SCI ! L-O ;
+  4 KEY: KEYR 69 32 68 67 79 80 300
+  5 
+  6 SELECT ROR 1 0 SPA ?RD C-R O-ZW
+  7 O-SC ;
+  8 
+  9 
+ 10 FORTH DEFINITIONS
+ 11 
+ 12 
+ 13 : RDOS RD& ?MENU-R BEGIN ?WYB
+ 14        KEYR ?KL ROR DUP 2 =
+ 15     IF ?MENU-R ENDIF 0= UNTIL
+ 16     FORTH ;
+ 17 
+ 18  -->
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 26 ( TXT )
+  0  ( DIM-TAB TAB0 )
+  1 
+  2 : GT/N ?GR15 CE ;
+  3 
+  4  005 LOAD" INIC-PM
+  5  070 LOAD" TAB-RB
+  6 
+  7 : DIM-TAB FIRST 2+ OXY
+  8      XYPD 1+ C@ /MOD SWAP
+  9      IF 1+ ENDIF SWAP 4 *
+ 10      XYPD C@ /  SWAP ;
+ 11 
+ 12 ( --- Xt Yt
+ 13 (  oblicza rozmiary tablicy dla
+ 14 (  danego objektu gdy znajduje
+ 15 (  sie on pod FIRST )
+ 16 : ?PD S" U-ustaw DIR" CR ;
+ 17 
+ 18 : TAB0 BEGIN GT/N DIR-RAMB
+ 19  S" Dla objektu " I-NRB ?PCOBJ
+ 20  CE S" Ten T/N" CR
+ 21     ?PD KEY DUP
+ 22     % 85 = IF NDD DROP ENDIF
+ 23     % 84 =
+ 24     UNTIL  F-PM0   DIM-TAB
+ 25    2DUP FIRST 1+ C! FIRST C! *
+ 26     FIRST 2+ SWAP ERASE
+ 27        F-MX CE 1 ;
+ 28 ( --- tworzy tablice dla
+ 29 (     objektu  )
+ 30             -->
+ 31 
+
+SCR # 27 ( TXT )
+  0  ( WP-TAB )
+  1 
+  2 0 VARIABLE #WA
+  3 : KL! 255 764 C! ;
+  4 : STR? KL!
+  5   255 BEGIN 0 STICK STI>XY
+  6    YP+! XP+! XYP C@ XYP 1+ C@
+  7    TAB@ DUP >R = IF R> ELSE
+  8     R CE 4 .R ."   Wpis:" #WA ?
+  9     R> ENDIF 0 STRIG 0=
+ 10    IF XYP C@ XYP 1+ C@ #WA C@
+ 11    TAB! KL! ENDIF 764 C@ 0=
+ 12    IF CE S" Nowa wartosc "
+ 13     -1 256 3 INPUT< #WA ! DROP
+ 14     255 ENDIF    764 C@ % 5 =
+ 15   UNTIL KL! DROP ;
+ 16 
+ 17 : I-TAB GT/N DIR-RAMB
+ 18   S" Dla objektu " I-NRB DUP
+ 19   >R ?PCOBJ F-PM0 DIM-TAB
+ 20    R> ?TAB F-MX
+ 21   FIRST OXY ROT = ROT ROT = * ;
+ 22 
+ 23 : WP-TAB
+ 24  IF INIC-PM CE
+ 25   S" L-liczba" CR
+ 26   S" K-koniec" CR 100 PAUSE
+ 27   STR? OFF-PM GR.0 TAB-RB
+ 28  ELSE GR.0
+ 29   S" Brak tablicy" BEEP % 100
+ 30   PAUSE
+ 31  ENDIF ;   -->
+
+SCR # 28 ( TXT )
+  0  ( IN-ROB )
+  1 
+  2 
+  3 : IN-L$ 40 PAD INPUT$
+  4   PAD 1+ C@ % 47 SWAP % 58 <=<
+  5   IF PAD NUMBER DROP DUP 255 >
+  6    IF OVER ! 2+
+  7    ELSE OVER C! 1+ ENDIF
+  8   ELSE PAD OVER PAD C@ 1+ CMOVE
+  9     PAD C@ 1+ +
+ 10   ENDIF PAD C@ 0= ;
+ 11 
+ 12 ( ADR --- ADR+N wprowadza
+ 13 ( liczbe lub tekst pod ADR   )
+ 14 : IN-ROB DUP
+ 15   BEGIN CR IN-L$ UNTIL
+ 16   OVER 1+ - ;
+ 17 ( ADR --- ADR DLU wprowadza
+ 18 ( ciag liczb i tekstu pod ADR )
+ 19 
+ 20 : SROB PAD 1000 + ;
+ 21 FIRST CONSTANT SROB1
+ 22 FIRST 1000 + CONSTANT SROB2
+ 23 : ILEL 260 0 DO DUP @ DUP 0=
+ 24      IF 2DROP I LEAVE
+ 25      ELSE + 2+ ENDIF LOOP ;
+ 26 ( DADR --- ILOSC-ELEMENTOW  )
+ 27    -->
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 29 ( TXT )
+  0  ( ADPO ?EL SKPO )
+  1 
+  2 : ADPO >R DUP C@ % 40 <
+  3    IF 31 OVER 1+ C@ % 123 <=<
+  4     0= 0= OVER 2+ DUP 3 + SWAP
+  5     DO 31 I C@ % 123 <=<
+  6              0= 0= +
+  7     LOOP 4 =
+  8    ELSE 0 ENDIF
+  9    IF DUP C@ + 1+ 2
+ 10    ELSE 1+ 1 ENDIF
+ 11    OVER R> < * ;
+ 12 
+ 13 ( ADR ADRK --- ADR+1N F    )
+ 14 : ?EL 1+ OVER + SWAP CR
+ 15    BEGIN DUP >R OVER ADPO
+ 16    DUP 1 = IF R C@ . SPACE
+ 17      ENDIF
+ 18    DUP 2 = IF CR R COUNT
+ 19      STYPE ENDIF R> DROP
+ 20    0= UNTIL 2DROP CR ;
+ 21 
+ 22 ( ADR DL --- wyswietla elemen )
+ 23 : SKPO OVER + SWAP DUP >R
+ 24     ROT 1 - 0 2DUP = 0= IF
+ 25     DO OVER ADPO 0=
+ 26      IF LEAVE ENDIF
+ 27     LOOP SWAP DROP DUP R> -
+ 28     ELSE 2DROP R> DROP SWAP
+ 29          DROP 0 ENDIF ;
+ 30 ( NR ADR DL --- ADR+N DLU )
+ 31                  -->
+
+SCR # 30 ( TXT )
+  0  ( WP-ROB )
+  1 
+  2 : DADR DYC ZK @ ;
+  3 : WP-ROB
+  4  BEGIN CE SROB1 900 ERASE
+  5   S" Numer:"
+  6   -1 SROB ILEL 1+ 3 INPUT<
+  7   SROB DADR DUP >R OUNT
+  8           SROB1 SWAP CMOVE
+  9   BEGIN CR SROB2 500 ERASE
+ 10    S" Podnumer:"
+ 11    -1 SROB1 ILEL 1+ 3 INPUT<
+ 12    SROB1 DADR DUP >R @ 0=
+ 13    IF CR S" Nowy" 0
+ 14    ELSE R OUNT DUP >R
+ 15     SROB2 SWAP CMOVE
+ 16     CR SROB2 R ?EL CR
+ 17     S" Od pozycji:"
+ 18     -1 100 3 INPUT< SROB2 R>
+ 19     SKPO SWAP DROP
+ 20    ENDIF
+ 21    SROB2 + IN-ROB SWAP SROB2
+ 22    - + SROB2 SWAP R>
+ 23    DYN-MOVE CR
+ 24  S" Koniec podn T/N"
+ 25    KEY % 84 =
+ 26   UNTIL
+ 27   SROB1 DUP DDLE 2+ R> DYN-MOVE
+ 28  CR S" Koniec num T/N"
+ 29   KEY % 84 =
+ 30  UNTIL ;
+ 31    -->
+
+SCR # 31 ( TXT )
+  0  ( TROB )
+  1 
+  2 : ?NI
+  3   CR CR S" N-nowa"
+  4  CR S" I-istniejaca" ;
+  5 
+  6 
+  7 : TWYB
+  8   CE S" Tab wyb"
+  9   ?NI CR SROB 3000 ERASE
+ 10   KEY % 73 =
+ 11   IF DIR-RAMB I-NRB OUNT SROB
+ 12   SWAP CMOVE ENDIF
+ 13   CE WP-ROB SROB DUP DDLE
+ 14   INP-RAMB 0 ;
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 ( --- )
+ 20 
+ 21 : TEKR CE ."  Tab ekr"
+ 22   CR ?NI KEY % 73 =
+ 23   IF I-TAB ELSE TAB0 ENDIF
+ 24   WP-TAB 0 ;
+ 25 
+ 26                          -->
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 32 ( TXT )
+  0  ( LDS SDS  - menu glowne )
+  1 
+  2 
+  3 : ?MEN-G GR.0
+  4   S" GRAF-DOSII" CR
+  5   CR
+  6   S" B-dir buf" CR
+  7   ?PD
+  8   S" R-RAMbrandt" CR
+  9   S" L-odczyt" CR
+ 10   S" S-zapis" CR
+ 11   S" T-tab ekranu" CR
+ 12   S" W-tab wyborow" CR
+ 13   S" E-exit" CR
+ 14   ;
+ 15 
+ 16 
+ 17 
+ 18 : M-G ?MEN-G 0 ;
+ 19 : LDS 1 TSL ! 0 RAMB DUP 2 -
+ 20      @ 200 - BAJ-SEK DDOS
+ 21       ?MEN-G 0 ;
+ 22 : SDS 2 TSL ! 0 RAMB DUP DDLE
+ 23       BAJ-SEK DDOS ?MEN-G 0 ;
+ 24 
+ 25 : RDS RDOS ?MEN-G 0 ;
+ 26 : T-W TWYB ?MEN-G ;
+ 27 : T-E TEKR ?MEN-G ;
+ 28 : D-B CR DIR-RAMB 0 ;
+ 29 
+ 30                 -->
+ 31 
+
+SCR # 33 ( TXT )
+  0  ( GRAF-DOS )
+  1 
+  2 
+  3 
+  4 KEY: KEYG 32 76 83 82 69 87 84 6
+  5 6 85 300
+  6 
+  7 
+  8  SELECT ROG 0 M-G LDS SDS RDS 1
+  9 T-W T-E D-B NDD ;
+ 10 
+ 11 : GRAF    0 % 82 C!
+ 12         ?MEN-G BEGIN ?WYB
+ 13         KEYG ?KL ROG
+ 14         UNTIL EMPTY-BUFFERS ;
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 34 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 35 ( TXT )
+  0   ( AS AL AL0 XMA YMA )
+  1 
+  2 
+  3 240 CONSTANT AS ( adrk )
+  4 242 CONSTANT AL ( adrp )
+  5 
+  6 244 CONSTANT W*
+  7 
+  8  W*  CONSTANT AL0
+  9 ( poprzedni adres pobrania )
+ 10  W* 2+ CONSTANT L+ ( Y )
+ 11  W* 3 + CONSTANT XMA ( x max )
+ 12  W* 4 + CONSTANT YMA ( y max )
+ 13 ( wartosc max x )
+ 14  W* 5 + CONSTANT YM
+ 15 ( licznik wiersza y )
+ 16  W* 6 + CONSTANT ILP
+ 17 ( dlugosc powtarzanego ciagu )
+ 18  W* 7 + CONSTANT LICZ
+ 19 ( licznik )
+ 20  W* 8 + CONSTANT #PO
+ 21  ( bufor ciagu )
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27         -->
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 36 ( TXT )
+  0   ( SAL0 NAL0 AL+ AS+ )
+  1 
+  2 
+  3 CODE SAL0
+  4    AL0 LDA, AL STA, AL0 1+ LDA,
+  5    AL 1+ STA, RTS, C;
+  6 ( przywraca poprzednie AL )
+  7 CODE NAL0
+  8    AL LDA, AL0 STA, AL 1+ LDA,
+  9    AL0 1+ STA, RTS, C;
+ 10 ( nadaje nowa wartosc poprzed )
+ 11 CODE AL+
+ 12   CLC, L+ LDA, AL ADC,
+ 13   AL STA, CS
+ 14   IF, AL 1+ INC, CLC, THEN,
+ 15   RTS, C;
+ 16 
+ 17 ( zwieksza adres pobrania
+ 18 ( AL o wartosc w YMA )
+ 19 
+ 20 
+ 21 CODE AS+
+ 22   CLC, AS ADC,
+ 23   AS STA, CS
+ 24   IF, AS 1+ INC, CLC, THEN,
+ 25   RTS, C;
+ 26 
+ 27 ( zwieksza adres wyslania
+ 28 ( AS o wartosc w Akumulatorze )
+ 29 
+ 30 
+ 31 
+
+SCR # 37 ( TXT )
+  0 ( >SMOVE SAL00 NAL00 )
+  1 
+  2 
+  3  035 LOAD" AS
+  4 
+  5 
+  6 0 VARIABLE AL00
+  7 ( adres poczatku kolumny )
+  8 CODE SAL00
+  9    AL00 LDA, AL STA,
+ 10    AL00 1+ LDA, AL 1+ STA,
+ 11    RTS, C;
+ 12 ( przywraca adres poczatku
+ 13 ( kolumny )
+ 14 
+ 15 CODE NAL00
+ 16    AL LDA, AL00 STA,
+ 17    AL 1+ LDA, AL00 1+ STA,
+ 18    RTS, C;
+ 19 ( nadaje nowy adres poczatku
+ 20 ( kolumny )
+ 21 
+ 22               -->
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 38 ( TXT )
+  0   ( AS! )
+  1 
+  2 CODE AS! 0 # LDY, 141 # LDA,
+  3    AS )Y STA, INY, TXA,
+  4    LICZ ORA, AS )Y STA,
+  5    2 # LDA, MAC AS+  0 # LDY,
+  6    BEGIN, #PO ,Y LDA,
+  7     AS )Y STA, INY, ILP CPY, 0=
+  8    UNTIL, ILP LDA, MAC AS+
+  9    RTS, C;
+ 10 
+ 11 ( DANE WEJSCIOWE
+ 12 ( rejestr x - 0 pojedyncze
+ 13 (            64 podwojne
+ 14 (           128 potrojne
+ 15 (        64+128 poczworne
+ 16 ( wpisuje pod AS  bajty
+ 17 ( powtorzenia i zwieksza AS  )
+ 18 
+ 19 CODE AAS! CS
+ 20   IF, MAC AS! MAC NAL0
+ 21   ELSE, YM LDA, ILP LDY,
+ 22     BEGIN, CLC, LICZ ADC, DEY,
+ 23     0= UNTIL, YM STA,
+ 24     0 # LDA, LICZ STA, MAC SAL0
+ 25   THEN, RTS, C;
+ 26 
+ 27 ( jak wyzej lecz+ przywaracanie
+ 28 ( wartosci poprzednich lub
+ 29 ( zerowanie LICZ
+ 30 ( wskaznik CS steruje )
+ 31              -->
+
+SCR # 39 ( TXT )
+  0   ( >PO POO )
+  1 
+  2 
+  3 0 VARIABLE W-  ( licznik )
+  4 0 VARIABLE A0
+  5 
+  6 CODE NA0   AL LDA, A0 STA,
+  7   AL 1+ LDA, A0 1+ STA, RTS, C;
+  8 
+  9 CODE SA0   A0 LDA, AL STA,
+ 10   A0 1+ LDA, AL 1+ STA, RTS, C;
+ 11 
+ 12 CODE >PO
+ 13   MAC NA0  0 # LDX, 0 # LDY,
+ 14   BEGIN,
+ 15    AL )Y LDA, #PO ,X STA,
+ 16    MAC AL+ INX, ILP CPX, 0=
+ 17   UNTIL, MAC SA0 RTS, C;
+ 18 
+ 19 ( umieszcz ILP bajt w buforze )
+ 20 
+ 21 CODE POO  MAC NA0 0 # LDX,
+ 22   ILP LDY, W- STY, 0 # LDY,
+ 23   BEGIN, AL )Y LDA, #PO ,X CMP,
+ 24    0= IF, W- DEC, THEN,
+ 25    MAC AL+ INX, ILP CPX, 0=
+ 26   UNTIL, MAC SA0 RTS, C;
+ 27                   -->
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 40 ( TXT )
+  0   ( PP )
+  1 
+  2 
+  3 
+  4 CODE PP
+  5   MAC >PO
+  6   BEGIN,
+  7     MAC POO 0 # LDX,
+  8     W- LDA, 0=
+  9     IF,
+ 10      LICZ LDA, CLC, 1 # ADC,
+ 11      63 # CMP, CS NOT
+ 12      IF,
+ 13        YM LDA, SEC, ILP SBC, CS
+ 14        IF, LICZ INC, YM STA,
+ 15          ILP LDY,
+ 16          BEGIN, MAC AL+ DEY, 0=
+ 17          UNTIL,
+ 18        ELSE, INX, THEN,
+ 19      ELSE, INX,
+ 20      THEN,
+ 21     ELSE, INX,
+ 22     THEN,
+ 23     0 # CPX, 0= NOT
+ 24   UNTIL, RTS, C;
+ 25 ( w LICZ otrzymujemy ilosc
+ 26 ( powtorzen ciagu bajtow o dlug
+ 27 ( -osci ILP ,gdzie ILP= 1-4 )
+ 28                -->
+ 29 
+ 30 
+ 31 
+
+SCR # 41 ( TXT )
+  0   ( P1 )
+  1 
+  2 
+  3 CODE P1 1 # LDA, ILP STA,
+  4   MAC PP LICZ LDX, 4 # CPX,
+  5   0 # LDX,  MAC AAS!
+  6   RTS, C;
+  7 
+  8 ( wpisuje powtorzenia pojedyncz
+  9 ( w adres AS jezeli >4 .
+ 10 ( Zwieksza odpowiedno adres
+ 11 ( AS i AL
+ 12 ( gdy wykonane LICZ<>0  )
+ 13 
+ 14 CODE P2 2 # LDA, ILP STA,
+ 15   MAC PP LICZ LDX, 3 # CPX,
+ 16   64 # LDX, MAC AAS! RTS, C;
+ 17 
+ 18 CODE P3 3 # LDA, ILP STA,
+ 19   MAC PP LICZ LDX, 2 # CPX,
+ 20   128 # LDX, MAC AAS! RTS, C;
+ 21 
+ 22 CODE P4 4 # LDA, ILP STA,
+ 23   MAC PP LICZ LDX, 2 # CPX,
+ 24   128 64 + # LDX, MAC AAS!
+ 25   RTS, C;
+ 26 
+ 27 ( jak P1 lecz dla wiekszych
+ 28 ( ciagow powtorzen )
+ 29 
+ 30          -->
+ 31 
+
+SCR # 42 ( TXT )
+  0   ( P141 P0 )
+  1 
+  2 
+  3 CODE P141
+  4   1 # LDA, ILP STA,  MAC PP
+  5   #PO LDA, 141 # CMP, 0=
+  6   IF, SEC, ELSE, CLC, THEN,
+  7   0 # LDX, MAC AAS!
+  8   RTS, C;
+  9 
+ 10 ( dziala gdy bajt ma wartosc
+ 11 ( 141 a wiec kod powtorzen
+ 12 ( zawsze zapisuje w trzech
+ 13 ( bajtach )
+ 14 
+ 15 CODE P0
+ 16   0 # LDY, AL )Y LDA,
+ 17   AS )Y STA, YM DEC, MAC AL+
+ 18   1 # LDA, MAC AS+
+ 19   MAC NAL0 RTS, C;
+ 20 
+ 21 ( wysyla bajt z AL do AS
+ 22 ( i zmienia odpowiedno te
+ 23 ( adresy  )
+ 24 
+ 25        -->
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 43 ( TXT )
+  0   ( CM* CCM* )
+  1 
+  2 CODE CM*
+  3   BEGIN,
+  4     MAC NAL0 MAC NAL00
+  5     YMA LDA, YM STA,
+  6     BEGIN,
+  7       0 # LDA, LICZ STA,
+  8       MAC P1
+  9  LICZ LDA, 0= IF, MAC P2 THEN,
+ 10  LICZ LDA, 0= IF, MAC P3 THEN,
+ 11  LICZ LDA, 0= IF, MAC P4 THEN,
+ 12  LICZ LDA, 0= IF, MAC P141 THEN,
+ 13  LICZ LDA, 0= IF, MAC P0 THEN,
+ 14       YM LDA, 0=
+ 15     UNTIL,
+ 16     MAC SAL00 CLC,
+ 17     AL LDA, 1 # ADC, AL STA,
+ 18     CS IF, AL 1+ INC, CLC, THEN,
+ 19     XMA DEC, 0=
+ 20   UNTIL, RTS, C;
+ 21 
+ 22 
+ 23 CODE CCM* XSAVE STX,
+ 24      MAC CM* XSAVE LDX,
+ 25      NEXT JMP, C;
+ 26 ( zciesnia obraz z adresu AL
+ 27 ( do adresu AS o wymiarach
+ 28 ( x=XMA i y=YMA skok L+  )
+ 29                      -->
+ 30 
+ 31 
+
+SCR # 44 ( TXT )
+  0 ( -------- XY>! ZD>! ST>!  )
+  1 
+  2 0 VARIABLE #DS
+  3 
+  4 : XY>! YMA C! XMA C! ;
+  5 
+  6 ( X Y --- wpisuje rozmiary
+  7 (         obrazka )
+  8 
+  9 : ZD>! AS ! AL ! ;
+ 10 
+ 11 ( Zkad DOkad --- )
+ 12 
+ 13 : ST>! L+ C! ;    40 ST>!
+ 14 
+ 15 ( KROK --- wpisuje krok pobran
+ 16 (     czyli szerokosc bajtowa
+ 17 (     obrazu z ktorego
+ 18 (     pobieramy obrazek  )
+ 19 
+ 20 
+ 21 : >SMOVE AS @ #DS ! CCM*
+ 22     AS @ #DS @ - DUP #DS ! ;
+ 23 
+ 24 ( --- DLU
+ 25 ( zciesnia obraz z pod adrsu
+ 26 ( ZKAD i wpisuje do DOKAD
+ 27 ( o rozmiarach XMA YMA i zostaw
+ 28 ( -ia na stosie i w zmiennej
+ 29 ( #DS dlugosc sciesnionego
+ 30 ( zapisu )
+ 31 
+
+SCR # 45 ( TXT )
+  0 
+  1 
+  2 
+  3  ADGR @ 40 7 * 10 + +
+  4  PAD 200 + ZD>!
+  5 
+  6  20 90 XY>!
+  7 
+  8  40 ST>!
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 46 ( TXT )
+  0 ( SMOVE< )
+  1 
+  2 
+  3  017 LOAD" AS
+  4 
+  5 
+  6 CODE WPP 1 # LDY,
+  7    128 64 + # LDA, AS )Y AND,
+  8    .A LSR, .A LSR, .A LSR,
+  9    .A LSR, .A LSR, .A LSR,
+ 10    CLC, 1 # ADC, ILP STA,
+ 11    63 # LDA, AS )Y AND,
+ 12    LICZ STA, 0 # LDX, INY,
+ 13   BEGIN, AS )Y LDA, #PO ,X STA,
+ 14     INY, INX, ILP CPX, 0=
+ 15   UNTIL,
+ 16     TYA, MAC AS+ 0 # LDY,
+ 17   BEGIN, 0 # LDX,
+ 18     BEGIN,
+ 19       #PO ,X LDA, AL )Y STA,
+ 20       MAC AL+ YM DEC, INX,
+ 21       ILP CPX, 0=
+ 22     UNTIL,
+ 23     LICZ DEC, 0=
+ 24   UNTIL, RTS, C;
+ 25 
+ 26 
+ 27 ( wykonywane gdy wystepuja
+ 28 ( powrorzenia )
+ 29 
+ 30                -->
+ 31 
+
+SCR # 47 ( TXT )
+  0   ( WP0 )
+  1 
+  2 
+  3 
+  4  -->
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 48 ( TXT )
+  0   ( SM< )
+  1 
+  2 CODE SM<
+  3   BEGIN,
+  4     MAC NAL0 YMA LDA, YM STA,
+  5     BEGIN,
+  6      0 # LDY,
+  7      AS )Y LDA, 141 # CMP, 0=
+  8      IF, MAC WPP
+  9      ELSE,
+ 10       AL )Y STA, YM DEC,
+ 11       MAC AL+ 1 # LDA, MAC AS+
+ 12      THEN,
+ 13      YM LDA, 0=
+ 14     UNTIL,
+ 15     MAC SAL0
+ 16     AL LDA, CLC, 1 # ADC,
+ 17     AL STA, CS
+ 18     IF, AL 1+ INC, THEN,
+ 19     XMA DEC, 0=
+ 20   UNTIL, RTS, C;
+ 21 
+ 22 CODE SMOVE<
+ 23   XSAVE STX, MAC SM<
+ 24   XSAVE LDX, NEXT JMP, C;
+ 25 
+ 26 ( rozciaga zgeszczony zapis
+ 27 ( z pod adresu AS do AL
+ 28 ( o wymiarach XMA YMA i skoku
+ 29 ( L+ )
+ 30       -->
+ 31 
+
+SCR # 49 ( TXT )
+  0 ( ---- XY<! ZD<! ST<! )
+  1 
+  2 
+  3 
+  4 : XY<! YMA C! XMA C! ;
+  5 
+  6 ( XMAX YMAX --- )
+  7 
+  8 
+  9 : ZD<! AL ! AS ! ;
+ 10 
+ 11 ( ZKAD DOKAD --- )
+ 12 
+ 13 
+ 14 : ST<! L+ C! ;
+ 15 
+ 16 ( KROK ---
+ 17 ( gdzie krok to ilosc bajtow
+ 18 ( w lini ekranowej )
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 50 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 51 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 52 ( TXT )
+  0 ( <MS <MO <MT )
+  1 
+  2  037 LOAD" >SMOVE
+  3  046 LOAD" SMOVE<
+  4 
+  5 : <MS >R 2+ R> ZD<!
+  6    % 40 % 105 XY<!
+  7    % 40 ST<!
+  8      SMOVE< ;
+  9 
+ 10 ( DADR ADR ---  dla obiekow
+ 11 (         caloekranowych  )
+ 12 
+ 13 : <MO >R 2+ R>
+ 14    2DUP 4 CMOVE
+ 15    OVER 2+ OXY OVER
+ 16     ST<! XY<!
+ 17    4 + >R 4 + R> ZD<! SMOVE< ;
+ 18 
+ 19 
+ 20 : <MT >R 2+ R>
+ 21    2DUP 2 CMOVE
+ 22    OVER OXY OVER
+ 23     ST<! XY<!
+ 24    2+ >R 2+ R> ZD<! SMOVE< ;
+ 25 
+ 26 ( DADR ADR --- dla obiektow
+ 27 (  oraz tablic )
+ 28 
+ 29                -->
+ 30 
+ 31 
+
+SCR # 53 ( TXT )
+  0 ( >MT >MO )
+  1 
+  2 
+  3 : >M* >R DROP 2DUP 2+ 2 R +
+  4     CMOVE OVER R + OXY OVER
+  5     ST>! XY>! SWAP 2+ R + OVER
+  6     4 + R + ZD>! >SMOVE 2+
+  7     R> + SWAP ! ;
+  8 
+  9 : >MT 0 >M* ;
+ 10 
+ 11 ( ZK DK DL  zciesnia tablice
+ 12 ( o zapisie:
+ 13 (  |x|y|.....|   na tablice
+ 14 (  |dlu|x|y|......|    )
+ 15 
+ 16 : >MO 2 >M* ;
+ 17 
+ 18 ( ZK DK DL  zciesnia obiekt
+ 19 ( o zapisie:
+ 20 (  |Xd|Yd|X|Y|.....| na:
+ 21 ( |DLU|Xd|Yd|X|Y|.....|  )
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 60 ( TXT )
+  0 ( ?R*  P*  -do Rambrandt  24 )
+  1 
+  2 
+  3 : ?R* CE
+  4   S" C- Czyszcenie ekranu" CR
+  5   S" U- ustaw DIR" CR
+  6   S" R- obiekt wczytany" CR
+  7   S" P- obiekt z pamieci" CR ;
+  8 
+  9 
+ 10 : P* CE DIR-RAMB
+ 11   S" Numer w pamieci:"
+ 12   -1 IR @ 3 INPUT< RAMB DUP
+ 13   CE D-R 2+ CR
+ 14   S" Numer podel:"
+ 15   -1 IR @ 3 INPUT< SWAP ADRD
+ 16   ?PCOBJ ;
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 68 ( TXT )
+  0  ( BSTYPE )
+  1 
+  2 
+  3 
+  4 : BSTYPE COUNT 0 DO DUP COUNT
+  5     STYPE DUP C@ + 1+ CR LOOP
+  6     DROP ;
+  7 
+  8 
+  9 ( ADR --- wyprowadza na ekran
+ 10 ( ciag znakow w kilku liniach
+ 11 ( z pod adresu ADR o nastepuja
+ 12 ( cym zapisie:
+ 13 ( |ilosc-lini|dlu|text|dlu|text
+ 14 ( .....  )
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 69 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 70 ( TXT )
+  0  ( TAB! TAB@ TAB-RB )
+  1 
+  2 
+  3 
+  4 : TAB! >R FIRST C@ * + FIRST +
+  5      2+ R> SWAP C! ;
+  6 ( X Y LI --- wpisuje do TAB  )
+  7 
+  8 : TAB@ FIRST C@ * + FIRST + 2+
+  9    C@ ;
+ 10 ( X Y --- LI odczyt z TAB    )
+ 11 
+ 12 : TAB-RB FIRST DUP OXY * 2+
+ 13  FIRST 1000 + DUP >R SWAP >MT
+ 14     R> OUNT INP-RAMB ;
+ 15 
+ 16 ( --- wpisuje TAB do RAMB  )
+ 17 
+ 18 : ?TAB DUP @ + 2+ FIRST <MT ;
+ 19 
+ 20 42 CONSTANT XR
+ 21 28 CONSTANT YR
+ 22 
+ 23 -->
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 71 ( TXT )
+  0  ( ?PCO-TS )
+  1 
+  2 
+  3 : F-PM0 FIRST C@ XYPD C@ *
+  4     XR + XYPM0 C!
+  5     FIRST 1+ C@
+  6     YR + XYPM0 1+ C! ;
+  7 
+  8 : F-MX FIRST C@ 1 - XYPMX C!
+  9        FIRST 1+ C@ 1 - XYPMX
+ 10        1+ C! ;
+ 11 
+ 12 : ?PCO-TS DUP ?PCOBJ F-PM0
+ 13      ?TAB F-MX  ;
+ 14 
+ 15 ( ADRD --- wyswietla objekt
+ 16 (   tablice oraz inicjuje
+ 17 (   zmienne dla PM   )
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 80 ( TXT )
+  0  ( DOS-RAMB z DOSA do Ramb )
+  1 
+  2 
+  3  000 LOAD" FDOS
+  4 
+  5 
+  6 : DOS-RAMB GRAF-DOS
+  7    PAD 500 + #ADR ! 2000 #DL !
+  8    DOS #ADR @ 1023 INP-RAMB
+  9    GRAF-DOS ;
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 82 ( TXT )
+  0  ( L- ZK+ DK+ do >move i <move )
+  1 
+  2 
+  3 0 VARIABLE +DOD
+  4 0 VARIABLE LIC
+  5 XSAVE 1+ CONSTANT ZK
+  6 XSAVE 3 + CONSTANT DK
+  7 
+  8 CODE L- PHA, SEC, LIC LDA,
+  9         +DOD SBC, LIC STA,
+ 10      LIC 1+ LDA, +DOD 1+ SBC,
+ 11      LIC 1+ STA, PLA, RTS, C;
+ 12 
+ 13 ( odejmuje od komurki LIC     )
+ 14 ( liczbe zawarta w +DOD       )
+ 15 
+ 16 CODE ZK+
+ 17     PHA, ZK LDA, CLC, +DOD ADC,
+ 18     ZK STA, ZK 1+ LDA,
+ 19     +DOD 1+ ADC, ZK 1+ STA,
+ 20     PLA, RTS, C;
+ 21 
+ 22 ( zwieksz DK o wartosc +DOD   )
+ 23 
+ 24 CODE DK+
+ 25     PHA, DK LDA, CLC, +DOD ADC,
+ 26     DK STA, DK 1+ LDA,
+ 27     +DOD 1+ ADC, DK 1+ STA,
+ 28     PLA, RTS, C;
+ 29 
+ 30  -->
+ 31 
+
+SCR # 83 ( TXT )
+  0  ( ---- )
+  1 
+  2 
+  3 CODE WD
+  4          0 ,X LDA, LIC STA,
+  5          1 ,X LDA, LIC 1+ STA,
+  6          2 ,X LDA, DK STA,
+  7          3 ,X LDA, DK 1+ STA,
+  8          4 ,X LDA, ZK STA,
+  9          5 ,X LDA, ZK 1+ STA,
+ 10        RTS, C;
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 84 ( TXT )
+  0  ( CCMOV P-CCM ZD-CCM XY-CCM )
+  1 
+  2 
+  3  008 LOAD" ZK+
+  4 XSAVE 6 + CONSTANT RCM
+  5 
+  6 0 VARIABLE P-CCM 6 ALLOT
+  7 
+  8 ( ZK|DK|X|Y|STEP        )
+  9 ( 2  2  1 1  2    bajty )
+ 10 
+ 11 VOCABULARY CC# IMMEDIATE
+ 12 CC# DEFINITIONS
+ 13 XSAVE 7 + CONSTANT PK
+ 14 XSAVE 8 + CONSTANT NK
+ 15 
+ 16 
+ 17 XSAVE 9 + CONSTANT CHW
+ 18 XSAVE 5 + CONSTANT MAS1
+ 19 
+ 20 
+ 21 -->
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 85 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 CODE (SP) 1 # CPX, 0= NOT
+  5     IF, MAS1 LSR, MAS1 LSR,
+  6  ZK )Y LDA, MAS1 AND,
+  7        MAS1 ASL, MAS1 ASL,
+  8  ELSE, NK LDA, THEN, RTS, C;
+  9 CODE (SL) 2 # CPX, 0= NOT
+ 10     IF, MAS1 ASL, MAS1 ASL,
+ 11   ZK )Y LDA, MAS1 AND,
+ 12     MAS1 LSR, MAS1 LSR,
+ 13  ELSE, PK LDA, THEN, RTS, C;
+ 14 
+ 15 CODE (MVS)
+ 16   MAS1 LDA, 255 # EOR,
+ 17   DK )Y AND, CHW STA, MAS1 LDA,
+ 18   ZK )Y AND, 0=
+ 19 IF,
+ 20   MAC (SL) 0 # CMP, 0= NOT
+ 21   IF, CHW LDA, DK )Y STA,
+ 22   ELSE, RCM LDA, 3 # CMP, 0=
+ 23    IF,
+ 24    MAC (SP) 0 # CMP, 0= NOT
+ 25    IF, CHW LDA, DK )Y STA, THEN,
+ 26    THEN,
+ 27   THEN,
+ 28 ELSE, CLC, CHW ADC, DK )Y STA,
+ 29 THEN, MAS1 LSR, MAS1 LSR,
+ 30  RTS, C; -->
+ 31 
+
+SCR # 86 ( TXT )
+  0 
+  1 
+  2 
+  3 CODE MVPL
+  4    192 # LDA, MAS1 STA,
+  5    2 # LDX, MAC (MVS)
+  6    0 # LDX, MAC (MVS)
+  7    MAC (MVS)
+  8    1 # LDX, MAC (MVS) RTS, C;
+  9 
+ 10 
+ 11 CODE (MVS1)
+ 12 
+ 13   MAS1 LDA, ZK )Y AND, CHW STA,
+ 14   0= NOT IF, MAS1 LDA,
+ 15   255 # EOR, DK )Y AND, CHW ORA,
+ 16   DK )Y STA, THEN,
+ 17   MAS1 LSR, MAS1 LSR,
+ 18   RTS, C;
+ 19 
+ 20     -->
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 87 ( TXT )
+  0 
+  1 
+  2 CODE (CM)
+  3  0 # LDA, NK STA, LIC LDY,
+  4  RCM LDA, 0=
+  5 IF, BEGIN, DEY, ZK )Y LDA,
+  6      DK )Y STA, 0 # CPY, 0=
+  7      UNTIL,
+  8 ELSE,
+  9  RCM LDA, 1 # CMP, 0=
+ 10  IF, BEGIN, DEY,
+ 11      192 # LDA, MAS1 STA,
+ 12      MAC (MVS1) MAC (MVS1)
+ 13      MAC (MVS1) MAC (MVS1)
+ 14      0 # CPY, 0=
+ 15      UNTIL,
+ 16  ELSE,
+ 17   BEGIN,
+ 18    DEY, 0= IF, 0 # LDA, ELSE,
+ 19    DEY, 3 # LDA, ZK )Y AND,
+ 20    INY, THEN,
+ 21    PK STA, MAC MVPL
+ 22    192 # LDA, ZK )Y AND,
+ 23    NK STA, 0 # CPY, 0=
+ 24   UNTIL,
+ 25  THEN,
+ 26 THEN, RTS, C;
+ 27 
+ 28 ( przenosi pojedyncze linie   )
+ 29 ( o dlugosci zapisanej w LIC  )
+ 30 
+ 31 -->
+
+SCR # 88 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 0 VARIABLE CIL
+  8 CODE (CCM) XSAVE STX,
+  9    P-CCM 4 + LDA, LIC STA,
+ 10    P-CCM 5 + LDA, CIL STA,
+ 11    P-CCM LDA, ZK STA,
+ 12    P-CCM 1+ LDA, ZK 1+ STA,
+ 13    P-CCM 2+ LDA, DK STA,
+ 14    P-CCM 3 + LDA, DK 1+ STA,
+ 15   BEGIN,
+ 16    MAC (CM)
+ 17 
+ 18    LIC LDA, +DOD STA, MAC ZK+
+ 19    P-CCM 6 + LDA,
+ 20    +DOD STA,
+ 21    P-CCM 7 + LDA,
+ 22    +DOD 1+ STA,
+ 23    MAC DK+
+ 24    CIL DEC, 0=
+ 25   UNTIL, XSAVE LDX, RTS, C;
+ 26 CODE C-V    MAC (CCM)
+ 27      NEXT JMP, C;
+ 28 FORTH DEFINITIONS
+ 29 ( zapisuje objekt zgodnie z   )
+ 30 ( parametrami podanymi w P-CCM )
+ 31   -->
+
+SCR # 89 ( TXT )
+  0  ( ----- )
+  1 
+  2 
+  3 : CCMOV CC# C-V FORTH ;
+  4 
+  5 
+  6 
+  7  40 P-CCM 6 + !
+  8  ( wpisanie kroku )
+  9 
+ 10 
+ 11 : ZD-CCM! P-CCM 2+ ! P-CCM !
+ 12           ;
+ 13 ( ZK DK ---   wpisuje wartosci )
+ 14  ( zkad dokad do P-CCM     )
+ 15 
+ 16 : XY-CCM! P-CCM 5 + C! P-CCM
+ 17        4 + C! ;
+ 18 
+ 19  ( wpisuje rozmiary objektu   )
+ 20  ( do P-CCM   )
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 90 ( TXT )
+  0  ( POSOBJ ?OBJ ?PCOBJ    17 )
+  1 
+  2  084 LOAD" CCMOV
+  3 
+  4 : POSOBJ P-CCM 6 + @ * +
+  5     ADGR @ + P-CCM 2+ ! ;
+  6 
+  7 ( X Y ---  to samo co POS     )
+  8 (   dla trybu tekstowego lecz )
+  9 (   X bajtowo     )
+ 10 : ?OBJ DUP @ P-CCM 4 + !
+ 11      2+ P-CCM ! CCMOV ;
+ 12 
+ 13 ( ADR ---  wyswietla na ekranie
+ 14 (  objekt zapisany pod adresem
+ 15 (  ADR poprzedzony dwoma
+ 16 (  bajtami rozmiaru objektu   )
+ 17 : ?POBJ DUP OXY POSOBJ
+ 18        2+ ?OBJ ;
+ 19 708 VARIABLE ADC
+ 20   5 VARIABLE ILC
+ 21   : ?PCOBJ DUP OUNT + 1 - >R
+ 22    R C@ 1 > IF FIRST <MO
+ 23    FIRST ?POBJ ELSE 2+ ?POBJ
+ 24    ENDIF R C@ 2 MOD
+ 25    IF R % 5 - ADC @ ILC @
+ 26     CMOVE ENDIF R> DROP ;
+ 27 ( ADRD --- wyswietla obiekt
+ 28 (  ze zmiennej DYNAMIC :
+ 29 ( DLU|X|Y|Xd|Yd|objekt|KOLORY|Z
+ 30  )
+ 31 
+
+SCR # 92 ( TXT )
+  0  ( <MOVE                 17 )
+  1 
+  2  008 LOAD" L-
+  3 
+  4 CODE PEN ZK )Y LDA, 254 # CMP,
+  5   0= IF, +DOD STY, MAC L-
+  6       MAC ZK+ MAC DK+
+  7       1 # LDY, ZK )Y LDA,
+  8       +DOD STA,
+  9       2 # LDY, ZK )Y LDA,
+ 10       0 # LDY,
+ 11       BEGIN,
+ 12         DK )Y STA,
+ 13         INY, +DOD CPY, 0=
+ 14       UNTIL, 0 # LDY,
+ 15       MAC DK+ 3 # LDA, +DOD STA,
+ 16       MAC ZK+ MAC L- 0 # LDX,
+ 17      ELSE,
+ 18         DK )Y STA,
+ 19         INY, 1 # LDX,
+ 20      THEN, RTS, C;
+ 21 
+ 22 
+ 23                         -->
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 93 ( TXT )
+  0  ( --- )
+  1 
+  2 CODE <M XSAVE STX, MAC WD
+  3       0 # LDA, +DOD 1+ STA,
+  4    BEGIN, LIC 1+ LDA, 0=
+  5     IF, 0 # LDY,
+  6      BEGIN, MAC PEN LIC CPY, 0=
+  7      UNTIL, XSAVE LDX, RTS,
+  8     ELSE, 0 # LDY,
+  9      BEGIN, MAC PEN 0 # CPY, 0=
+ 10      UNTIL, 1 # CPX, 0=
+ 11      IF, LIC 1+ DEC, ZK 1+ INC,
+ 12      DK 1+ INC, THEN,
+ 13     THEN,  1 # LDA, 0=
+ 14    UNTIL, C;
+ 15 
+ 16 ( zk dk dl --- zk dk dl       )
+ 17  CODE (<M) MAC <M INX, INX,
+ 18        POPTWO JMP, C;
+ 19 ( zk dk dl ---                )
+ 20 
+ 21  007 LOAD" OUNT
+ 22 
+ 23 : <MOVE >R OUNT R> SWAP (<M) ;
+ 24 
+ 25 ( ZK DK ---   przenosi ciag   )
+ 26 ( zakodowany przez >MOVE      )
+ 27 ( z adresu ZK pod adres DK    )
+ 28 ( z dekodacja                 )
+ 29 ( <MOV0 nie przenosi 0        )
+ 30 
+ 31 
+
+SCR # 94 ( TXT )
+  0  ( >MOVE            17 )
+  1 
+  2  008 LOAD" L-
+  3 
+  4 0 VARIABLE PAM
+  5 0 VARIABLE PAM0
+  6 CODE 3ZN 254 # LDA,  DK )Y STA,
+  7      TXA, INY, DK )Y STA,
+  8      PAM LDA, INY,
+  9    DK )Y STA, 3 # LDA, RTS, C;
+ 10 
+ 11 CODE >M 0 # LDY, PAM LDA,
+ 12         1 # CPX, 0=
+ 13   IF, 254 # CMP, 0=
+ 14     IF, MAC 3ZN
+ 15     ELSE, DK )Y STA, 1 # LDA,
+ 16     THEN, +DOD STA, MAC DK+
+ 17   ELSE,
+ 18     2 # CPX, 0=
+ 19     IF, 254 # CMP, 0=
+ 20       IF, MAC 3ZN
+ 21       ELSE, PAM0 LDA, DK )Y STA,
+ 22        INY, PAM LDA, DK )Y STA,
+ 23        2 # LDA,
+ 24       THEN, +DOD STA, MAC DK+
+ 25       1 # LDX,
+ 26     ELSE, MAC 3ZN +DOD STA,
+ 27       MAC DK+ 1 # LDX,
+ 28     THEN,
+ 29   THEN, RTS, C;
+ 30    -->
+ 31 
+
+SCR # 95 ( TXT )
+  0  ( ---- )
+  1 
+  2 CODE >MO XSAVE STX, MAC WD
+  3        1 # LDX,
+  4   BEGIN, 0 # LDY,
+  5    ZK )Y LDA, PAM STA, 1 # LDA,
+  6    +DOD STA, MAC ZK+ MAC L-
+  7    LIC LDA, LIC 1+ ORA, 0=
+  8    IF, MAC >M XSAVE LDX,
+  9        POP JMP,
+ 10    ELSE, ZK )Y LDA, PAM CMP, 0=
+ 11     IF, 0 # LDA, ELSE, 1 # LDA,
+ 12     THEN,
+ 13     255 # CPX, 0= IF, 1 # LDA,
+ 14     THEN, 1 # CMP, 0=
+ 15     IF, MAC >M ELSE, INX,
+ 16      PAM LDA, PAM0 STA,
+ 17     THEN,
+ 18    THEN, 1 # LDA, 0=
+ 19   UNTIL, C;
+ 20 
+ 21 
+ 22 : >MOVE SWAP >R R 2+ SWAP
+ 23      >MO SWAP DROP DK @ SWAP -
+ 24      R> ! ;
+ 25 
+ 26 ( ZK DK DL ---  )
+ 27 ( poprzedza zgeszczenie dwioma
+ 28 ( bajtami dlugosci )
+ 29 
+ 30 
+ 31 
+
+SCR # 100 ( TXT )
+  0   ( ?DL -Display list 017 )
+  1 
+  2 0 VARIABLE ADGR
+  3 
+  4 : DLMOV DUP @ SWAP 2+ SWAP
+  5    BEGIN
+  6      OVER DUP C@ SWAP 1+ C@ *
+  7      OVER + DUP >R SWAP
+  8      DO DUP 2+ OVER C@ I SWAP
+  9        CMOVE DUP C@
+ 10      +LOOP
+ 11      DUP C@ + 2+ R>
+ 12      OVER @ 0=
+ 13    UNTIL 2DROP ;
+ 14 
+ 15 ( ADRzkad --- )
+ 16 
+ 17 : ?DL DUP @ 88 ! 2+ DUP @
+ 18       ADGR ! 2+ DUP DLMOV
+ 19        @ 560 ! ;
+ 20 
+ 21 ( ADR ---  wysyla do dzialania
+ 22 (   display list z adresu ADR
+ 23 (   zapisanego wdlog wzoru
+ 24 (   2b    2b    2b
+ 25 ( |ADTXT|ADGR|ADRdokad||
+ 26 ( |DLU|ILOSC|--|DLU|ILOSC|--|00
+ 27 (  1b   1b   tx 1b   1b   tx
+ 28 ( UWAGA: ZAKANCZAC 00        )
+ 29 
+ 30               -->
+ 31 
+
+SCR # 101 ( TXT )
+  0   ( #O #O1 TYTDL &DL ILL )
+  1 
+  2 0 VARIABLE #O 80 ALLOT
+  3 HEX
+  4 : 0DL [ BC40 , BC40 , BC1D ,
+  5  06 C, 01 C,
+  6   70 C, 70 C, 70 C, 42 C, BC40 ,
+  7  01 C, 17 C,
+  8   02 C,
+  9  03 C, 01 C,
+ 10   41 C, BC1D , 0 , ] ;
+ 11 : TYTDL [ BA20 , A830 , A700 ,
+ 12  09 C, 01 C,
+ 13    70 C, 70 C, 42 C, A800 ,
+ 14    4E C, #O , 0E C,
+ 15  04 C, 37 C,
+ 16    4E C, #O , 0E C,
+ 17  03 C, 01 C,  42 C, BA20 ,
+ 18  01 C, 0B C,  02 C,
+ 19  03 C, 01 C,
+ 20    41 C, A700 , 0 , ] ;
+ 21 
+ 22 A700 06 + CONSTANT &DL
+ 23  ( poczatek lini )
+ 24 38   CONSTANT ILL
+ 25  ( ilosc lini )
+ 26 DECIMAL
+ 27 
+ 28                -->
+ 29 
+ 30 
+ 31 
+
+SCR # 102 ( TXT )
+  0 ( >DL <DL )
+  1 
+  2 0 VARIABLE WPD 2 ALLOT
+  3 ( co wpisac i gdzie )
+  4 0 VARIABLE STD 2 ALLOT
+  5 ( skok co i skok gdzie )
+  6 
+  7 : DLL   0 DO
+  8    WPD @ WPD 2+ @ !
+  9    STD @ OVER +- WPD +!
+ 10    STD 2+ @ OVER +- WPD 2+ +!
+ 11    >R OVER R> SWAP STD +!
+ 12    OVER STD 2+ +!
+ 13    MINUS
+ 14   LOOP 2DROP DROP ;
+ 15 
+ 16 : WS! WPD ! WPD 2+ !
+ 17       STD ! STD 2+ ! ;
+ 18 : >DL
+ 19    [ ILL 1 - 4 * ] LITERAL
+ 20    0 &DL #O  WS!
+ 21     0 -4 1 1 DLL #O WPD !
+ 22     0 -4 -1 ILL 1 - DLL ;
+ 23 : <DL % 4 % 80
+ 24   [ &DL ILL 2 / 1 - 4 * + ]
+ 25   LITERAL
+ 26    ADGR @
+ 27   [ ILL 2 / 1 - 80 * ]
+ 28   LITERAL + WS!
+ 29    % 80 4 1 ILL DLL ;
+ 30       -->
+ 31 
+
+SCR # 103 ( TXT )
+  0   ( wpis do zaslony #O i #O1 )
+  1 
+  2 
+  3 : O!+  >R OVER SWAP R
+  4      SWAP FILL R> + ;
+  5 
+  6 ( ADRES CO ILE --- ADRES+ILE )
+  7 
+  8  #O DECIMAL
+  9   0  4  O!+
+ 10  4 BASE !
+ 11   0022 1 O!+
+ 12   2210 1 O!+
+ 13   1122 DECIMAL 28 O!+
+ 14  4 BASE !
+ 15   0222 1 O!+
+ 16   2100 1 O!+
+ 17   0000 DECIMAL 8 O!+
+ 18  4 BASE !
+ 19   0032 1 O!+
+ 20   2210 1 O!+
+ 21   1122 DECIMAL 28 O!+
+ 22  4 BASE !
+ 23   0322 1 O!+
+ 24   2100 1 O!+
+ 25  DECIMAL
+ 26   0  4 O!+ DROP
+ 27 
+ 28 
+ 29  -->
+ 30 
+ 31 
+
+SCR # 104 ( TXT )
+  0   ( --- )
+  1 
+  2 
+  3 
+  4 
+  5  FORGET O!+
+  6 
+  7           -->
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 105 ( TXT )
+  0 
+  1 
+  2 
+  3            -->
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 106 ( TXT )
+  0 ( GR.15 )
+  1 
+  2 
+  3 : CE % 88 @ 480 ERASE 0 0 POS ;
+  4 
+  5 ( --- czysci czesc tekstowa
+  6 ( i ustawia kursor )
+  7 
+  8 : CG ADGR @ [ 40 114 * ]
+  9      LITERAL ERASE ;
+ 10 
+ 11 : GR.0 ' 0DL ?DL % 125 EMIT ;
+ 12 
+ 13 : GR.15/0 ' TYTDL ?DL
+ 14          CE <DL ;
+ 15 ( --- wywoluje odpowiedni
+ 16 (     tryb i wyswietla ramke
+ 17 (     <DL odslania obraz
+ 18 (     >DL zaslania  )
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 108 ( TXT )
+  0 ( DYN+ >DYN <DYN PAUSE   12 )
+  1 
+  2 
+  3 : 3INP -1 256 3 INPUT< ;
+  4 
+  5 : DYN+ 0 DO DUP @ 2+ + LOOP ;
+  6 
+  7 ( DADR IL --- DADR+IL
+  8 ( oblicza adres elementu
+  9 ( oddalonego o IL od DADR )
+ 10 
+ 11 : >DYN OVER DYN-RES OVER SWAP
+ 12     1+ DYN+ DUP DYN-RES OVER -
+ 13     SWAP ! ;
+ 14 
+ 15 ( DADR IL ---
+ 16 (  laczy IL elementow tablicy
+ 17 (  od elementu DADR w jeden
+ 18 ( element DADR z podelementami )
+ 19 
+ 20  : <DYN DUP 1 DYN+ 2 - DYN-C
+ 21       0 OVER ! DYN-C ;
+ 22 
+ 23 ( DADR ---    zamienia element
+ 24 (  DADR z podelemntami
+ 25 ( w pojedyncze elementy. )
+ 26 
+ 27                         -->
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 109 ( TXT )
+  0 ( #DD >DYNM <DYNM )
+  1 
+  2 
+  3 0 VARIABLE #DD
+  4 
+  5 ( zmienna zawierajaca numer
+  6 ( elementu od ktorego beda
+  7 ( wyswietlane DIR-elementow )
+  8 
+  9 : >DYNM CR S" ZBICIE"
+ 10     CR S" od elementu:" 3INP
+ 11                RAMB CR
+ 12    S" ile elementow:" 3INP DUP
+ 13    IF >DYN ELSE 2DROP ENDIF 0 ;
+ 14 
+ 15 ( ---  laczy elementy w jeden )
+ 16 
+ 17 : <DYNM CR S" ROZBICIE" CR
+ 18     S" elementu nr.:" 3INP
+ 19        RAMB  <DYN 0 ;
+ 20 
+ 21 ( ---  rozbija elemant )
+ 22 
+ 23 : NDD CR
+ 24  S" nowy nr. 1 elementu DIR :"
+ 25  3INP #DD ! 0 ;
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 111 ( TXT )
+  0 ( FREE BEEP )
+  1 
+  2 
+  3 
+  4 BASE @ HEX
+  5 : FREE   2E5 @ HERE -  U. ." byt
+  6 es" CR ;
+  7 
+  8 : BEEP  0C0 0 DO
+  9    08 0D01F C! 6 0 DO LOOP
+ 10    00 0D01F C! 6 0 DO LOOP
+ 11    LOOP ;
+ 12 BASE !
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26                       -->
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 112 ( TXT )
+  0  ( OSF - operacyjny sys forth )
+  1 
+  2 
+  3 
+  4 0 VARIABLE #GGE
+  5 : GGE #GGE @ ;  129 #GGE !
+  6 
+  7 
+  8 ( Zmienna ta posiada ilosc    )
+  9 ( ekranow na dykietce         )
+ 10 : SELECT <BUILDS SMUDGE ] DOES>
+ 11 SWAP 2 * + @ EXECUTE ;
+ 12 
+ 13 CODE INSTR 2 ,X LDA, XSAVE 2+
+ 14   STA, 3 ,X LDA, XSAVE 3 + STA,
+ 15    0 # LDY, BEGIN,
+ 16            XSAVE 2+ )Y LDA,
+ 17      4 ,X CMP, 0= IF,
+ 18              1 # LDA, INY,
+ 19      ELSE, INY, TYA, 0 ,X CMP,
+ 20              0= IF,
+ 21          1 # LDA, 0 # LDY,
+ 22              ELSE, 0 # LDA,
+ 23        THEN,
+ 24            THEN,
+ 25      1 # CMP,
+ 26          0= UNTIL, 4 ,X STY,
+ 27    POPTWO JMP,  END-CODE
+ 28 
+ 29 ( A ADR DLU --- NR            )
+ 30                         -->
+ 31 
+
+SCR # 113 ( TXT )
+  0 
+  1 
+  2 4 CONSTANT 4
+  3 8 CONSTANT 8
+  4 16 CONSTANT 16
+  5 32 CONSTANT 32
+  6 64 CONSTANT 64
+  7 128 CONSTANT 128
+  8  SELECT C2^ 1 2 4 8 16 32 64 128
+  9  ;
+ 10 
+ 11 ( N -- 2^N )     -->
+ 12 127 CONSTANT BNAG
+ 13  0 VARIABLE #FP
+ 14  1 VARIABLE #F
+ 15 
+ 16  : FP2@ #FP @ #F @ AND 0= 0= ;
+ 17  ( --- F )
+ 18  : FP2! >R #F @ #FP @ R>
+ 19        IF OR ELSE XOR ENDIF
+ 20         #FP ! ;
+ 21 ( F --- )
+ 22 : POZ-NAG 8 /MOD
+ 23        BNAG BLOCK + SWAP C2^ ;
+ 24 
+ 25 ( SCR --- ADR WART podaje adres
+ 26 (       ADR gdzie zapisany jest
+ 27 (       naglowek oraz wartosc
+ 28 (      ktora mu odpowiada      )
+ 29 
+ 30 
+ 31 
+
+SCR # 114 ( TXT )
+  0   ( CMOVE> )
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 CODE CMOVE> 2 ,X LDA, XSAVE 2+
+  8  STA, 4 ,X LDA, XSAVE 4 + STA,
+  9      1 ,X LDA, CLC, 5 ,X ADC,
+ 10      XSAVE 5 + STA, 1 ,X LDA,
+ 11      CLC, 3 ,X ADC, XSAVE 3 +
+ 12      STA,
+ 13     BEGIN,
+ 14       0 ,X LDY,
+ 15       BEGIN,
+ 16         DEY, XSAVE 4 + )Y LDA,
+ 17         XSAVE 2+ )Y STA,
+ 18         0 # CPY, 0=
+ 19       UNTIL,
+ 20       XSAVE 5 + DEC, XSAVE 3 +
+ 21       DEC,
+ 22       0 ,X LDA, 0= IF,
+ 23       1 ,X LDA, 0= NOT
+ 24       IF, 1 ,X DEC, THEN, THEN,
+ 25       0 # LDA, 0 ,X STA,
+ 26       1 ,X LDA, 0=
+ 27     UNTIL,
+ 28     INX, INX, XSAVE STX, POPTWO
+ 29     JMP,  END-CODE
+ 30                          -->
+ 31 
+
+SCR # 115 ( TXT )
+  0 
+  1 
+  2                 -->
+  3 0 VARIABLE D$
+  4 : INSTR$ 0 >R D$ !
+  5     BEGIN OVER COUNT >R C@ OVER
+  6       D$ @ R> - R - 1+ SWAP R +
+  7       SWAP INSTR DUP
+  8       0= IF R> DROP >R 1
+  9       ELSE  R> + >R
+ 10       OVER COUNT >R OVER
+ 11      1 - R> SWAP R + SWAP SP$=$
+ 12       ENDIF
+ 13     UNTIL 2DROP R> ;
+ 14 ( ZM$ ADR DLU --- POZ   szuka  )
+ 15 ( slowa ZM$ z bajtem dlugosci  )
+ 16 ( w obszarze od ADR do ADR+DLU )
+ 17 ( daje na stos pozycje POZ )
+ 18 : INSTR$$ COUNT INSTR$ ;
+ 19 
+ 20 VOCABULARY OSF IMMEDIATE
+ 21 OSF DEFINITIONS
+ 22 
+ 23 : POPRAW FP2@ IF
+ 24          BLK @ BLOCK IN @ + HERE
+ 25      C@ -   10 -
+ 26        DUP 3 BLANKS
+ 27        SWAP S->D <# # # # #>
+ 28        >R SWAP R> CMOVE UPDATE
+ 29        FLUSH ELSE DROP ENDIF ;
+ 30 
+ 31   -->
+
+SCR # 116 ( TXT )
+  0 
+  1 
+  2                    -->
+  3 
+  4  : LIN0 PAD SWAP B/SCR * 1 R/W ;
+  5 
+  6 
+  7  : Y-SLO LIN0 HERE PAD 64
+  8      INSTR$ ;
+  9 
+ 10  : SZUK-SLO 0 GGE 1 DO
+ 11      I NAG
+ 12        IF I Y-SLO
+ 13          IF I POPRAW DROP I 1
+ 14          LEAVE
+ 15          ENDIF
+ 16        ENDIF
+ 17      LOOP ;
+ 18 
+ 19  : PH HERE C@ 1+ HERE C!
+ 20       BL HERE DUP C@ + C! ;
+ 21 
+ 22  : F0! PAD BNAG 1 1 -DISK
+ 23        IF 1 #F ! CR
+ 24       ." BLAD DYSKOWY" CR
+ 25         ABORT
+ 26       ENDIF ;
+ 27 
+ 28 
+ 29 
+ 30  -->
+ 31 
+
+SCR # 117 ( TXT )
+  0  ( ------ )
+  1 
+  2 : LOAD" -FIND IF 2DROP DROP
+  3       ELSE LOAD ENDIF ;  -->
+  4  : ?KOMU DUP IF CR HERE
+  5          COUNT TYPE
+  6  ."  SCR# " OVER BASE @
+  7      DECIMAL SWAP . BASE !
+  8             ELSE BEEP CR
+  9       ." Brak na dysku slowa: "
+ 10         HERE COUNT TYPE CR
+ 11   CR ." RETURN-inna dyskietka"
+ 12   CR ." inny klawisz ABORT"
+ 13   KEY 155 =  IF 0 FP2! ELSE
+ 14   1 #F ! ABORT ENDIF
+ 15   ENDIF ;
+ 16 FORTH DEFINITIONS
+ 17  : LOAD" OSF -FIND PH
+ 18     #F @ 2 * #F ! 1 FP2!
+ 19     IF 2DROP DROP
+ 20     ELSE DUP F0! Y-SLO
+ 21       IF LOAD
+ 22       ELSE DROP
+ 23         BEGIN EMPTY-BUFFERS
+ 24           F0! SZUK-SLO ?KOMU
+ 25         UNTIL
+ 26         LOAD
+ 27       ENDIF
+ 28     ENDIF FP2@ 0= IF
+ 29    CR ." Dyskietka 1 i RETURN "
+ 30    KEY DROP ENDIF
+ 31     FORTH #F @ 2 / #F ! ; -->
+
+SCR # 118 ( TXT )
+  0  ( SAVE BDISK - [os] )
+  1 
+  2 : <=< OVER > >R < R> * ;
+  3 : % COMPILE CLIT BL WORD HERE
+  4 NUMBER DROP -1 OVER 256 <=< 0=
+  5      IF CR ." Error: % " DUP .
+  6      ENDIF   C, ; IMMEDIATE
+  7   500 CONSTANT DIRB
+  8   0 VARIABLE S-L
+  9   : BDISK OVER + OVER 1 - OVER
+ 10      DIRB SWAP
+ 11      <=< 0= 0= + SWAP
+ 12      DO I DIRB = IF R> 1+ >R
+ 13                  ENDIF
+ 14       DUP I 1 S-L @ -DISK
+ 15       IF DROP 0 LEAVE
+ 16       ELSE B/BUF + ENDIF
+ 17      LOOP 0= ;
+ 18 ( ADR SEK IL-SEK --- F       )
+ 19 ( zapis i odczyt bloku )
+ 20 
+ 21 
+ 22   36000 CONSTANT HE
+ 23 ( przetrzymuje adres podzialu )
+ 24 
+ 25   0 VARIABLE SP&
+ 26   255 SP& C!
+ 27 
+ 28 ( sektor podziealu i SP& 1+
+ 29 ( ilosc sektorow po podziale )
+ 30            -->
+ 31 
+
+SCR # 119 ( TXT )
+  0  ( --- )
+  1 
+  2 
+  3   : LO+ HE SP& C@ SP& 1+ C@
+  4       1 S-L ! BDISK % 8 ?ERROR
+  5   [ ' CR 2 - ] LITERAL 7884 !
+  6   [ ' HERE 2 - ] LITERAL 10628 !
+  7    CR ;
+  8 
+  9 
+ 10   : SAVE HERE HE U<
+ 11    IF SAVE
+ 12    ELSE
+ 13   [ ' LO+ 2 - ] LITERAL 7884 !
+ 14   [ ' HE 2 -  ] LITERAL 10628 !
+ 15     HERE HE - % 128 / 1+
+ 16     SP& 1+ C! SAVE
+ 17     HE SP& C@ SP& 1+ C@
+ 18     0 S-L ! BDISK % 8 ?ERROR
+ 19   [ ' CR 2 - ] LITERAL 7884 !
+ 20   [ ' HERE 2 - ] LITERAL 10628 !
+ 21    ENDIF ;
+ 22 
+ 23                    -->
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 120 ( TXT )
+  0 ( ASC-PEEK )
+  1 
+  2 CODE ASC-PEEK XSAVE STX, 0 ,X
+  3      LDA,      TAY, INX, INX,
+  4          0 ,X LDA, XSAVE 2+ STA,
+  5                INX,
+  6         0 ,X LDA, XSAVE 3 + STA,
+  7     BEGIN,
+  8       DEY, XSAVE 2+ )Y LDA,
+  9      1 # LDX, 128 # CMP, 0<
+ 10       IF, 32  # CMP,
+ 11           0< IF,
+ 12            0 # LDX, THEN,
+ 13             ELSE,
+ 14         32 128 + # CMP, 0< IF, 0
+ 15  # LDX,        THEN,
+ 16       THEN, 0 # CPX, 0= IF, CLC,
+ 17  64 # ADC, CLC, ELSE,
+ 18        128 # CMP, 0< IF, 96   #
+ 19 CMP,
+ 20          0< IF, SEC, 32 # SBC,
+ 21 CLC, THEN,   ELSE,
+ 22          96 128 + # CMP, 0< IF,
+ 23 SEC, 32 # SBC, CLC, THEN,
+ 24        THEN,
+ 25             THEN,
+ 26     XSAVE 2+ )Y STA, 0 # CPY, 0=
+ 27         UNTIL,
+ 28    XSAVE LDX, POPTWO JMP,
+ 29        END-CODE
+ 30 : PEEK-ASC OVER OVER % 2 % 0 DO
+ 31 ASC-PEEK LOOP ;  -->
+
+SCR # 121 ( TXT )
+  0 ( X@ Y@ POS STYPE S" 0.R )
+  1 
+  2 
+  3 
+  4 : X! % 85 ! ;
+  5 : Y! % 84 C! ;
+  6 : X@ % 85 @ ;
+  7 : Y@ % 84 C@ ;
+  8 : POS Y! X! ;
+  9 
+ 10 : STYPE OVER OVER ASC-PEEK
+ 11         OVER OVER DUP >R % 88
+ 12         @ % 85 @ DUP >R + % 84
+ 13         C@ % 40 * + SWAP R> R>
+ 14        + 85 ! % 30 EMIT 31 EMIT
+ 15        CMOVE PEEK-ASC ;
+ 16 
+ 17 : (S") R COUNT DUP 1+ R> + >R
+ 18        STYPE ;
+ 19 
+ 20 : S" [ ' (S") CFA ] LITERAL
+ 21     [ ' ." 13 + ] LITERAL !
+ 22     [COMPILE] ."
+ 23     [ ' (.") CFA ] LITERAL
+ 24     [ ' ." 13 + ] LITERAL ! ;
+ 25     IMMEDIATE
+ 26 48 CONSTANT ZERO
+ 27 
+ 28 : 0.R ' ZERO CFA ' SPACE ! .R '
+ 29 BL CFA ' SPACE ! ;
+ 30 
+ 31 
+
+SCR # 127 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 29 FF FF FF FF FF FF FF 0 7F FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 30 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 31 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 30 1 0 0 0 0 

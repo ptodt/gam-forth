@@ -1,0 +1,544 @@
+
+SCR # 0 ( HEX/DATA )
+  0 43 3 0 7 40 15 A9 3 29 F 8D 7 7 A9 0 8D FE 7 8D E3 7 85 9 20 55 7 A0 4 A9 0 A6 24 
+  1 8E 4 3 A6 25 8E 5 3 E0 A 90 3 CE FE 7 18 A2 0 F0 1C 20 67 7 30 17 A9 7D 20 5D 7 A0 0 
+  2 B1 24 29 3 AA C8 11 24 F0 8 B1 24 A8 8A 10 CE A9 C0 A A8 60 A9 8 85 25 A9 40 85 24 18 65 24 
+  3 85 24 90 2 E6 25 60 8D B 3 8C A 3 A9 52 A0 40 90 4 A9 57 A0 80 8D 2 3 8C 3 3 A0 5 8C 
+  4 6 3 A9 31 8D 0 3 20 EE 7 B0 E AD B 3 D0 9 AD A 3 C9 4 B0 2 A2 1 A9 80 18 CA F0 1 
+  5 A 8D 8 3 2A 8D 9 3 20 F4 7 A6 2E AD 3 3 60 A5 47 A6 48 8D 4 3 8E 5 3 60 A0 4E 20 E7 
+  6 9 A9 C 2C A9 1 8D 8 3 A2 0 8E 9 3 E8 8E 6 3 20 E8 7 4C 59 E4 0 0 4C 3B 17 4C F4 7 
+  7 4C 9 B 0 0 0 0 0 A9 43 A2 1B D0 C7 AD 1 3 C9 5 60 20 EE 7 90 3 4C 45 A A8 A9 E0 4C 
+  8 D5 7 E5 1C D0 3C A2 B BD 0 3 48 CA 10 F9 A0 48 A9 20 8D A 3 A2 0 8E B 3 20 E9 9 20 C4 
+  9 7 A0 3F 20 E7 9 20 C4 7 30 4 AD 43 1B 2C A9 28 AC 1 3 99 E2 7 A2 0 68 9D 0 3 E8 E0 C 
+ 10 D0 F7 98 9 30 8D 3A 2 AD A 3 8D 3C 2 AD B 3 8D 3D 2 AD 2 3 8D 3B 2 B9 E2 7 8D 4 D2 
+ 11 A2 0 8E 6 D2 E8 86 37 BA 86 39 78 A9 D 85 36 A9 0 85 30 85 38 A9 3A 85 32 A9 2 85 33 A9 4 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 
+SCR # 2 ( TXT )
+  0  ( PICK TOVER KOVER )
+  1 
+  2 
+  3 CODE (PICK) XSAVE STX, 0 ,X LDA,
+  4  .A ASL, CLC,
+  5           2 # ADC, CLC, XSAVE
+  6 ADC, XSAVE 2+ STA,
+  7           XSAVE 2+ LDX, INX, 0
+  8  ,X LDA,
+  9           XSAVE LDX, INX, 0 ,X
+ 10  STA,
+ 11  XSAVE 2+ LDX, 0 ,X LDA, XSAVE
+ 12  LDX, 0 ,X STA, RTS, C;
+ 13 CODE PICK MAC (PICK) NEXT JMP,
+ 14  C;
+ 15 CODE TOVER 2 # LDA, DEX, DEX, 0
+ 16 ,X STA, MAC (PICK) NEXT JMP, C;
+ 17 
+ 18  CODE KOVER 3 # LDA, DEX, DEX,
+ 19  0 ,X STA, MAC (PICK)
+ 20  NEXT JMP, C;
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 ( NR ---  kopiuje liczbe
+ 26 (     znajdujaca sie na stosie
+ 27 (    w odleglosci NR od szczytu
+ 28 (    na szczyt.
+ 29 ( TOVER  trzecia od szczytu
+ 30 ( KOVER  czwarta od szczytu
+ 31 
+
+SCR # 14 ( TXT )
+  0  ( Message )
+  1 
+  2 Stos pusty
+  3 
+  4 Slownik pelny
+  5 
+  6 Zly tryb adresowania
+  7 
+  8 Nie jedyne
+  9 
+ 10 Blad wartosci
+ 11 
+ 12 Bledny adres na dysku
+ 13 
+ 14 Stos pelny
+ 15 
+ 16 Blad dyskowy
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 15 ( TXT & HEX/DATA )
+  0  ( Message )
+  1 
+  2 Tylko w definicjach
+  3 
+  4 Tylko w fazie wykonania
+  5 
+  6 Brak pary slow
+  7 
+  8 Definicja nie zakonczona
+  9 
+ 10 W slowniku chronoinym
+ 11 
+ 12 Tylko podczas ladowania
+ 13 
+ 14 Poza biezacym ekranem
+ 15 
+ 16 Zadeklaruj VOCABULARY
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 4 C0 FF 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+SCR # 16 ( TXT )
+  0  ( IRON NAPPY )
+  1 
+  2 : CAS ;
+  3 
+  4  002 LOAD" TOVER
+  5 
+  6 
+  7 : =<> >R SWAP R> <=< ;
+  8 
+  9 
+ 10 : CARRAY2 <BUILDS OVER , * ALLOT
+ 11          DOES> DUP @ ROT
+ 12          * + + 2+ ;
+ 13 
+ 14 255 CONSTANT POZA
+ 15 10 CONSTANT MAXP
+ 16 
+ 17 MAXP MAXP CARRAY2 BANK
+ 18 
+ 19 : BANK@ DUP -1 MAXP =<> TOVER
+ 20      -1 MAXP =<> *
+ 21      IF BANK C@
+ 22      ELSE 2DROP POZA ENDIF ;
+ 23 
+ 24   ( X Y --- WART )
+ 25 
+ 26 : BANK! BANK C! ;
+ 27 
+ 28   ( WART X Y --- )
+ 29 
+ 30  -->
+ 31 
+
+SCR # 17 ( TXT )
+  0  ( C-BANK LI>XY )
+  1 
+  2 -1 CONSTANT -1
+  3  0 CONSTANT TLO
+  4  1 CONSTANT POLE
+  5 
+  6 
+  7 : C-BANK 0 0 BANK MAXP MAXP *
+  8       TLO  FILL ;
+  9 
+ 10 
+ 11 
+ 12 SELECT LI>X 0 -1 0 1 1 1 0 -1 -1
+ 13  ;
+ 14 SELECT LI>Y 0 -1 -1 -1 0 1 1 1 0
+ 15  ;
+ 16 
+ 17 : LI>XY DUP >R SWAP >R LI>X + R>
+ 18         R> LI>Y + ;
+ 19 
+ 20 ( X Y LICZBA --- X-+1 Y-+1     )
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 -->
+ 29 
+ 30 
+ 31 
+
+SCR # 18 ( TXT )
+  0  ( XY>POS ?BANK )
+  1 
+  2 : ?POLE 2DUP POS S"    " 1+
+  3         POS S"    " ;
+  4 
+  5 : ?TLO 2DUP POS S"    " 1+ POS
+  6       S"    " ;
+  7 
+  8 : ?MUR 2DUP POS S" ???" 1+ POS
+  9       S" ???" ;
+ 10 
+ 11 : ?A 2DUP POS S" ???" 1+ POS
+ 12      S" ???" ;
+ 13 
+ 14 : ?B 2DUP POS S" ***" 1+ POS
+ 15      S" ***" ;
+ 16 
+ 17 SELECT ?CO ?TLO ?POLE ?MUR ?A ?B
+ 18  ;
+ 19 
+ 20 : XY>POS 2 * 2 + SWAP 3 * % 5 +
+ 21       SWAP ;
+ 22 ( X Y --- XPOS YPOS            )
+ 23 
+ 24 
+ 25 : ?BANK 2DUP BANK C@ >R XY>POS
+ 26      R> ?CO ;
+ 27 ( X Y --- rysuje rzecz ktora   )
+ 28 (   jest wpisana w BANK        )
+ 29 
+ 30  -->
+ 31 
+
+SCR # 19 ( TXT )
+  0  ( RND XY@ XY! )
+  1 
+  2 0 VARIABLE RANDOM
+  3 
+  4 : RND1 RANDOM @ 2011 * 5 +
+  5        32767 AND DUP RANDOM ! ;
+  6 
+  7 : RND RND1 32767 */ ;
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 0 VARIABLE XY 2 ALLOT
+ 14 : XY@ XY @ XY 2+ @ ;
+ 15 : XY! XY 2+ ! XY ! ;
+ 16 
+ 17 752 CONSTANT CRSINH
+ 18 : ONKUR 0 CRSINH C! ;
+ 19 : OFFKUR 1 CRSINH C! ;
+ 20 : P88 % 40 * % 88 +! ;
+ 21 
+ 22 (  N --- przesuwa obsluge insr.
+ 23 (       POS o N lini w gore lub
+ 24 (       w dol w zaleznosci od
+ 25 (       znaku.                )
+ 26    -->
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 20 ( TXT )
+  0  ( RND<>    )
+  1 
+  2 
+  3 : RND<> OVER - 1+ RND + ;
+  4 
+  5 ( MIN MAX --- LOS )
+  6 
+  7 
+  8 0 VARIABLE XMIN
+  9 0 VARIABLE XMAX
+ 10 0 VARIABLE YMIN
+ 11 0 VARIABLE YMAX
+ 12 
+ 13 
+ 14 SELECT XYM YMIN XMAX YMAX XMIN ;
+ 15 
+ 16 SELECT >CZY< < > > < ;
+ 17 
+ 18 : MM! >R DUP R XYM @ R >CZY<
+ 19      IF R XYM ! ELSE DROP ENDIF
+ 20      R> DROP ;
+ 21 
+ 22 
+ 23 ( WAR NR --- wpisuje WAR do    )
+ 24 (    zmiennej zaleznej od NR   )
+ 25 (    gdy WAR>MAX lub WAR<MIN  )
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 -->
+ 31 
+
+SCR # 21 ( TXT )
+  0  ( MM@ GRANICE X<>Y )
+  1 
+  2 
+  3 
+  4 : XMM@ XMIN @ XMAX @ ;
+  5 : YMM@ YMIN @ YMAX @ ;
+  6 
+  7 SELECT MM@ XMM@ YMM@ XMM@ YMM@ ;
+  8 
+  9 : G> MAXP 0 1 ;
+ 10 : G< -1 MAXP 1 - -1 ;
+ 11 
+ 12 SELECT GRANICE G> G< G< G> ;
+ 13 
+ 14 
+ 15 ( NR --- DO OD STEP  )
+ 16 
+ 17 : NIC ;
+ 18 
+ 19 SELECT X<>Y NIC SWAP NIC SWAP ;
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28   -->
+ 29 
+ 30 
+ 31 
+
+SCR # 22 ( TXT )
+  0  ( INIC-MM L-P )
+  1 
+  2 
+  3 
+  4 : INIC-MM MAXP 1 - 2 / 4 0 DO
+  5         DUP I XYM ! LOOP DROP ;
+  6 
+  7 ( --- inicjuje zmienne XMAX    )
+  8 (      XMIN YMAX YMIN         )
+  9 
+ 10 
+ 11 : L-P >R 0 BEGIN DROP R MM@
+ 12        RND<> DUP R GRANICE DROP
+ 13        SWAP DROP R X<>Y BANK C@
+ 14        TLO = UNTIL R> DROP ;
+ 15 
+ 16 
+ 17 ( NR --- LOS   losuje parametr )
+ 18 (  X lub Y uwzgledniajac czy   )
+ 19 ( nie ma pola na bzegu planszy )
+ 20 
+ 21 
+ 22 
+ 23        -->
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 23 ( TXT )
+  0  ( LOS-POLA )
+  1 
+  2 
+  3 0 VARIABLE STEP
+  4 0 VARIABLE RR
+  5 : RR@ RR @ ;
+  6 
+  7 : LOS-1P RR ! RR@ L-P RR@
+  8        GRANICE STEP !
+  9       DO
+ 10         DUP I RR@ X<>Y BANK C@
+ 11         POLE =
+ 12          IF
+ 13            DUP I STEP @ -1 * +
+ 14            DUP RR@ MM! RR@ X<>Y
+ 15            POLE TOVER TOVER
+ 16            BANK! ?BANK LEAVE
+ 17          ENDIF
+ 18         STEP @
+ 19       +LOOP DROP ;
+ 20 
+ 21 ( NR --- )
+ 22 
+ 23 : LOS-POLA INIC-MM C-BANK
+ 24        OFFKUR   MAXP 1 - 2 /
+ 25     DUP POLE TOVER TOVER BANK!
+ 26         ?BANK 0 DO I 4 MOD
+ 27         LOS-1P LOOP ;
+ 28 
+ 29 ( ILOSC-POL --- )
+ 30    -->
+ 31 
+
+SCR # 24 ( TXT )
+  0  ( L-M MUR AA BB LOS-MURY )
+  1 
+  2 : L-M 0 0 BEGIN 2DROP 0 MM@
+  3       RND<> 1 MM@ RND<> 2DUP
+  4       BANK C@ POLE = UNTIL ;
+  5 
+  6 ( --- LOSX LOSY )
+  7 
+  8 3 CONSTANT AA
+  9 4 CONSTANT BB
+ 10 2 CONSTANT MUR
+ 11 : 2TOVER TOVER TOVER ;
+ 12 
+ 13 : CZY-AB >R DUP AA = OVER BB = +
+ 14         IF R 2 MOD 0= 4 * RR +!
+ 15         ENDIF R> DROP ;
+ 16 
+ 17 : LOS-1M 0 0 BEGIN 2DROP 0 RR !
+ 18     L-M 2DUP % 8 LI>XY BANK C@
+ 19     POLE = STEP ! 9 1
+ 20     DO
+ 21       STEP @ 2TOVER I LI>XY
+ 22       BANK C@ I CZY-AB POLE =
+ 23       DUP STEP ! = 0= RR +!
+ 24     LOOP RR@ 3 < UNTIL MUR
+ 25        2TOVER BANK! ?BANK ;
+ 26 : LOS-MURY 0 DO LOS-1M
+ 27           LOOP ;
+ 28 
+ 29 ( ILOSC --- losuje murki   )
+ 30 -->
+ 31 
+
+SCR # 25 ( TXT )
+  0  ( AA BB LOS-AB PLANSZA  )
+  1 
+  2 
+  3 
+  4 : LOS-1AB 0 0 BEGIN 2DROP
+  5          L-M 0 10 2
+  6         DO
+  7          2TOVER I LI>XY BANK C@
+  8          POLE = +
+  9         2 +LOOP 2 > UNTIL ;
+ 10 
+ 11 : LOS-A LOS-1AB AA 2TOVER BANK!
+ 12         ?BANK ;
+ 13 
+ 14 : LOS-B LOS-1AB BB 2TOVER BANK!
+ 15         ?BANK ;
+ 16 
+ 17 : LOS-AB 0 DO LOS-A LOS-B LOOP ;
+ 18 
+ 19 ( ILOSC ---  losuje elementy  )
+ 20 (            A i B            )
+ 21 
+ 22 : PLANSZA DUP LOS-POLA 4 /
+ 23        1 LOS-AB LOS-MURY ;
+ 24 
+ 25 ( ILOSC ---  inicjuje plansze  )
+ 26 (       z podana liczba pol    )
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 44 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 2 F3 3 C3 2 0 0 0 0 0 F FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 29 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 0 7F FF FF FF FF FF FF FF 
+ 30 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 31 FF FF FF FF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 127 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 29 FF FF FF FF FF FF FF 0 7F FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 30 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 31 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 30 1 0 0 0 0 

@@ -1,0 +1,4386 @@
+
+SCR # 0 ( HEX/DATA )
+  0 43 3 0 7 40 15 A9 3 29 F 8D 7 7 A9 0 8D FE 7 8D E3 7 85 9 20 55 7 A0 4 A9 0 A6 24 
+  1 8E 4 3 A6 25 8E 5 3 E0 A 90 3 CE FE 7 18 A2 0 F0 1C 20 67 7 30 17 A9 7D 20 5D 7 A0 0 
+  2 B1 24 29 3 AA C8 11 24 F0 8 B1 24 A8 8A 10 CE A9 C0 A A8 60 A9 8 85 25 A9 40 85 24 18 65 24 
+  3 85 24 90 2 E6 25 60 8D B 3 8C A 3 A9 52 A0 40 90 4 A9 57 A0 80 8D 2 3 8C 3 3 A0 5 8C 
+  4 6 3 A9 31 8D 0 3 20 EE 7 B0 E AD B 3 D0 9 AD A 3 C9 4 B0 2 A2 1 A9 80 18 CA F0 1 
+  5 A 8D 8 3 2A 8D 9 3 20 F4 7 A6 2E AD 3 3 60 A5 47 A6 48 8D 4 3 8E 5 3 60 A0 4E 20 E7 
+  6 9 A9 C 2C A9 1 8D 8 3 A2 0 8E 9 3 E8 8E 6 3 20 E8 7 4C 59 E4 0 0 4C 3B 17 4C F4 7 
+  7 4C 9 B 0 0 0 0 0 A9 43 A2 1B D0 C7 AD 1 3 C9 5 60 20 EE 7 90 3 4C 45 A A8 A9 E0 4C 
+  8 D5 7 E5 1C D0 3C A2 B BD 0 3 48 CA 10 F9 A0 48 A9 20 8D A 3 A2 0 8E B 3 20 E9 9 20 C4 
+  9 7 A0 3F 20 E7 9 20 C4 7 30 4 AD 43 1B 2C A9 28 AC 1 3 99 E2 7 A2 0 68 9D 0 3 E8 E0 C 
+ 10 D0 F7 98 9 30 8D 3A 2 AD A 3 8D 3C 2 AD B 3 8D 3D 2 AD 2 3 8D 3B 2 B9 E2 7 8D 4 D2 
+ 11 A2 0 8E 6 D2 E8 86 37 BA 86 39 78 A9 D 85 36 A9 0 85 30 85 38 A9 3A 85 32 A9 2 85 33 A9 4 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 1 ( TXT )
+  0  ( <=<  % )
+  1 
+  2 
+  3 : <=< OVER > >R < R> * ;
+  4 
+  5 
+  6 ( A B C --- f   sprawdza czy B
+  7 (          nalezy do przedzialu
+  8 (          A<B<C .
+  9 
+ 10 
+ 11 
+ 12 : % COMPILE CLIT BL WORD HERE NU
+ 13 MBER DROP -1 OVER 256 <=< 0=
+ 14      IF CR ." Error: % " DUP . E
+ 15 NDIF         C, ; IMMEDIATE
+ 16 
+ 17 
+ 18 ( --- Liczba   wpisuje liczbe
+ 19 (      jednobajtowa w slowo
+ 20 (      za pomoca CLIT
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 2 ( TXT )
+  0  ( PICK TOVER KOVER )
+  1 
+  2 
+  3 CODE (PICK) XSAVE STX, 0 ,X LDA,
+  4  .A ASL, CLC,
+  5           2 # ADC, CLC, XSAVE
+  6 ADC, XSAVE 2+ STA,
+  7           XSAVE 2+ LDX, INX, 0
+  8  ,X LDA,
+  9           XSAVE LDX, INX, 0 ,X
+ 10  STA,
+ 11  XSAVE 2+ LDX, 0 ,X LDA, XSAVE
+ 12  LDX, 0 ,X STA, RTS, C;
+ 13 CODE PICK MAC (PICK) NEXT JMP,
+ 14  C;
+ 15 CODE TOVER 2 # LDA, DEX, DEX, 0
+ 16 ,X STA, MAC (PICK) NEXT JMP, C;
+ 17 
+ 18  CODE KOVER 3 # LDA, DEX, DEX,
+ 19  0 ,X STA, MAC (PICK)
+ 20  NEXT JMP, C;
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 ( NR ---  kopiuje liczbe
+ 26 (     znajdujaca sie na stosie
+ 27 (    w odleglosci NR od szczytu
+ 28 (    na szczyt.
+ 29 ( TOVER  trzecia od szczytu
+ 30 ( KOVER  czwarta od szczytu
+ 31 
+
+SCR # 3 ( TXT )
+  0  ( 0ZEGAR! ZEGAR@ PAUSE )
+  1 
+  2 
+  3 : 0ZEGAR! 0 % 19 ! 0 % 18 C! ;
+  4 
+  5 ( ---   zeruje zegar
+  6 
+  7 
+  8 
+  9 : ZEGAR@ % 19 C@ 256 * % 20 C@ +
+ 10  % 18 C@ ;
+ 11 
+ 12 
+ 13 ( --- LD   daje stan zegara
+ 14 (       na stos jako liczbe
+ 15 (       podwojna.
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 : PAUSE 0 DO % 20 C@
+ 21       BEGIN DUP % 20 C@ = 0=
+ 22       UNTIL DROP
+ 23       LOOP ;
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 4 ( TXT )
+  0  ( CCSTEP CCMOVE )
+  1 
+  2 
+  3  002 LOAD" TOVER
+  4 
+  5 
+  6 0 VARIABLE CIL
+  7 0 VARIABLE CSTEP1
+  8 0 VARIABLE CSTEP2
+  9 
+ 10 : CCSTEP CIL ! CSTEP2 ! CSTEP1 !
+ 11          ;
+ 12 
+ 13 ( KROK1 KROK2 ILOSC-KROKOW --- )
+ 14 (     inicjuje slowo CCMOVE    )
+ 15 
+ 16 
+ 17 : CCMOVE CIL @ 0 DO
+ 18          TOVER TOVER TOVER
+ 19        CMOVE >R CSTEP2 @ + SWAP
+ 20        CSTEP1 @ + SWAP R> LOOP
+ 21          2DROP DROP ;
+ 22 
+ 23 
+ 24 ( ZKAD DOKAD DLUGOSC ---       )
+ 25 (     przepisuje bloki pamieci )
+ 26 (     poczatek ktorych jest    )
+ 27 (     pod ZKAD do DOKAD        )
+ 28 (     o dlugosci DLUGOSC       )
+ 29 
+ 30 
+ 31 
+
+SCR # 5 ( TXT )
+  0  ( STRIG STICK )
+  1 
+  2 
+  3 HEX D010 CONSTANT TRIG0
+  4     0278 CONSTANT JSTICK0
+  5 DECIMAL
+  6 
+  7 : STRIG TRIG0 + C@ 1 AND ;
+  8 
+  9 ( NR --- F  NR=0 lub 1  F=0    )
+ 10 (    dla wcisnietego FIRE      )
+ 11 
+ 12 : STICK JSTICK0 + C@ ;
+ 13 
+ 14 ( NR --- LICZBA                )
+ 15 
+ 16 -1 CONSTANT -1
+ 17 SELECT XST 1 1 1 0 -1 -1 -1 0 0
+ 18 0 0 ;
+ 19 SELECT YST 1 -1 0 0 1 -1 0 0 1
+ 20 -1 0 ;
+ 21 
+ 22 : STI>XY 5 - DUP XST SWAP
+ 23          YST ;
+ 24 
+ 25 ( STICK --- Xd Yd )
+ 26 
+ 27 : STI>XY+ STI>XY ROT + >R + R> ;
+ 28 
+ 29 ( X Y STICK --- X+Xd Y+Yd )
+ 30 
+ 31 
+
+SCR # 6 ( TXT )
+  0  ( ARRAY )
+  1 
+  2 
+  3 : ARRAY <BUILDS 2 * ALLOT DOES>
+  4        SWAP 2 * + ;
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 7 ( TXT )
+  0  ( OUNT )
+  1 
+  2 
+  3 : OUNT DUP >R 2+ R> @ ;
+  4 
+  5 ( ADR --- ADR+2 DL            )
+  6 ( zamienia adres adr na adres )
+  7 ( startowy i dlugosc zapisana )
+  8 ( w pierwszych dwoch bajtach  )
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 8 ( TXT )
+  0  ( L- ZK+ DK+ do >move i <move )
+  1 
+  2 
+  3 0 VARIABLE +DOD
+  4 0 VARIABLE LIC
+  5 XSAVE 1+ CONSTANT ZK
+  6 XSAVE 3 + CONSTANT DK
+  7 
+  8 CODE L- PHA, SEC, LIC LDA,
+  9         +DOD SBC, LIC STA,
+ 10      LIC 1+ LDA, +DOD 1+ SBC,
+ 11      LIC 1+ STA, PLA, RTS, C;
+ 12 
+ 13 ( odejmuje od komurki LIC     )
+ 14 ( liczbe zawarta w +DOD       )
+ 15 
+ 16 CODE ZK+
+ 17     PHA, ZK LDA, CLC, +DOD ADC,
+ 18     ZK STA, ZK 1+ LDA,
+ 19     +DOD 1+ ADC, ZK 1+ STA,
+ 20     PLA, RTS, C;
+ 21 
+ 22 ( zwieksz DK o wartosc +DOD   )
+ 23 
+ 24 CODE DK+
+ 25     PHA, DK LDA, CLC, +DOD ADC,
+ 26     DK STA, DK 1+ LDA,
+ 27     +DOD 1+ ADC, DK 1+ STA,
+ 28     PLA, RTS, C;
+ 29 
+ 30  -->
+ 31 
+
+SCR # 9 ( TXT )
+  0  ( ---- )
+  1 
+  2 
+  3 CODE WD
+  4          0 ,X LDA, LIC STA,
+  5          1 ,X LDA, LIC 1+ STA,
+  6          2 ,X LDA, DK STA,
+  7          3 ,X LDA, DK 1+ STA,
+  8          4 ,X LDA, ZK STA,
+  9          5 ,X LDA, ZK 1+ STA,
+ 10        RTS, C;
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 10 ( TXT )
+  0  ( >MOVE )
+  1 
+  2  008 LOAD" L-
+  3 CODE ZAP 0 # LDY, 3 # CPX, 0<
+  4     IF, ZK )Y LDA, DK )Y STA,
+  5     ELSE, 254 # LDA, DK )Y STA,
+  6      ZK )Y LDA, INY, INY,
+  7      DK )Y STA, TXA, DEY,
+  8      DK )Y STA,
+  9     THEN, RTS, C;
+ 10 CODE 3ZN
+ 11      INX, MAC ZAP 2 # LDY,
+ 12      ZK )Y LDA, INY, ZK )Y CMP,
+ 13      0= NOT IF, 0 # LDX, THEN,
+ 14      RTS, C;
+ 15 
+ 16 CODE 1ZN
+ 17      0 # LDY, ZK )Y LDA,
+ 18      254 # CMP, 0=
+ 19   IF, 0 # LDY,
+ 20     254 # LDA, DK )Y STA,
+ 21     INY, INY, DK )Y STA, DEY,
+ 22     1 # LDA, DK )Y STA,
+ 23     3 # LDA, +DOD STA, MAC DK+
+ 24     2 # LDX,
+ 25 
+ 26   ELSE, 2 # LDX, MAC ZAP
+ 27     1 # LDA, +DOD STA, MAC DK+
+ 28   THEN, RTS, C;
+ 29 
+ 30  -->
+ 31 
+
+SCR # 11 ( TXT )
+  0  ( ---- )
+  1 
+  2 CODE 0ZN
+  3     0 # CPX, 0= IF, 2 # LDX,
+  4     3 # LDA, +DOD STA, MAC DK+
+  5     3 # LDA, ELSE, 1 # LDA,
+  6     THEN, +DOD STA, RTS, C;
+  7 
+  8 
+  9 CODE >M XSAVE STX, MAC WD
+ 10      2 # LDX,
+ 11   BEGIN, 0 # LDY, ZK )Y LDA,
+ 12     INY, ZK )Y CMP, 0=
+ 13     IF, INY, ZK )Y CMP, 0=
+ 14     IF, INY, THEN, THEN,
+ 15     3 # CPY, 0=
+ 16    IF, MAC 3ZN ELSE, MAC 1ZN
+ 17      THEN,
+ 18     MAC 0ZN
+ 19    MAC ZK+ MAC L- CLC, LIC LDA,
+ 20     LIC 1+ ADC, 0 # ADC,
+ 21   0= UNTIL, XSAVE LDX,
+ 22      POP JMP, C;
+ 23 
+ 24 : >MOVE SWAP >R R 2+ SWAP
+ 25      >M SWAP DROP DK @ SWAP -
+ 26      R> ! ;
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 12 ( TXT )
+  0  ( <MOVE <MOVE0 )
+  1 
+  2  000 LOAD" L-
+  3 0 VARIABLE M#
+  4 CODE SA PHA, M# LDA, 0= IF,
+  5     PLA, 0 # CMP, 0= NOT
+  6     IF, DK )Y STA, THEN,
+  7     ELSE, PLA, DK )Y STA, THEN,
+  8     RTS, C;
+  9 CODE <M XSAVE STX, MAC WD
+ 10   BEGIN, 0 # LDY,
+ 11    ZK )Y LDA, 254 # CMP, 0=
+ 12    IF, INY, ZK )Y LDA, TAX,
+ 13      INY, ZK )Y LDA, 0 # LDY,
+ 14      BEGIN, MAC SA
+ 15        INY, DEX, 0=
+ 16      UNTIL,
+ 17      +DOD STY, MAC DK+
+ 18      3 # LDA, +DOD STA, MAC ZK+
+ 19      MAC L-
+ 20    ELSE,
+ 21      MAC SA  1 # LDA,
+ 22      +DOD STA, MAC DK+ MAC ZK+
+ 23      MAC L-
+ 24    THEN,
+ 25      CLC, LIC LDA, LIC 1+ ADC,
+ 26      0 # ADC, 0=
+ 27   UNTIL,
+ 28   XSAVE LDX, RTS, C;
+ 29 
+ 30 ( zk dk dl --- zk dk dl       )
+ 31  -->
+
+SCR # 13 ( TXT )
+  0  ( --- )
+  1 
+  2 
+  3  CODE (<M) MAC <M INX, INX,
+  4        POPTWO JMP, C;
+  5 
+  6 ( zk dk dl ---                )
+  7 
+  8  014 LOAD" OUNT
+  9 
+ 10 : <MO >R OUNT R> SWAP (<M) ;
+ 11 
+ 12 : <MOVE 1 M# ! <MO ;
+ 13 
+ 14 : <MOVE0 0 M# ! <MO ;
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 ( ZK DK ---   przenosi ciag   )
+ 21 ( zakodowany przez >MOVE      )
+ 22 ( z adresu ZK pod adres DK    )
+ 23 ( z dekodacja                 )
+ 24 ( <MOV0 nie przenosi 0        )
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 14 ( TXT )
+  0  ( Message )
+  1 
+  2 Stos pusty
+  3 
+  4 Slownik pelny
+  5 
+  6 Zly tryb adresowania
+  7 
+  8 Nie jedyne
+  9 
+ 10 Blad wartosci
+ 11 
+ 12 Bledny adres na dysku
+ 13 
+ 14 Stos pelny
+ 15 
+ 16 Blad dyskowy
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 15 ( TXT )
+  0  ( Message )
+  1 
+  2 Tylko w definicjach
+  3 
+  4 Tylko w fazie wykonania
+  5 
+  6 Brak pary slow
+  7 
+  8 Definicja nie zakonczona
+  9 
+ 10 W slowniku chronoinym
+ 11 
+ 12 Tylko podczas ladowania
+ 13 
+ 14 Poza biezacym ekranem
+ 15 
+ 16 Zadeklaruj VOCABULARY
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28                !
+ 29 
+ 30 
+ 31 
+
+SCR # 16 ( TXT )
+  0  ( EDITOR FORTH XL )
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 CODE CMOVE> 2 ,X LDA, XSAVE 2+ S
+  9 TA,   4 ,X LDA, XSAVE 4 + STA,
+ 10      1 ,X LDA, CLC, 5 ,X ADC,
+ 11      XSAVE 5 + STA, 1 ,X LDA,
+ 12      CLC, 3 ,X ADC, XSAVE 3 +
+ 13      STA,
+ 14     BEGIN,
+ 15       0 ,X LDY,
+ 16       BEGIN,
+ 17         DEY, XSAVE 4 + )Y LDA,
+ 18         XSAVE 2+ )Y STA,
+ 19         0 # CPY, 0=
+ 20       UNTIL,
+ 21       XSAVE 5 + DEC, XSAVE 3 +
+ 22       DEC,
+ 23       0 ,X LDA, 0= IF,
+ 24       1 ,X LDA, 0= NOT
+ 25       IF, 1 ,X DEC, THEN, THEN,
+ 26       0 # LDA, 0 ,X STA,
+ 27       1 ,X LDA, 0=
+ 28     UNTIL,
+ 29     INX, INX, XSAVE STX, POPTWO
+ 30     JMP,  END-CODE
+ 31  -->
+
+SCR # 17 ( TXT )
+  0 
+  1 
+  2 CODE ASC-PEEK XSAVE STX, 0 ,X
+  3      LDA,      TAY, INX, INX,
+  4          0 ,X LDA, XSAVE 2+ STA,
+  5                INX,
+  6         0 ,X LDA, XSAVE 3 + STA,
+  7     BEGIN,
+  8       DEY, XSAVE 2+ )Y LDA,
+  9      1 # LDX, 128 # CMP, 0<
+ 10       IF, 32  # CMP,
+ 11           0< IF,
+ 12            0 # LDX, THEN,
+ 13             ELSE,
+ 14         32 128 + # CMP, 0< IF, 0
+ 15  # LDX,        THEN,
+ 16       THEN, 0 # CPX, 0= IF, CLC,
+ 17  64 # ADC, CLC, ELSE,
+ 18        128 # CMP, 0< IF, 96   #
+ 19 CMP,
+ 20          0< IF, SEC, 32 # SBC,
+ 21 CLC, THEN,   ELSE,
+ 22          96 128 + # CMP, 0< IF,
+ 23 SEC, 32 # SBC, CLC, THEN,
+ 24        THEN,
+ 25             THEN,
+ 26     XSAVE 2+ )Y STA, 0 # CPY, 0=
+ 27         UNTIL,
+ 28    XSAVE LDX, POPTWO JMP,
+ 29        END-CODE
+ 30 : PEEK-ASC OVER OVER % 2 % 0 DO
+ 31 ASC-PEEK LOOP ;  -->
+
+SCR # 18 ( TXT )
+  0 
+  1 
+  2 4 VARIABLE XPOS  4 VARIABLE YPOS
+  3       : XPOS@ XPOS @ ;
+  4 : YPOS@ YPOS @ ;
+  5      : POSE YPOS ! XPOS ! ;
+  6 48 CONSTANT ZERO
+  7 : X! % 85 ! ;
+  8 : Y! % 84 C! ;
+  9 : X@ % 85 @ ;
+ 10 : Y@ % 84 C@ ;
+ 11 : POS Y! X! ;
+ 12 : 0.R ' ZERO CFA ' SPACE ! .R '
+ 13 BL CFA ' SPACE ! ;
+ 14 
+ 15 
+ 16                          -->
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 19 ( TXT )
+  0 
+  1 
+  2  VOCABULARY EDITOR IMMEDIATE
+  3  EDITOR DEFINITIONS
+  4 
+  5 : #DLE [ 112 C, 66 C, 48032 , 2
+  6 C, 2 C, 2 C, 2 C, 2 C, 2 C, 2 C,
+  7  2 C, 2 C, 2 C, 2 C, 2 C, 2 C, 2
+  8  C, 2 C, 2 C, 2 C, 2 C, 2 C, 2
+  9   C, 2 C, 2 C, 2 C, 2 C, 2 C, 2
+ 10 C, 2 C, 65 C, 47998 , ] ;
+ 11 : #SCR? 0 % 10 POS ." SCR"
+ 12   0 % 12 POS SCR @ 3 0.R ;
+ 13 : ADBUFF HERE 260 + ;
+ 14 : LBUFF ADBUFF 2 - ;   : CZYBUFF
+ 15  ADBUFF % 4 - @ 31886 = ;
+ 16 : #BUFF? CZYBUFF IF LBUFF @ ELSE
+ 17   0 ADBUFF 2 - ! 31886 ADBUFF
+ 18   4 - ! 0 ENDIF 0 % 16 POS
+ 19   ." BUF" 0 % 18 POS % 3 0.R ;
+ 20 : #DISPE ' #DLE 47998 % 34 CMOVE
+ 21  47998 560 ! 48032 % 88 ! ;
+ 22 : #RAMKA % 125 EMIT %  88 @ % 28
+ 23     0 DO DUP I % 40 * + % 3 +
+ 24   % 124 SWAP OVER OVER % 33 + !
+ 25 ! LOOP DROP #SCR? #BUFF? ; -->
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 20 ( TXT )
+  0 
+  1 
+  2 0 VARIABLE #LINIA0
+  3 : #W# SCR @ B/SCR * DUP B/SCR +
+  4 SWAP ;
+  5 : #WEJ #W# DO I BLOCK % 128
+  6        ASC-PEEK LOOP ;
+  7 : #WYJ #W# DO I BLOCK % 128
+  8        PEEK-ASC LOOP ;
+  9 48036 CONSTANT ADE:   : ADLINE
+ 10  % 40 * ADE: + ;
+ 11 : #KP SWAP OVER OVER 1 - C! OVER
+ 12  OVER 32 + C! DROP DROP ;
+ 13 : KK? ADLINE % 84 #KP ;
+ 14 : PP? ADLINE % 124 #KP ;
+ 15 : #LIN# DUP % 4 /MOD SCR @ B/SCR
+ 16  * + BLOCK SWAP % 32 * + SWAP
+ 17     ADLINE #LINIA0 @ % 40 * - ;
+ 18 : LIN-E: #LIN#  % 32 CMOVE ;
+ 19 : EK-E: #LINIA0 @ DUP % 28 +
+ 20  SWAP DO I LIN-E: LOOP ;
+ 21 : LIN-BUF #LIN#  SWAP % 32 CMOVE
+ 22  ;
+ 23 : EK-BUF #LINIA0 @ DUP % 28 +
+ 24  SWAP DO I LIN-BUF LOOP ;
+ 25 : E:V ADLINE DUP % 40 - % 26
+ 26 ADLINE DO I DUP % 40 + % 32
+ 27   CMOVE -40 +LOOP % 32 ERASE ;
+ 28 : E:^ ADLINE % 40 + % 28 ADLINE
+ 29 SWAP DO I DUP % 40 - % 32
+ 30     CMOVE % 40 +LOOP % 27 ADLINE
+ 31  % 32 ERASE ;  -->
+
+SCR # 21 ( TXT )
+  0 
+  1 
+  2 : LINB #LINIA0 @ + ;
+  3 : E: ADE: % 4 - XPOS@ + YPOS@
+  4 % 40 * + ;
+  5 : E:@ E: C@ ;    : E:! E: C! ;
+  6 
+  7 : #KUR E:@ DUP % 127 > IF % 128
+  8 - ELSE % 128 + ENDIF E:! ;
+  9 : #POS SWAP DUP % 4 < IF DROP
+ 10 % 35 SWAP % 1 - SWAP ENDIF
+ 11      DUP % 35 > IF DROP % 4 SWAP
+ 12 1+ SWAP ENDIF SWAP
+ 13    DUP 0 < IF #LINIA0 @ IF  % 27
+ 14  LINB LIN-BUF
+ 15     -1 #LINIA0 +! 0 E:V 0 LINB
+ 16 LIN-E: DROP 0
+ 17    ELSE DROP % 27 ENDIF ENDIF
+ 18 
+ 19    DUP % 27 > IF #LINIA0 @ 4 =
+ 20 IF DROP 0 ELSE
+ 21   0 LINB LIN-BUF 1 #LINIA0 +! 0
+ 22 E:^ % 27 LINB LIN-E:
+ 23      DROP % 27 ENDIF ENDIF
+ 24      POSE #LINIA0 @ DUP 0=
+ 25   IF 0 KK? ELSE 0 PP? ENDIF
+ 26   % 4 = IF % 27 KK? ELSE % 27
+ 27       PP? ENDIF ;
+ 28 : #PISZ DUP SP@ 1 ASC-PEEK #KUR
+ 29 E:! XPOS@ 1+ YPOS@ #POS #KUR ;
+ 30 -->
+ 31 
+
+SCR # 22 ( TXT )
+  0 
+  1 
+  2 : #KXY@ #KUR XPOS@ YPOS@ ;
+  3 
+  4 : #PK #POS #KUR ;
+  5 
+  6 : ?< #KXY@ SWAP 1 - SWAP #PK ;
+  7 
+  8 : ?> #KXY@ SWAP 1+ SWAP #PK ;
+  9 
+ 10 : ?^ #KXY@ 1 - #PK ;
+ 11 
+ 12 : ?V #KXY@ 1+ #PK ;
+ 13 
+ 14 : #RET #KXY@ 1+ SWAP DROP % 4
+ 15   SWAP #PK 0 LBUFF ! #BUFF? ;
+ 16 
+ 17 : #COF #KXY@ SWAP 1 - SWAP #POS
+ 18        0 E:! #KUR ;
+ 19 
+ 20 : BFREE 430 LBUFF @ % 32 * +
+ 21   471 @ HERE - U< ;
+ 22 : >BUFF YPOS@ ADLINE ADBUFF
+ 23   LBUFF @ % 32 * + % 32 CMOVE
+ 24   1 LBUFF +! #BUFF? ;
+ 25 
+ 26 
+ 27 0 VARIABLE #CM 67 ALLOT
+ 28 
+ 29 
+ 30  -->
+ 31 
+
+SCR # 23 ( TXT )
+  0 
+  1 
+  2 : #BU# % 28 #LIN# DROP DUP % 32
+  3        + % 96 ;
+  4 : #EB# % 27 ADLINE % 28 LINB
+  5        #LIN# DROP ;
+  6 : BUFV #BU#  CMOVE> ;
+  7 : BUF^ #BU# OVER >R >R SWAP R>
+  8         CMOVE  R> % 64 + % 32
+  9        ERASE ;
+ 10 : XSP DO I C@ 0= 0= IF DROP I
+ 11       LEAVE ENDIF LOOP ;
+ 12 : OSTLIN #LINIA0 @ % 4 = IF 0
+ 13       % 27 ADLINE DUP % 32 +
+ 14      SWAP XSP ELSE 0 % 31 #LIN#
+ 15       DROP DUP % 32 + SWAP XSP
+ 16       ENDIF 0= ;
+ 17 : #^^ BFREE IF #KUR >BUFF
+ 18       YPOS@ E:^ #LINIA0 @
+ 19       % 4 < IF #EB# SWAP % 32
+ 20       CMOVE ENDIF BUF^ #KUR
+ 21       ELSE BEEP BEEP ENDIF ;
+ 22  : #VV OSTLIN IF
+ 23    #KUR BUFV #LINIA0 @ % 4 <
+ 24    IF #EB# % 32 CMOVE ENDIF
+ 25     YPOS@ E:V #KUR ELSE BEEP
+ 26     ENDIF ;
+ 27 : #<BF OSTLIN IF LBUFF @ IF #VV
+ 28      -1 LBUFF +! ADBUFF LBUFF @
+ 29     32 * + YPOS@ ADLINE % 32
+ 30     CMOVE #BUFF? #KUR ENDIF ELSE
+ 31     BEEP ENDIF ;  -->
+
+SCR # 24 ( TXT )
+  0 
+  1 
+  2 : X#CM #CM XPOS@ + % 4 - ;
+  3 
+  4 : XSPAC #CM % 63 + DUP X#CM XSP
+  5      #CM % 64 + DUP ROT
+  6      DO I C@     0= I 1+ C@
+  7          0= * IF DROP I LEAVE
+  8      ENDIF LOOP X#CM - ;
+  9 
+ 10 : <#CM> YPOS@ #LINIA0 @ XPOS@
+ 11 YPOS@ 1+ #POS #LINIA0 @ = 0=
+ 12      - YPOS !
+ 13      YPOS@ ADLINE #CM OVER OVER
+ 14      YPOS@ % 27 < IF SWAP % 40
+ 15      + SWAP % 32 + ENDIF ;
+ 16 
+ 17 : 32CM % 32 CMOVE ;
+ 18 : >#CM  #KUR  <#CM> #CM 66 ERASE
+ 19         32CM 32CM ;
+ 20 : <#CM <#CM> SWAP 32CM SWAP
+ 21        32CM #KUR ;
+ 22 : #>> >#CM XSPAC   #CM % 63 + C@
+ 23  0= OVER X#CM + #CM - % 63 < +
+ 24     IF  X#CM DUP 1+ ROT
+ 25     CMOVE> 0 X#CM C! ELSE BEEP
+ 26     DROP  ENDIF <#CM ;
+ 27 : #<< >#CM   X#CM 1+ DUP 1 -
+ 28        XSPAC CMOVE <#CM ;
+ 29 : #DUP DUP DUP % 127 > IF % 128
+ 30        - ENDIF ;   -->
+ 31 
+
+SCR # 25 ( TXT )
+  0 
+  1 
+  2 
+  3 : ESC DROP KEY #DUP BL = IF DROP
+  4       300 ELSE #PISZ ENDIF ;
+  5 
+  6 : #KLA0 [ 27 C, 28 C, 29 C, 30
+  7  C, 31 C, 155 C, 126 C, 254 C,
+  8  255 C, 156 C, 157 C, 127 C,
+  9   ] ;
+ 10 : #NR-KLAW ' #KLA0 % 12 INSTR ;
+ 11 
+ 12   SELECT #WYB0 #PISZ ESC  ?^ ?V
+ 13 ?< ?> #RET #COF #<< #>> #^^ #VV
+ 14  #<BF ;
+ 15   FORTH DEFINITIONS
+ 16 : (E) EDITOR  #WEJ
+ 17      1 752 C! #DISPE #RAMKA
+ 18     XPOS@ YPOS@ #POS
+ 19     EK-E:   #KUR
+ 20     BEGIN
+ 21       KEY DUP #NR-KLAW #WYB0
+ 22     300 = UNTIL
+ 23 
+ 24     #KUR EK-BUF #WYJ FORTH ;
+ 25 
+ 26 : EXFO % 125 EMIT % 80 % 88 +!
+ 27     ." FORTH" CR 0 752 C! ;
+ 28 
+ 29 
+ 30   -->
+ 31 
+
+SCR # 26 ( TXT )
+  0 
+  1 
+  2 : CLEAR % 16 0 DO I SCR @ (LINE)
+  3         DROP C/L BLANKS UPDATE
+  4         LOOP ;
+  5 
+  6 BASE @ HEX
+  7 : WHERE DUP B/SCR / DUP SCR !
+  8  ." SCR # " DECIMAL .
+  9 SWAP C/L /MOD C/L * ROT BLOCK +
+ 10 CR C/L -TRAILING TYPE CR HERE
+ 11 C@ - SPACES 1 2FE C! 1C EMIT 0
+ 12  2FE C! [COMPILE] EDITOR QUIT ;
+ 13 
+ 14 
+ 15 
+ 16 BASE !
+ 17 : MARK SCR @ % 8 * % 8 0 DO I
+ 18      OVER + BLOCK DROP UPDATE
+ 19      LOOP DROP ;
+ 20 
+ 21 : STYPE OVER OVER ASC-PEEK
+ 22         OVER OVER DUP >R % 88
+ 23         @ % 85 @ DUP >R + % 84
+ 24         C@ % 40 * + SWAP R> R>
+ 25        + 85 ! % 30 EMIT 31 EMIT
+ 26        CMOVE PEEK-ASC ;
+ 27 
+ 28 -->
+ 29 
+ 30 
+ 31 
+
+SCR # 27 ( TXT )
+  0 
+  1 
+  2 : E. (E) EXFO ;
+  3 : L. SCR ! E. ;
+  4 : (S") R COUNT DUP 1+ R> + >R
+  5        STYPE ;
+  6 : S" [ ' (S") CFA ] LITERAL
+  7     [ ' ." 13 + ] LITERAL !
+  8     [COMPILE] ."
+  9     [ ' (.") CFA ] LITERAL
+ 10     [ ' ." 13 + ] LITERAL ! ;
+ 11     IMMEDIATE
+ 12 : (L) 0 SWAP
+ 13    DUP >R (LINE) -TRAILING
+ 14    OVER C@ OVER 0= 0= *
+ 15    IF CR ." ?" R> 3 0.R STYPE
+ 16     ELSE 2DROP  R> DROP ENDIF ;
+ 17 
+ 18 
+ 19 : INDE EMPTY-BUFFERS 1 - CR
+ 20      BEGIN 1+ DUP NAG IF DUP
+ 21      (L) ENDIF DUP GGE 1 - =
+ 22      ?TERMINAL + UNTIL DROP
+ 23       EMPTY-BUFFERS CR ;
+ 24 : IND  1 INDE ;
+ 25 : INDEX EMPTY-BUFFERS INDEX
+ 26       EMPTY-BUFFERS ;
+ 27  -->
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 28 ( TXT )
+  0 
+  1 
+  2 : (F) SCR @ 0 OVER (LINE)
+  3     -TRAILING SWAP C@ * 0= 0=
+  4       MARK  SAV-NAG ;
+  5 
+  6 
+  7 : F. (F) FLUSH ;
+  8 
+  9 
+ 10 
+ 11 : (S-CAS) DUP B/SCR * DUP
+ 12      B/SCR + SWAP DO I BLOCK
+ 13      DROP LOOP SCR @ SWAP
+ 14      SCR ! CLEAR F. SCR ! ;
+ 15 
+ 16 
+ 17  -->
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 29 ( TXT )
+  0  ( ------- )
+  1 
+  2 
+  3 : OST CR S" Niszczy ekran: " DUP
+  4     . S" (T/N)" KEY 84 = ;
+  5 
+  6 : SCR-CAS OST IF
+  7   (S-CAS) ELSE DROP ENDIF ;
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 30 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7  &PS #$PS !
+  8 
+  9 
+ 10 
+ 11  -->
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 31 ( TXT )
+  0  ( INPUT$ INPUT INPUT< )
+  1 
+  2     ( load: instr select )
+  3  VOCABULARY INT IMMEDIATE
+  4  INT DEFINITIONS
+  5 : NK [ 6 C, 126 C, 155 C, 29 C,
+  6       30 C, 31  C, 28  C, 125 C,
+  7       156 C, 157 C, 158 C,
+  8       159 C, ] ;
+  9 : COFC >R   DUP C@ 0 > IF DUP
+ 10        C@ 1 - OVER C! R EMIT
+ 11         ENDIF R> DROP ;
+ 12 : NIC DROP ;
+ 13 : AZ >R OVER OVER C@ > IF R OVER
+ 14      COUNT +    C! DUP C@ 1+
+ 15      OVER C! R EMIT ENDIF R>
+ 16      DROP ;
+ 17 : RET DROP BL OVER COUNT + C! ;
+ 18 
+ 19 
+ 20 SELECT W-KEY AZ COFC RET NIC NIC
+ 21        NIC NIC NIC NIC NIC NIC
+ 22        NIC ;
+ 23 0 VARIABLE #LI 8 ALLOT
+ 24 
+ 25 
+ 26 
+ 27 
+ 28   -->
+ 29 
+ 30 
+ 31 
+
+SCR # 32 ( TXT )
+  0  ( ------------------ )
+  1 
+  2 
+  3 : SPR  DUP DUP >R ' NK COUNT
+  4        INSTR W-KEY R> 155 = ;
+  5 
+  6 : KEYL BEGIN KEY
+  7        % 47 OVER % 58 <=< >R
+  8        DUP % 155 = #LI C@ * >R
+  9        DUP % 126 = R> + R> +
+ 10        DUP 0=
+ 11       IF SWAP DROP ENDIF UNTIL ;
+ 12 0 VARIABLE #INP 2 ALLOT
+ 13     FORTH DEFINITIONS
+ 14 : INPUT$ INT 0 OVER C! BEGIN
+ 15          KEY SPR UNTIL DROP
+ 16          DROP FORTH ;
+ 17 : DINPUT INT #LI 0 OVER C! BEGIN
+ 18          KEYL SPR UNTIL NUMBER
+ 19          OVER OVER #INP D!
+ 20          ROT DROP FORTH ;
+ 21 : INPUT  DINPUT DROP ;
+ 22 : DINP INT #INP D@ FORTH ;
+ 23 : INP DINP DROP ;
+ 24 : INPUT< >R BEGIN 85 @ ROT ROT R
+ 25         INPUT DROP OVER OVER INP
+ 26        SWAP <=< 0= WHILE
+ 27        ROT 85 @ SWAP - 0 DO
+ 28        126 EMIT LOOP REPEAT
+ 29        DROP DROP DROP R> DROP
+ 30        INP ;
+ 31 
+
+SCR # 33 ( TXT )
+  0  ( INIC-SOUND )
+  1 
+  2 ' VBI1 DROP
+  3 HEX    D208 CONSTANT AUDCTL
+  4 D200 CONSTANT AUDBASE
+  5 : SOUND 3 DUP 0D20F C! 232 C!
+  6   SWAP 16 * + ROT DUP + AUDBASE
+  7   + ROT OVER C! 1+ C! ;
+  8 : FILTER!  AUDCTL C! ;
+  9 DECIMAL
+ 10 0 VARIABLE #DLU
+ 11 : DLUGS CR
+ 12  ." Podaj dlugosc bufora "
+ 13   CR ." #SOUND :" 2899 6001 4
+ 14   INPUT< #DLU ! CR ; DLUGS
+ 15  FORGET DLUGS
+ 16  0 VARIABLE #SOUND #DLU @ 4 +
+ 17  ALLOT  #DLU @ #SOUND !
+ 18  #SOUND 10 + DUP 256 MOD 256
+ 19   SWAP - + CONSTANT &PS
+ 20 : SFLAG [ &PS 40 + ] LITERAL +
+ 21   ;
+ 22 : SFLAG! SFLAG ! ;
+ 23 ( W NR ---  wpisuje wartosc W )
+ 24 (       do FLAG o numerze NR  )
+ 25 
+ 26 : 0SFLAG! 0 SFLAG ! ;
+ 27 : ON-MUSIC 0 [ &PS 30 + ]
+ 28   LITERAL ! ;
+ 29 : OFF-MUSIC 1 [ &PS 30 + ]
+ 30   LITERAL ! 53760 4 0 DO I
+ 31   0 0 0 SOUND LOOP ; -->
+
+SCR # 34 ( TXT )
+  0  ( ---- )
+  1 
+  2 HEX   1EFF CONSTANT PS
+  3 &PS PS 1+ - CONSTANT &ROZ
+  4 
+  5 
+  6 : STAR 1F09 &ROZ + ;
+  7   CODE (R-S)
+  8        XSAVE STX, STAR JSR,
+  9        XSAVE LDX, NEXT JMP,
+ 10                    END-CODE
+ 11 : R-SOUND (R-S) 0 1F1E &ROZ +
+ 12             C! ;
+ 13 
+ 14 : BEGIN-MUSIC OFF-MUSIC
+ 15       OFF-VBI1 R-SOUND
+ 16       ON-VBI1 ;
+ 17 
+ 18 
+ 19 DECIMAL
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 35 ( TXT )
+  0  ( KONWERTER SOUND-MACHINE )
+  1 
+  2 
+  3  #SOUND DROP
+  4  ' VBI1 DROP
+  5  ' DOS DROP
+  6 
+  7 : CAS ;
+  8 
+  9 HEX
+ 10 : DLU #DLU @ ;
+ 11 
+ 12 
+ 13 : &PSC &PS % 6 - ;
+ 14 0 VARIABLE #$PS : $PS #$PS @ ;
+ 15 : $ROZ $PS PS 1+ - ;
+ 16 : $ROZ+ $ROZ + ;
+ 17 
+ 18 : &ROZ+ &ROZ + ;
+ 19 
+ 20  DECIMAL
+ 21 
+ 22 
+ 23 
+ 24 
+ 25   -->
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 36 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7  &PS #$PS !
+  8 
+  9 
+ 10 
+ 11  -->
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 37 ( TXT )
+  0 
+  1 
+  2 HEX
+  3 
+  4 
+  5 
+  6 : 3BAJ [ 30 C, 6D C, 2D C, 0E C,
+  7  2C C, CD C, EC C, CC C, CE C,
+  8        4D C, EE C, 4C C, 20 C,
+  9        AD C, AE C, AC C, 4E C,
+ 10        0D C, 2E C, 6E C, ED C,
+ 11        8D C, 8E C, 8C C, 7D C,
+ 12        3D C, 1E C, DD C, DE C,
+ 13        5D C, FE C, BD C, BC C,
+ 14        5E C, 1D C, 3E C, 7E C,
+ 15        FD C, 9D C, 79 C, 39 C,
+ 16        D9 C, 59 C, B9 C, BE C,
+ 17  19 C, F9 C, 99 C, 6C C, ] ;
+ 18  DECIMAL
+ 19 
+ 20 
+ 21 
+ 22  -->
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 38 ( TXT )
+  0 
+  1 
+  2 HEX
+  3 : 2BAJ    [  4A C, 69 C, 29 C,
+  4  C9 C, E0 C, C0 C, 49 C, A9 C,
+  5        A2 C, A0 C, 09 C, E9 C,
+  6        65 C, 25 C, 06 C, 24 C,
+  7        C5 C, E4 C, C4 C, C6 C,
+  8        45 C, E6 C, A5 C, A6 C,
+  9        A4 C, 46 C, 05 C, 26 C,
+ 10        66 C, E5 C, 85 C, 86 C,
+ 11        84 C, 61 C, 21 C, C1 C,
+ 12        41 C, A1 C, 01 C, E1 C,
+ 13        81 C, 71 C, 31 C, D1 C,
+ 14        51 C, B1 C, 11 C, F1 C,
+ 15        91 C, 75 C, 35 C, 16 C,
+ 16        D5 C, D6 C, 55 C, F6 C,
+ 17        B5 C, B4 C, 56 C, 15 C,
+ 18        36 C, 76 C, F5 C, 95 C,
+ 19        94 C, 90 C, B0 C, F0 C,
+ 20        30 C, D0 C, 10 C, 50 C,
+ 21        70 C, B6 C, 96 C, ] ;
+ 22 
+ 23  DECIMAL
+ 24 
+ 25  -->
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 39 ( TXT )
+  0 
+  1 
+  2 
+  3  HEX
+  4  : KS PS  DLU   + 2+ ;
+  5  0 VARIABLE ILOSC
+  6  : (Z-S) &ROZ+ SWAP &ROZ+ SWAP
+  7    BEGIN
+  8     DUP C@ ' 2BAJ COUNT INSTR
+  9     IF 2+
+ 10     ELSE
+ 11       DUP C@ ' 3BAJ COUNT INSTR
+ 12       IF 1+ DUP @ PS OVER KS
+ 13         <=<
+ 14         IF $ROZ + OVER ! 2+
+ 15            1 ILOSC +!
+ 16         ELSE DROP 2+ ENDIF
+ 17       ELSE 1+
+ 18       ENDIF
+ 19     ENDIF OVER OVER <
+ 20    UNTIL DROP DROP ;
+ 21   DECIMAL
+ 22 
+ 23   -->
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 40 ( TXT )
+  0 
+  1 
+  2  HEX
+  3 
+  4 
+  5  : ZM@! &ROZ+ SWAP &ROZ+ SWAP
+  6      OVER OVER C@ 0100 * SWAP C@
+  7      + PS OVER KS <=<
+  8      IF $ROZ+ LSB-MSB ROT C!
+  9      SWAP C! ELSE DROP DROP DROP
+ 10      ENDIF ;
+ 11  0 VARIABLE #PN
+ 12  : ZM1 1F0A &ROZ+ C@ 1F0F &ROZ+
+ 13        C@ 0100 * +
+ 14        #PN ! 1F0A 1F0F ZM@!  ;
+ 15  : (ZM0) OVER OVER SWAP - 0
+ 16      DO OVER I + OVER I + ZM@!
+ 17      LOOP DROP DROP ;
+ 18  : ZM2 1F7D 1FB6 (ZM0) ;
+ 19  : ZM3 257D 2584 (ZM0) ;
+ 20 
+ 21  : ZM5 2674 2679 ZM@!
+ 22    2674 &ROZ+ C@ 2679 &ROZ+ C@
+ 23    100 * + $VBI1 20 + ! ;
+ 24  : &PN #PN @ &ROZ+ ;
+ 25  : (ZMK) >R >R OVER @ R> <=<
+ 26    IF DUP @ $ROZ+ OVER ! R> +
+ 27    ELSE R> DROP ENDIF ;
+ 28  : ZM4 207E &ROZ+ 1FFE &ROZ+
+ 29        DO I PS KS 0 (ZMK) DROP
+ 30        2 +LOOP ;
+ 31  DECIMAL    -->
+
+SCR # 41 ( TXT )
+  0 
+  1 
+  2 HEX
+  3  : S1 1+ DUP 4 + C@ 6A < IF
+  4       26FF &PN 2 (ZMK) 26FF
+  5       &PN 3 (ZMK) ENDIF ;
+  6  : S0 1+ DUP 4 + C@ 0A < IF
+  7       26FF &PN 2 (ZMK) 26FF
+  8       &PN 6 (ZMK) ENDIF ;
+  9  : JC 1+ 26FF  KS 2 (ZMK) ;
+ 10  : UL 3 + 26FF KS 4 (ZMK) 2 - ;
+ 11 
+ 12  : POK 1+ PS KS 3 (ZMK) ;
+ 13 
+ 14 
+ 15  : NUMERY [ 10 C, 28 C, 68 C,
+ 16       A8 C, E8 C, 70 C, B0 C,
+ 17       F0 C, 10 C, 11 C, 20 C,
+ 18       21 C, 18 C, 58 C, 98 C,
+ 19       D8 C, 30 C, ] ;
+ 20 
+ 21  SELECT WYB-ZM 1+ S0 S0 S0 S0
+ 22         S1 S1 S1 JC JC UL UL
+ 23         POK POK POK POK S1 ;
+ 24 
+ 25  : ZM6 &PN BEGIN DUP C@ ' NUMERY
+ 26        COUNT INSTR WYB-ZM DUP
+ 27        KS &ROZ+ > UNTIL DROP ;
+ 28 
+ 29 DECIMAL
+ 30    -->
+ 31 
+
+SCR # 42 ( TXT )
+  0 
+  1 
+  2 HEX
+  3  : ZM-SOUND
+  4       1F1F 1F00 (Z-S)
+  5       257C 206F (Z-S)
+  6       2689 262F (Z-S)
+  7       26A2 269A (Z-S)
+  8 
+  9       ZM1 ZM2 ZM3 ZM4
+ 10 
+ 11       ZM5 ZM6
+ 12 
+ 13       &PS &PSC 2+ !
+ 14       1F00 &ROZ+ 09 ERASE ;
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21  DECIMAL
+ 22  -->
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 43 ( TXT )
+  0  ( ------------ )
+  1 
+  2 : LOAD-SOUND
+  3   &PSC #ADR ! DOS #DL @ #DLU !
+  4      ;
+  5 : SAVE-SOUND
+  6    &PSC #ADR ! #DLU #DL ! DOS ;
+  7 : P88 % 40 * % 88 +! ;
+  8 
+  9 : ?KON 125 EMIT 88 @ 40 - 88 !
+ 10  ." ????? KONWERTER  SOUND-MACHI
+ 11 NE ?????" CR 88 @ 40 + 88 ! ;
+ 12 
+ 13 KEY: KEK 70 73 300
+ 14 : ?ME CR S" F-DLA FORTHA"
+ 15    CR CR S" I-DLA INNEGO JEZYKA"
+ 16    CR KEK ;
+ 17 : MFO LOAD-SOUND % 125 EMIT
+ 18    CR S"             Momencik!"
+ 19    CR ZM-SOUND ;
+ 20 
+ 21 : MINN
+ 22    CR S" Podaj strone :"
+ 23    6 257 3 INPUT< 256 * #$PS !
+ 24    LOAD-SOUND CR
+ 25       S"             Momencik!"
+ 26    CR    ZM-SOUND SAVE-SOUND ;
+ 27 : KONWERTER        ?KON ?ME 1 =
+ 28        IF MFO ELSE MINN ENDIF
+ 29       -1 P88 % 125 EMIT CR ;
+ 30 
+ 31                        KONWERTER
+
+SCR # 44 ( TXT )
+  0  ( ----- )
+  1 
+  2 
+  3 
+  4 : <FSAVE> #ILSCR @ IF
+  5           % 26 >OBSZ  ?SRAM
+  6     0 GGE 3 KINPUT< DUP #DKAD !
+  7          #DLE @ + 1 - % 31 % 7
+  8          POS . % 27 T/N
+  9     IF [FSAVE] ELSE BEEP ENDIF
+ 10      % 26 <OBSZ ENDIF ;
+ 11 SELECT W<RET> <FINDEX> <FLOAD>
+ 12        <FINDEX> <FSAVE> ;
+ 13 
+ 14 : <RET> DUP % 155 = IF OVER
+ 15         W<RET> ENDIF ;
+ 16 
+ 17  FORTH DEFINITIONS
+ 18 : FCOPY F-C
+ 19         #DISPE % 125 EMIT
+ 20         OFFKUR -2 P88 ?NAG
+ 21         0 #ILSCR !
+ 22         1 BEGIN KEY ST> ST<
+ 23         [L] [I] [S]  <RET>
+ 24 
+ 25         % 69 = UNTIL  DROP
+ 26         % 125 EMIT % 4 P88
+ 27         % 125 EMIT
+ 28 ?s?C???????
+ 29 ?
+ 30 
+ 31 ????????????????????????????
+
+SCR # 45 ( TXT )
+  0  ( FORTH-COPY )
+  1 
+  2  031 LOAD" INPUT<
+  3 
+  4  VOCABULARY F-C IMMEDIATE
+  5  F-C DEFINITIONS
+  6 0 VARIABLE #ILSCR
+  7 : (?PB) % 4 #ILSCR @ + 1 POS
+  8         S" ?" 1 #ILSCR +! ;
+  9 
+ 10 : ?PB % 8 MOD 0= IF (?PB)
+ 11           ENDIF ;
+ 12 : (V) DUP 1 = IF % 7 2 POS ENDIF
+ 13     DUP 2 = IF % 18 2 POS ENDIF
+ 14     3 = IF % 30 2 POS ENDIF ;
+ 15 : VP (V) S" ??" ;
+ 16 : VC (V) S" ??" ;
+ 17 
+ 18 : [LIS] >R IF DROP VC R> DUP
+ 19       VP % 155 ELSE R> DROP
+ 20       ENDIF ;
+ 21 : [L] DUP % 76 = 1 [LIS] ;
+ 22 : [I] DUP % 73 = 2 [LIS] ;
+ 23 : [S] DUP % 83 = 3 [LIS] ;
+ 24 
+ 25 752 CONSTANT CRSINH
+ 26 : ONKUR 0 CRSINH C! ;
+ 27 : OFFKUR 1 CRSINH C! ;
+ 28 : (WST) >R HERE 400 + OVER B/SCR
+ 29        * DUP R B/SCR * + SWAP
+ 30        R> ;
+ 31     -->
+
+SCR # 46 ( TXT )
+  0 
+  1 
+  2 : STNAG 8 /MOD HERE 200 + + SWAP
+  3         C2^ SWAP C@ AND 0= 0=
+  4          ;
+  5 : (>BC) HERE % 200 + BNAG  1
+  6     R/W (WST) >R DO DUP I DUP
+  7     ?PB 1 R/W B/BUF + LOOP DROP
+  8         R> ;
+  9 
+ 10 : (BC>) EMPTY-BUFFERS
+ 11         SWAP (WST) >R DO DUP I
+ 12         0 R/W B/BUF + LOOP DROP
+ 13       R> 0 DO 2DUP I + SWAP I +
+ 14       STNAG SAV-NAG
+ 15       LOOP 2DROP UPDATE FLUSH ;
+ 16 
+ 17 ( SCRP SCRK DLU --- )
+ 18 
+ 19 : #DLS [ 112 C, 66 C, 48032 , 2
+ 20 C, 2 C, 2 C, 2 C, 2 C, 2 C, 2 C,
+ 21  2 C, 2 C, 2 C, 2 C, 2 C, 2 C, 2
+ 22  C, 2 C, 2 C, 2 C, 2 C, 2 C, 2
+ 23   C, 2 C, 2 C, 2 C, 2 C, 2 C, 2
+ 24 C, 2 C, 65 C, 47998 , ] ;
+ 25 : #DISPE ' #DLS 47998 % 34 CMOVE
+ 26  47998 560 ! 48032 80 +
+ 27   % 88 ! ;
+ 28  -->
+ 29 
+ 30 
+ 31 
+
+SCR # 47 ( TXT )
+  0 
+  1 
+  2 : EMAX 741 @ HERE - 500 - 1024
+  3        / ;
+  4 : (RA+) 1+ 2DUP POS ;
+  5 : ?NAG 3 0 2DUP POS
+  6   S"            ?FORH-COPY?     
+  7       " (RA+)
+  8   S" ?" % 35 OVER POS S" ?"
+  9   % 14 OVER POS S" SCR-max:"
+ 10   EMAX . (RA+)
+ 11 
+ 12   S" ???????????????????????????
+ 13 ??????" (RA+)
+ 14   S"    LOAD       INDEX       S
+ 15 AVE   " 2DROP ;
+ 16 
+ 17 : ?1RAM % 4 2DUP POS
+ 18   S" ??????????" (RA+)
+ 19   S" |  SCR#  |" (RA+)
+ 20   S" | OD:    |" (RA+)
+ 21   S" | DO:    |" (RA+)
+ 22   S" ??????????" DROP % 5 + % 6
+ 23   POS ;
+ 24 : ?IRAM % 14 % 4 2DUP POS
+ 25   S" ???????????" (RA+)
+ 26   S" |  SCR#   |" (RA+)
+ 27   S" | OD:     |" (RA+)
+ 28   S" ???????????" DROP
+ 29   % 5 + % 6 POS ;
+ 30 
+ 31   -->
+
+SCR # 48 ( TXT )
+  0 
+  1 
+  2 : ?LRAM 3 ?1RAM ;
+  3 : ?SRAM % 26 ?1RAM ;
+  4 : ?CB % 4 1 POS 31 SPACES
+  5        0 #ILSCR ! ;
+  6 0 VARIABLE #OBSZ 50 ALLOT
+  7 : ASRAM % 88 @ 160 + ;
+  8 : >OBSZ ASRAM + % 5 0 DO DUP
+  9         % 40 I * + #OBSZ % 10
+ 10    I * + % 10 CMOVE LOOP DROP ;
+ 11 : <OBSZ ASRAM + % 5 0 DO #OBSZ
+ 12     % 10 I * + OVER % 40 I * +
+ 13     % 10 CMOVE LOOP DROP ;
+ 14 
+ 15 : P88 % 40 * % 88 +! ;
+ 16 
+ 17 : ST> DUP % 42 = IF SWAP DUP VC
+ 18       DUP 3 = IF DROP 1 ELSE
+ 19    1+ ENDIF DUP VP SWAP ENDIF ;
+ 20 : ST< DUP % 43 = IF SWAP DUP VC
+ 21       DUP 1 = IF DROP 3 ELSE
+ 22       1 - ENDIF DUP VP SWAP
+ 23                  ENDIF ;
+ 24 : KINPUT< ONKUR ." ??"
+ 25          INPUT< OFFKUR ;
+ 26 
+ 27 
+ 28  -->
+ 29 
+ 30 
+ 31 
+
+SCR # 49 ( TXT )
+  0 
+  1 
+  2 : T/N % 8  2DUP POS
+  3      S"   T/N   " KEY % 84 - 0=
+  4      >R POS S" ????????" R> CR
+  5        ;
+  6 0 VARIABLE #ZKAD
+  7 0 VARIABLE #DKAD
+  8 0 VARIABLE #DLE
+  9 0 VARIABLE #INDE
+ 10 : [FLOAD] #ZKAD @ #DLE @ (>BC)
+ 11           2DROP ;
+ 12 : [FSAVE] #ZKAD @ #DLE @
+ 13           #DKAD @ (BC>) ;
+ 14 : [FINDEX] % 4 P88 % 125 EMIT
+ 15     CR CR CR   #INDE @ INDE
+ 16           -4 P88 ;
+ 17 : CDUL % 4 P88 % 125 EMIT -4
+ 18          P88 ;
+ 19 : <FINDEX> CDUL ?IRAM
+ 20             0 GGE 3 KINPUT<
+ 21           #INDE ! [FINDEX] ;
+ 22 
+ 23 : <FLOAD> 3 >OBSZ ?LRAM
+ 24         0 GGE 3 KINPUT< #ZKAD !
+ 25           % 8 % 7 POS ."  ?"
+ 26           #ZKAD @ 1 - DUP EMAX +
+ 27          1+ GGE MIN 3 KINPUT<
+ 28    #ZKAD @ - 1+ #DLE ! % 4 T/N
+ 29     IF ?CB [FLOAD] ELSE BEEP
+ 30         ENDIF 3 <OBSZ ;
+ 31  -->
+
+SCR # 50 ( TXT )
+  0  ( ----- )
+  1 
+  2 
+  3 
+  4 : <FSAVE> #ILSCR @ IF
+  5           % 26 >OBSZ  ?SRAM
+  6     0 GGE 3 KINPUT< DUP #DKAD !
+  7          #DLE @ + 1 - % 31 % 7
+  8          POS . % 27 T/N
+  9     IF [FSAVE] ELSE BEEP ENDIF
+ 10      % 26 <OBSZ ENDIF ;
+ 11 SELECT W<RET> <FINDEX> <FLOAD>
+ 12        <FINDEX> <FSAVE> ;
+ 13 
+ 14 : <RET> DUP % 155 = IF OVER
+ 15         W<RET> ENDIF ;
+ 16 
+ 17  FORTH DEFINITIONS
+ 18 : FCOPY F-C
+ 19         #DISPE % 125 EMIT
+ 20         OFFKUR -2 P88 ?NAG
+ 21         0 #ILSCR !
+ 22         1 BEGIN KEY ST> ST<
+ 23         [L] [I] [S]  <RET>
+ 24 
+ 25         % 69 = UNTIL  DROP
+ 26         % 125 EMIT % 4 P88
+ 27         % 125 EMIT
+ 28       -2 P88 ONKUR CR ." FORTH"
+ 29         FORTH ;
+ 30   FCOPY
+ 31 
+
+SCR # 51 ( TXT )
+  0  ( Przerwanie VBI0 )
+  1 
+  2  HEX
+  3  NOINT LSB-MSB
+  4  CODE LSB-MSB 1 ,X LDA,
+  5       DEX, DEX, 0 ,X STA,
+  6       0 # LDA, 3 ,X STA,
+  7       1 ,X STA,
+  8       NEXT JMP, C;
+  9  CONINT
+ 10  : (VBI) -FIND IF DROP SWAP
+ 11      1+ ROT % 3 * + DUP >R 1+ !
+ 12       20 R> C! ELSE DROP
+ 13       ." ERROR VBI" ENDIF ;
+ 14 
+ 15  0 VARIABLE $VBI0 12  ALLOT
+ 16    $VBI0 DUP EA SWAP C! DUP 1+
+ 17    0F CMOVE
+ 18 
+ 19  : VBI0 $VBI0 (VBI) ;
+ 20  CODE (EX0) E45F JMP, C;
+ 21  5 VBI0 (EX0) 4C $VBI0 10 + C!
+ 22 
+ 23  CODE ON-VBI0 XSAVE STX,
+ 24       $VBI0 1+ LSB-MSB # LDX,
+ 25       # LDY, 6 # LDA, E45C JSR,
+ 26       XSAVE LDX, NEXT JMP, C;
+ 27  CODE OFF-VBI0 XSAVE STX,
+ 28       E45F LSB-MSB # LDX,
+ 29       # LDY, 6 # LDA, E45C JSR,
+ 30       XSAVE LDX, NEXT JMP, C;
+ 31  DECIMAL
+
+SCR # 52 ( TXT )
+  0  ( Przerwanie VBI1 )
+  1 
+  2  HEX
+  3  0 VARIABLE $VBI1 21 ALLOT
+  4      $VBI1 DUP EA SWAP C! DUP 1+
+  5      1F CMOVE
+  6 
+  7  : VBI1 $VBI1 (VBI) ;
+  8  CODE (EX1) E462 JMP, C;
+  9  0A VBI1 (EX1) 4C $VBI1 1+ 3 0A
+ 10  * + C!
+ 11  CODE ON-VBI1 XSAVE STX,
+ 12        $VBI1 1+ LSB-MSB # LDX,
+ 13        # LDY,
+ 14        7 # LDA, E45C JSR,
+ 15        XSAVE LDX, NEXT JMP, C;
+ 16  CODE OFF-VBI1 XSAVE STX,
+ 17       E462 LSB-MSB # LDX, # LDY,
+ 18       7 # LDA, E45C JSR,
+ 19       XSAVE LDX, NEXT JMP, C;
+ 20 
+ 21 ( CODE MIGA 14 LDA, 10 # AND, )
+ 22 (     .A LSR, .A LSR, .A LSR, )
+ 23 (     02F3 STA, RTS, C;       )
+ 24 ( 0 VBI1 MIGA                 )
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30  DECIMAL
+ 31 
+
+SCR # 53 ( TXT )
+  0  ( FDOS )
+  1 
+  2 1 VARIABLE #DISK
+  3 0 VARIABLE #ADR
+  4 0 VARIABLE #DL
+  5 : &BLOCK DUP BUFFER DUP >R
+  6      SWAP 1+ #DISK @ 1 -DISK
+  7          R> SWAP ;
+  8 
+  9 : &ERROR -DUP IF ." ERROR "
+ 10           . ENDIF ;
+ 11 
+ 12 : (L1) 0 HERE >R 0 C, BEGIN BL
+ 13         WORD HERE NUMBER DROP
+ 14         DUP 256 < WHILE
+ 15       C, 1+ REPEAT DROP R> C! ;
+ 16 
+ 17 : CNUM: <BUILDS (L1) DOES>
+ 18         COUNT INSTR ;
+ 19 : KEY: <BUILDS (L1) DOES>
+ 20        BEGIN KEY OVER COUNT
+ 21   INSTR -DUP UNTIL SWAP DROP ;
+ 22 
+ 23 VOCABULARY FDOS IMMEDIATE
+ 24 FDOS DEFINITIONS
+ 25 
+ 26 : 2DUP+3 2DUP + 3 + ;
+ 27 : 2DUP+5 2DUP + % 5 + ;
+ 28 
+ 29  -->
+ 30 
+ 31 
+
+SCR # 54 ( TXT )
+  0 
+  1 
+  2 
+  3 0 VARIABLE #ILS
+  4 0 VARIABLE $$
+  5 : ILSEK! 359 &BLOCK DROP
+  6           1 + @ #ILS ! ;
+  7 
+  8 : ILSEK- 1+ C@ MINUS #ILS
+  9       +! ;
+ 10 : USTPOS X@ 20 < IF 20 X! ELSE
+ 11          CR 2 X! ENDIF ;
+ 12 
+ 13 : NAZWA % 5 + % 11 STYPE ;
+ 14 : SEK 1+ @ 3 0.R ;
+ 15 : *? C@ % 32 $$ !
+ 16         DUP % 98 = IF ." * "
+ 17         ENDIF
+ 18      DUP % 66 = IF S"   " ENDIF
+ 19      DUP % 67 = IF S" ? " ENDIF
+ 20     DUP % 130 = IF S" - " ENDIF
+ 21     DUP % 128 = IF S" - " ENDIF
+ 22     DUP 3     = IF S"  <"
+ 23                 % 62 $$ ! ENDIF
+ 24         % 35  = IF S" *<"
+ 25              % 62 $$ ! ENDIF ;
+ 26 
+ 27 : WYS DUP *? DUP NAZWA
+ 28      $$ @ EMIT SEK
+ 29      USTPOS ;
+ 30 
+ 31    -->
+
+SCR # 55 ( TXT )
+  0 
+  1 
+  2 
+  3 : >CH HERE % 200 + SWAP CMOVE ;
+  4 
+  5 : <CH >R HERE % 200 + SWAP R>
+  6         CMOVE ;
+  7 : (BLA) 2DUP SWAP % 12 + OVER -
+  8         BLANKS ;
+  9 
+ 10 : (PRZ) 3 >CH (BLA) OVER % 8 + 3
+ 11         <CH ;
+ 12 
+ 13 
+ 14 : C@* C@ % 42 = ;
+ 15 : C@. C@ % 46 = ;
+ 16 : *. 2DUP    C@* SWAP 1+
+ 17   C@. * IF DUP 2+ (PRZ) ENDIF ;
+ 18 : *B 2DUP    C@* SWAP 1+ C@.
+ 19      0= * IF (BLA) ENDIF ;
+ 20 
+ 21 : .B DUP C@. IF DUP 1+
+ 22      (PRZ) ENDIF ;
+ 23 
+ 24 : PRZYG % 12 0 DO DUP I + *. *B
+ 25        .B DROP  LOOP DROP ;
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31  -->
+
+SCR # 56 ( TXT )
+  0 
+  1 
+  2 : POROW 0 $$ ! SWAP
+  3         % 11 0 DO 2DUP I +
+  4         C@ DUP % 32 = 0=
+  5      IF SWAP I + C@ = 0= $$ +!
+  6      ELSE 2DROP ENDIF
+  7      LOOP 2DROP $$ @ 0= ;
+  8 0 VARIABLE #D: 13 ALLOT
+  9 : D: #D: 1+ ;
+ 10 : >D: #D: % 13 BLANKS % 12 #D:
+ 11       INPUT$ D: PRZYG ;
+ 12 1 VARIABLE #POT
+ 13 0 VARIABLE #AP
+ 14 1 VARIABLE #FUN
+ 15 0 VARIABLE ADWP
+ 16 0 VARIABLE #FILE
+ 17 : CZYTO #POT @ IF 2DUP+5
+ 18      % 11 CR S" 'T'-Ta nazwa: "
+ 19         TYPE CR KEY % 84 = IF 1
+ 20         ELSE 0 ." ?"
+ 21  S"                           "
+ 22  CR ." ??" ENDIF
+ 23  ELSE 1
+ 24  ENDIF ;
+ 25 
+ 26 : (POR) 2DUP+5 D: SWAP
+ 27         POROW  ;
+ 28 
+ 29  -->
+ 30 
+ 31 
+
+SCR # 57 ( TXT )
+  0 
+  1 
+  2 0 VARIABLE BLAD
+  3 
+  4 0 VARIABLE #BUFF
+  5 : BUF2 #BUFF @ ;
+  6 : DLS #DL @ % 125 /MOD SWAP 0
+  7         > + ;
+  8 : OSTDL ADWP @ #DL @ + SWAP -
+  9         % 125 MIN ;
+ 10 : SEKT@ BUF2 % 125 + DUP C@
+ 11        #FILE @ % 4 * - 256 *
+ 12        SWAP 1+ C@ + ;
+ 13 : BDISK #FUN @
+ 14    IF SWAP >R BUF2 SWAP #DISK
+ 15       @ 1 -DISK BUF2 R> BUF2
+ 16     % 127 + C@ DUP #DL +! CMOVE
+ 17       >R DROP SEKT@ R>
+ 18    ELSE >R BUF2 OVER OSTDL DUP
+ 19      >R CMOVE R> DUP
+ 20      BUF2 % 127 + C! % 125 =
+ 21      IF DUP 359 = IF % 10 + ELSE
+ 22      1+ ENDIF
+ 23      DUP 256 /MOD #FILE @
+ 24      % 4 * +
+ 25      ELSE DROP 0 DUP #FILE @
+ 26      % 4 * ENDIF
+ 27      BUF2 % 125 + C!
+ 28      BUF2 % 126 + C! BUF2 R>
+ 29      #DISK @ 0 -DISK
+ 30    ENDIF ;
+ 31                          -->
+
+SCR # 58 ( TXT )
+  0 
+  1 
+  2 : (WE-WY) 2DUP+3   @ 0 >R
+  3    BEGIN R ADWP @ + OVER
+  4          R> % 125 + >R
+  5          BDISK DUP BLAD !
+  6          OVER 0= +
+  7    UNTIL R> 2DROP BLAD @
+  8          DUP 0= + ;
+  9 : <WE-WY> DUP 1 = IF DROP CZYTO
+ 10            DUP IF DROP (WE-WY)
+ 11            ENDIF ENDIF ;
+ 12 CNUM: L* 66 98 3 35 67 300
+ 13 CNUM: SK* 128 130 300
+ 14 
+ 15 : LOAD* >R R SK* IF 0 ENDIF
+ 16            R 0 = IF % 170 ENDIF
+ 17  R> L* IF (POR) ENDIF <WE-WY> ;
+ 18 
+ 19 CNUM: S*0 98 35 300
+ 20 CNUM: S*1 67 66 3 300
+ 21 : DNAZ 2DUP+5 D: SWAP 11
+ 22             CMOVE ;
+ 23 : (DI) 2DUP + DLS   OVER 1+ ! ;
+ 24 : DI= (DI) DROP ;
+ 25 : DI< (DI) % 4 SWAP 3 + ! ;
+ 26 : DI> (DI) #AP @ DUP 1+ @ SWAP
+ 27        3 + @ DUP >R + DUP 367 >
+ 28       R> 360 < * IF % 9 + ENDIF
+ 29        SWAP 3 + ! ;
+ 30  -->
+ 31 
+
+SCR # 59 ( TXT )
+  0 
+  1 
+  2 : CZYROZ 2DUP + DUP 3 + @ SWAP
+  3          1+ @ + 719 > ;
+  4 : DPAR DUP 1 = IF DROP CZYROZ
+  5   >R 2DUP + R>  IF 3 SWAP C!
+  6   ELSE % 66   SWAP C! ENDIF
+  7   >R OVER DUP BLOCK SWAP 1+
+  8   #DISK @ 0 -DISK R> SWAP DUP
+  9   0= + ENDIF ;
+ 10 : ZAB 359 &BLOCK DROP DUP 1+
+ 11   C@ >R DUP 3 +
+ 12   % 120 ERASE 360 #DISK @ 0
+ 13   -DISK DROP R> % 243 = IF
+ 14   1023 &BLOCK DROP
+ 15   DUP % 125 ERASE 1024 #DISK @
+ 16   0 -DISK DROP ENDIF ;
+ 17 : SAVE*    >R R S*0 IF (POR)
+ 18         IF % 167 ELSE 0 ENDIF
+ 19         ENDIF
+ 20   R S*1 IF (POR) IF DI= 1 ELSE
+ 21            0 ENDIF  ENDIF
+ 22         R SK* R> 0= + #POT @ >R
+ 23         IF #FILE @
+ 24         0 #POT !
+ 25         IF DI> DNAZ 1 ELSE
+ 26         DI< DNAZ  1 ENDIF
+ 27         ZAB ENDIF
+ 28        <WE-WY> DPAR R> #POT ! ;
+ 29 : SBLOCK >R 2DUP SWAP 1+ #DISK
+ 30        @ 0 -DISK R> SWAP ;
+ 31  -->
+
+SCR # 60 ( TXT )
+  0 
+  1 
+  2 0 VARIABLE #*
+  3 0 VARIABLE #<*
+  4 
+  5 : LO/UN >R IF (POR)
+  6    IF CZYROZ
+  7  IF 2DUP + #<* @ SWAP C! SBLOCK
+  8    ELSE 2DUP + #* @ SWAP C!
+  9    SBLOCK ENDIF
+ 10  ELSE 0 ENDIF
+ 11  ELSE 0 ENDIF
+ 12  R> 0= IF DROP 1 ENDIF ;
+ 13 
+ 14 : LOCK* % 35 #<* ! % 98 #* !
+ 15         DUP S*1 SWAP LO/UN ;
+ 16 : UNL* % 3 #<* ! % 66 #* !
+ 17         DUP S*0 SWAP LO/UN ;
+ 18 : DIR* 0= IF 1 ELSE 2DUP +
+ 19  C@ L* IF 2DUP + ILSEK- ENDIF
+ 20   (POR)
+ 21  IF 2DUP + WYS ENDIF 0 ENDIF ;
+ 22 : RE* >R R S*1
+ 23    IF (POR) IF CZYTO
+ 24           IF CR S" Nowa nazwa:"
+ 25     >D: 2DUP+5 D: SWAP 11
+ 26    CMOVE SBLOCK DUP 0= +
+ 27     ELSE 0 ENDIF
+ 28    ELSE 0 ENDIF ELSE 0 ENDIF
+ 29    R S*0 IF DROP (POR) IF % 167
+ 30       ELSE 0 ENDIF ENDIF
+ 31    R> 0= IF DROP 1 ENDIF ;  -->
+
+SCR # 61 ( TXT )
+  0 
+  1 
+  2 : NIC ;
+  3 
+  4 SELECT (FUNK) SAVE* LOAD* LOCK*
+  5 UNL* DIR* RE* ;
+  6 
+  7 : FUNK #FUN @ (FUNK) ;
+  8 
+  9 : (SZUKA) 0 0 BEGIN DROP
+ 10         2DUP + C@ FUNK >R R
+ 11         0= IF 2DUP + #AP !
+ 12           % 16 + 1 #FILE +!
+ 13         ENDIF R>
+ 14         OVER [ 16 8 * ] LITERAL
+ 15         = OVER +
+ 16         UNTIL >R 2DROP R> ;
+ 17 
+ 18 : SZUKA #FUN ! EMPTY-BUFFERS
+ 19        [ 45 8 * 1 - ] LITERAL
+ 20        0 #AP ! 0 #FILE !
+ 21       9000 BUFFER #BUFF !
+ 22        BEGIN 1+ DUP
+ 23          &BLOCK -DUP 0=
+ 24          IF (SZUKA) ELSE SWAP
+ 25            DROP ENDIF
+ 26          -DUP UNTIL SWAP DROP ;
+ 27 
+ 28 : (ERR) DUP 1 = - CR &ERROR CR ;
+ 29 
+ 30     -->
+ 31 
+
+SCR # 62 ( TXT )
+  0 
+  1 
+  2 : ?NAZ CR S" Nazwa zbioru : "
+  3    >D: ;
+  4 
+  5 
+  6 
+  7 : LOAD+ 0 #DL ! ADWP ! ?NAZ
+  8     1 SZUKA ;
+  9 : LOAD. LOAD+ (ERR) ;
+ 10 
+ 11 : SAVE+ #DL ! ADWP ! ?NAZ
+ 12     0 SZUKA ;
+ 13 
+ 14 : SAVE. SAVE+ (ERR) ;
+ 15 
+ 16 : LOCK ?NAZ 2 SZUKA (ERR) ;
+ 17 
+ 18 : UNLOCK ?NAZ 3 SZUKA (ERR) ;
+ 19 
+ 20 : <DIR> ILSEK!
+ 21 
+ 22       % 4 SZUKA DUP 1 =
+ 23       IF #ILS @ 3 0.R
+ 24     ."  Free sectors" CR ENDIF
+ 25    (ERR) ;
+ 26 : DIR. ?NAZ <DIR> ;
+ 27 : DIR D: % 11 BLANKS <DIR> ;
+ 28 
+ 29 : RENAME ?NAZ % 5 SZUKA (ERR) ;
+ 30 
+ 31  -->
+
+SCR # 63 ( TXT )
+  0  ( ----- )
+  1 
+  2 
+  3 : ?DME % 125 EMIT
+  4   S" ???????????????????????????
+  5 ????????"
+  6 CR S" | D-DIRECT. | L-LOAD  | S-
+  7 SAVE    |"
+  8 CR S" | R-RENAME  | B-LOCK  | U-
+  9 UNLOCK  |"
+ 10 CR S" ??????????????????????????
+ 11 ?????????"
+ 12 CR % 14 X! S" | E-EXIT  |"
+ 13 CR % 14 X! S" ???????????" CR ;
+ 14  KEY: KEY1 68 76 83 82 66 85 69
+ 15 32 300
+ 16 
+ 17 : ?DIR ?DME DIR ;
+ 18 : SAV& S" SAVE" #ADR @ #DL @
+ 19            SAVE. ;
+ 20 : LOD& S" LOAD" #ADR @ LOAD. ;
+ 21 : EE DROP 1 ;
+ 22 : REN& S" RENAME" RENAME ;
+ 23 : LO& S" LOCK" LOCK ;
+ 24 : UNL& S" UNLOCK" UNLOCK ;
+ 25 
+ 26 SELECT DWY DIR ?DIR LOD& SAV& RE
+ 27 N& LO& UNL& EE ?DME ;
+ 28 FORTH DEFINITIONS
+ 29 : DOS FDOS ?DME BEGIN 0
+ 30 S" Wybierz: " KEY1 DWY UNTIL
+ 31  CR FORTH ; HERE 500 + #ADR !
+
+SCR # 64 ( TXT )
+  0  ( OPIS FDOSA )
+  1 
+  2 
+  3 ( Rrzed zapisem SAVE lub odczyt
+  4 ( em LOAD nalezy wpisac do
+  5 ( zmiennej #ADR adres poczatku
+  6 ( odczytu lub zapisu w pamieci
+  7 ( Przed zapisem SAVE nalezy
+  8 ( takze podac dlugosc zapisu
+  9 ( do zmiennej #DL.
+ 10 ( #DISK - zawiera numer aktual-
+ 11 ( nie uzywanej stacji.
+ 12 ( Meni DOSa wywolujemy slowem
+ 13 ( DOS.
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 65 ( TXT )
+  0  ( ----- )
+  1 
+  2 
+  3 : ?DME % 125 EMIT
+  4   S" ???????????????????????????
+  5 ????????"
+  6 CR S" | D-DIRECT. | L-LOAD  | S-
+  7 SAVE    |"
+  8 CR S" | R-RENAME  | B-LOCK  | U-
+  9 UNLOCK  |"
+ 10 CR S" ??????????????????????????
+ 11 ?????????"
+ 12 CR % 14 X! S" | E-EXIT  |"
+ 13 CR % 14 X! S" ???????????" CR ;
+ 14  KEY: KEY1 68 76 83 82 66 85 69
+ 15 32 300
+ 16 
+ 17 : ?DIR ?DME DIR ;
+ 18 : SAV& S" SAVE" #ADR @ #DL @
+ 19            SAVE. ;
+ 20 : LOD& S" LOAD" #ADR @ LOAD. ;
+ 21 : EE DROP 1 ;
+ 22 : REN& S" RENAME" RENAME ;
+ 23 : LO& S" LOCK" LOCK ;
+ 24 : UNL& S" UNLOCK" UNLOCK ;
+ 25 
+ 26 SELECT DWY DIR ?DIR LOD& SAV& RE
+ 27 N& LO& UNL& EE ?DME ;
+ 28 FORTH DEFINITIONS
+ 29 : DOS FDOS ?DME BEGIN 0
+ 30 S" Wybierz: " KEY1 DWY UNTIL
+ 31  CR FORTH ; HERE 500 + #ADR !
+
+SCR # 66 ( TXT )
+  0  ( RAGSDALE ASSEMBLER 1.1 )
+  1 
+  2 VOCABULARY ASSEMBLER IMMEDIATE A
+  3 SSEMBLER DEFINITIONS BASE @ HEX
+  4 
+  5 
+  6 0 VARIABLE INDEX -2 ALLOT 0909 ,
+  7  1505 , 0115 , 8011 , 8009 ,
+  8 1D0D , 8019 , 8080 , 0080 , 1404
+  9  , 8014 , 8080 , 8080 ,
+ 10 1C0C , 801C , 2C80 ,
+ 11 
+ 12 2 VARIABLE MODE : .A 0 MODE ! ;
+ 13 : # 1 MODE ! ; : MEM 2 MODE ! ;
+ 14 : ,X 3 MODE ! ; : ,Y 4 MODE ! ;
+ 15 : X) 5 MODE ! ; : )Y 6 MODE ! ;
+ 16 : ) F MODE ! ; : BOT ,X 0 ; : SE
+ 17 C ,X 2 ; : RP) ,X 101 ;
+ 18 : UPMODE IF MODE @ 8 AND 0= IF 8
+ 19  MODE +! THEN THEN
+ 20 1 MODE @ F AND -DUP IF 0 DO DUP
+ 21 + LOOP THEN OVER 1+ @ AND 0= ;
+ 22 : CPU <BUILDS C, DOES> C@ C, MEM
+ 23  ;
+ 24 00 CPU BRK, 18 CPU CLC, D8 CPU C
+ 25 LD, 58 CPU CLI, B8 CPU CLV,
+ 26 CA CPU DEX, 88 CPU DEY, E8 CPU I
+ 27 NX, C8 CPU INY, EA CPU NOP,
+ 28 48 CPU PHA, 08 CPU PHP, 68 CPU P
+ 29 LA, 28 CPU PLP, 40 CPU RTI,
+ 30 60 CPU RTS, 38 CPU SEC, F8 CPU S
+ 31 ED, 78 CPU SEI, AA CPU TAX, -->
+
+SCR # 67 ( TXT )
+  0 
+  1 
+  2 A8 CPU TAY, BA CPU TSX, 8A CPU T
+  3 XA, 9A CPU TXS, 98 CPU TYA,
+  4 : MCP <BUILDS C, , DOES> DUP 1+
+  5 @ 80 AND IF 10 MODE +! THEN
+  6 OVER FF00 AND UPMODE UPMODE IF M
+  7 EM CR LATEST ID. 3 ERROR THEN
+  8 C@ MODE C@ INDEX + C@ + C, MODE
+  9 C@ 7 AND IF MODE C@ F AND 7 <
+ 10 IF C, ELSE , THEN THEN MEM ;
+ 11 
+ 12 1C6E 60 MCP ADC, 1C6E 20 MCP AND
+ 13 , 1C6E C0 MCP CMP,
+ 14 1C6E 40 MCP EOR, 1C6E A0 MCP LDA
+ 15 , 1C6E 00 MCP ORA,
+ 16 1C6E E0 MCP SBC, 1C6C 80 MCP STA
+ 17 , 0D0D 01 MCP ASL,
+ 18 0C0C C1 MCP DEC, 0C0C E1 MCP INC
+ 19 , 0D0D 41 MCP LSR,
+ 20 0D0D 21 MCP ROL, 0D0D 61 MCP ROR
+ 21 , 0414 81 MCP STX,
+ 22 0486 E0 MCP CPX, 0486 C0 MCP CPY
+ 23 , 1496 A2 MCP LDX,
+ 24 0C8E A0 MCP LDY, 048C 80 MCP STY
+ 25 , 0480 14 MCP JSR,
+ 26 8480 40 MCP JMP, 0484 20 MCP BIT
+ 27 ,
+ 28 : BEGIN, HERE 1 ; IMMEDIATE
+ 29 
+ 30 : UNTIL, ?EXEC >R 1 ?PAIRS R> C,
+ 31  HERE 1+ - C, ; IMMEDIATE -->
+
+SCR # 68 ( TXT )
+  0  ( ----------------- )
+  1 
+  2 : IF, C, HERE 0 C, 2 ; IMMEDIATE
+  3 
+  4 : THEN, ?EXEC 2 ?PAIRS HERE OVER
+  5  C@ IF SWAP ! ELSE OVER 1+
+  6 - SWAP C! THEN ;  IMMEDIATE
+  7 
+  8 : ELSE, 2 ?PAIRS HERE 1+ 1 JMP,
+  9 SWAP HERE OVER 1+ - SWAP C!
+ 10 2 ;  IMMEDIATE
+ 11 
+ 12 : NOT 20 + ;
+ 13 
+ 14 90 CONSTANT CS D0 CONSTANT 0= 10
+ 15  CONSTANT 0< 90 CONSTANT >=
+ 16 : C; CURRENT @ CONTEXT ! ?EXEC ?
+ 17 CSP SMUDGE ;  IMMEDIATE
+ 18 : END-CODE [COMPILE] C; ;
+ 19               IMMEDIATE
+ 20 FORTH DEFINITIONS DECIMAL
+ 21 
+ 22 : CODE ?EXEC CREATE [COMPILE] AS
+ 23 SEMBLER ASSEMBLER MEM !CSP ;
+ 24  IMMEDIATE  ' ASSEMBLER CFA ' ;C
+ 25 ODE 8 + ! LATEST 12 +ORIGIN !
+ 26 HERE 28 +ORIGIN ! HERE 30 +ORIGI
+ 27 N ! HERE FENCE !
+ 28 ' ASSEMBLER 6 + 32 +ORIGIN !
+ 29  BASE ! FORTH
+ 30 : MAC  -FIND 0= 0 ?ERROR DROP 32
+ 31  C, , ; IMMEDIATE ;S
+
+SCR # 69 ( TXT )
+  0  ( B/SLO )
+  1 
+  2 
+  3 2 CONSTANT B/SLO
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 70 ( TXT )
+  0  ( Format:" S " )
+  1 
+  2 
+  3  DECIMAL
+  4 
+  5  720 ' R/W 6 + !
+  6 
+  7 
+  8  89 #GGE !
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 71 ( TXT )
+  0  ( Format:" E " )
+  1 
+  2 
+  3  DECIMAL
+  4 
+  5  1033 ' R/W 6 + !
+  6 
+  7 
+  8  129 #GGE !
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 72 ( TXT )
+  0  ( HFORGET NOINT CONINT )
+  1 
+  2 : HFORGET [ ' DUP CFA ] LITERAL
+  3   ' FORGET ! [ ' DROP CFA ]
+  4   LITERAL [ ' FORGET 2+ ]
+  5   LITERAL ! FORGET
+  6  [ ' ' CFA ] LITERAL ' FORGET !
+  7  [ ' NFA CFA ] LITERAL
+  8  [ ' FORGET 2+ ] LITERAL ! ;
+  9 ( NFA ---  ksuje slowo ktorego
+ 10 (          adres pola nazwy
+ 11 (       znajduje sie na stosie.
+ 12 
+ 13 : NOINT -FIND IF DROP DROP
+ 14   [ ' DROP CFA ] LITERAL DUP
+ 15   [ ' CREATE 29 + ] LITERAL !
+ 16   [ ' CREATE 34 + ] LITERAL !
+ 17   HERE % 187 ELSE 0
+ 18   ENDIF ;
+ 19 (  --- CCC gdy w slowniku ist-
+ 20 (          nieje slowo CCC to
+ 21 (          nastempne na ekranie
+ 22 (     slowa nie sa kompilowane.
+ 23 
+ 24 : CONINT % 187 = IF HFORGET
+ 25   [ ' ID. CFA ] LITERAL
+ 26   [ ' CREATE 29 + ] LITERAL !
+ 27   [ ' MESSAGE CFA ] LITERAL
+ 28   [ ' CREATE 34 + ] LITERAL !
+ 29     ENDIF ;
+ 30 (  --- wylancza NOINT
+ 31 
+
+SCR # 73 ( TXT )
+  0  ( LOAD= LOAD<> )
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 : LOAD= -FIND IF DROP DROP
+  8         LOAD (ABORT) ENDIF ;
+  9 
+ 10 ( N --- CCC Uzywane na ekranach
+ 11 (           laduje ekran N gdy
+ 12 (           w slowniku jest
+ 13 (           slowo CCC .
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 : LOAD<> -FIND IF DROP DROP
+ 19        ELSE IN @ BLK @ ROT LOAD
+ 20        BLK ! IN ! INTERPRET
+ 21        ENDIF ;
+ 22 
+ 23 ( N --- CCC Uzywane na ekranach
+ 24 (           laduje ekran N gdy
+ 25 (           w slowniku jest
+ 26 (           slowo CCC .
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 74 ( TXT )
+  0  ( ONKUR OFFKUR P88 [os] -- )
+  1 
+  2 
+  3 752 CONSTANT CRSINH
+  4 
+  5 
+  6 : ONKUR 0 CRSINH C! ;
+  7 
+  8 (  ---  wlancza widocznosc
+  9 (       kursora.
+ 10 
+ 11 
+ 12 : OFFKUR 1 CRSINH C! ;
+ 13 
+ 14 (  ---  wylancza widocznosc
+ 15 (       kursora.
+ 16 
+ 17 
+ 18 : P88 % 40 * % 88 +! ;
+ 19 
+ 20 (  N --- przesuwa obsluge insr.
+ 21 (       POS o N lini w gore lub
+ 22 (       w dol w zaleznosci od
+ 23 (       znaku.
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 75 ( TXT )
+  0  ( STYPE S" [os] )
+  1 
+  2 
+  3 
+  4 : STYPE OVER OVER ASC-PEEK
+  5         OVER OVER DUP >R % 88
+  6         @ % 85 @ DUP >R + % 84
+  7         C@ % 40 * + SWAP R> R>
+  8        + 85 ! % 30 EMIT 31 EMIT
+  9        CMOVE PEEK-ASC ;
+ 10 
+ 11 ( AD N --- pisze na ekranie
+ 12 (          ciag znakow jak TYPE
+ 13 (          lecz szybciej, nie
+ 14 (          uwzglednia ???? itp.
+ 15 
+ 16 : (S") R COUNT DUP 1+ R> + >R
+ 17        STYPE ;
+ 18 
+ 19 : S" [ ' (S") CFA ] LITERAL
+ 20     [ ' ." 13 + ] LITERAL !
+ 21     [COMPILE] ."
+ 22     [ ' (.") CFA ] LITERAL
+ 23     [ ' ." 13 + ] LITERAL ! ;
+ 24     IMMEDIATE
+ 25 
+ 26 ( --- uzywane podczas kompilacji
+ 27  (    jak ." lecz wykozystuje
+ 28 (     do wyprowadzania STYPE
+ 29 
+ 30 
+ 31 
+
+SCR # 76 ( TXT )
+  0  ( CNUM: KEY: [os] )
+  1 
+  2 : (L1) 0 HERE >R 0 C, BEGIN BL
+  3         WORD HERE NUMBER DROP
+  4         DUP 256 < WHILE
+  5       C, 1+ REPEAT DROP R> C! ;
+  6 
+  7 : CNUM: <BUILDS (L1) DOES>
+  8         COUNT INSTR ;
+  9 
+ 10 ( --- CCC L1 L2 L3 L4 . . LN  )
+ 11 (         Slowo deklarujace
+ 12 ( w czasie delarowania slowo
+ 13 ( ccc przyjmuje liczby L1 L2 it
+ 14 ( az do LN gdy LN>255.
+ 15 ( dzialanie ccc
+ 16 ( L0 --- F Sprawdza czy posiada
+ 17 ( liczbe L0 w swojej deklaracji
+ 18 ( jezeli tak to F ma wartosc
+ 19 ( pozycji jakie zajmuje liczba
+ 20 ( jezeli nie to F=0           )
+ 21 0 VARIABLE K#
+ 22 
+ 23 : KEY: <BUILDS (L1) DOES>
+ 24   BEGIN KEY DUP K# ! OVER COUNT
+ 25    INSTR -DUP UNTIL SWAP DROP ;
+ 26 ( --- CCC L1 L2 L3 . . LN
+ 27 (      Slowo deklarujace nowe
+ 28 ( KEY jak wyzej
+ 29 ( Dzialanie: --- NR gdzie NR to
+ 30 ( numer kolejny ASCII  odczyta-
+ 31 ( ny  z klawiatury.           )
+
+SCR # 77 ( TXT )
+  0  ( POS X@ Y@ X! Y! )
+  1 
+  2 
+  3 : X! % 85 ! ;
+  4 
+  5 : Y! % 84 C! ;
+  6 
+  7 : X@ % 85 @ ;
+  8 
+  9 : Y@ % 84 C@ ;
+ 10 
+ 11 : POS Y! X! ;
+ 12 
+ 13 
+ 14 ( Ustalanie pozycji kursora
+ 15 ( i odczyt tej pozycji
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 78 ( TXT )
+  0  ( <=W  )
+  1 
+  2 
+  3 : <=W >R 0 WORD HERE COUNT 2DUP
+  4       ASC-PEEK R> SWAP CMOVE ;
+  5 
+  6 ( ADR --- CCCC Wpisuje tekst cc
+  7 (    zakonczony znakiem ?
+  8 (    w adres ADR i zamienia go
+  9 (    na kody PEEK-POKE
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 79 ( TXT )
+  0  ( RAGSDALE ASSEMBLER 1.1 )
+  1 
+  2 VOCABULARY ASSEMBLER IMMEDIATE A
+  3 SSEMBLER DEFINITIONS BASE @ HEX
+  4 
+  5 
+  6 0 VARIABLE INDEX -2 ALLOT 0909 ,
+  7  1505 , 0115 , 8011 , 8009 ,
+  8 1D0D , 8019 , 8080 , 0080 , 1404
+  9  , 8014 , 8080 , 8080 ,
+ 10 1C0C , 801C , 2C80 ,
+ 11 
+ 12 2 VARIABLE MODE : .A 0 MODE ! ;
+ 13 : # 1 MODE ! ; : MEM 2 MODE ! ;
+ 14 : ,X 3 MODE ! ; : ,Y 4 MODE ! ;
+ 15 : X) 5 MODE ! ; : )Y 6 MODE ! ;
+ 16 : ) F MODE ! ; : BOT ,X 0 ; : SE
+ 17 C ,X 2 ; : RP) ,X 101 ;
+ 18 : UPMODE IF MODE @ 8 AND 0= IF 8
+ 19  MODE +! THEN THEN
+ 20 1 MODE @ F AND -DUP IF 0 DO DUP
+ 21 + LOOP THEN OVER 1+ @ AND 0= ;
+ 22 : CPU <BUILDS C, DOES> C@ C, MEM
+ 23  ;
+ 24 00 CPU BRK, 18 CPU CLC, D8 CPU C
+ 25 LD, 58 CPU CLI, B8 CPU CLV,
+ 26 CA CPU DEX, 88 CPU DEY, E8 CPU I
+ 27 NX, C8 CPU INY, EA CPU NOP,
+ 28 48 CPU PHA, 08 CPU PHP, 68 CPU P
+ 29 LA, 28 CPU PLP, 40 CPU RTI,
+ 30 60 CPU RTS, 38 CPU SEC, F8 CPU S
+ 31 ED, 78 CPU SEI, AA CPU TAX, -->
+
+SCR # 80 ( TXT )
+  0  ( RAM-BRANT KONWERTER LOAD )
+  1 
+  2  40 CONSTANT BAJ/LIN
+  3 ( ilosc bajtow w lini ekranu   )
+  4  4 VARIABLE XBAJ
+  5 ( max szerokosc bajtwa objektu )
+  6 
+  7  1 VARIABLE NR-OBJ
+  8  60 CONSTANT ILBL
+  9 
+ 10 0 VARIABLE IB
+ 11 0 VARIABLE BLKB
+ 12 
+ 13 0 VARIABLE IB0
+ 14 64 0 * 1+ VARIABLE BLK0
+ 15 
+ 16 : ARRAY <BUILDS 2 * ALLOT DOES>
+ 17          SWAP 2 * + ;
+ 18 
+ 19 40 CONSTANT WXY
+ 20 WXY 2 / ARRAY XB1
+ 21 WXY 2 / ARRAY XB2
+ 22 WXY 2 / ARRAY YB1
+ 23 WXY 2 / ARRAY YB2
+ 24 0 VARIABLE LIB
+ 25 
+ 26 : C-XYB 0 XB1 WXY ERASE
+ 27         0 XB2 WXY ERASE
+ 28         0 YB1 WXY ERASE
+ 29         0 YB2 WXY ERASE ;
+ 30 -->
+ 31 
+
+SCR # 81 ( TXT )
+  0 
+  1 
+  2 : IB>XY IB @ IB0 @ - BLKB @
+  3         BLK0 @ - B/BUF * +
+  4         BAJ/LIN /MOD ;
+  5 
+  6 ( --- X Y  zamienia pozycje    )
+  7 (     zapisana w BLKB i IB na  )
+  8 (    pozycje  X bajtowe i Y    )
+  9 
+ 10 002 LOAD" TOVER
+ 11 
+ 12 : Y-OBJ >R R XB2 @ XBAJ @ -
+ 13         TOVER R XB1 @ XBAJ @ +
+ 14         <=< R YB1 @ 1 - TOVER
+ 15         R YB2 @ 3 + <=< *
+ 16         R> DROP ;
+ 17 ( X Y NR-OBJ --- X Y F         )
+ 18 (   podaje czy punkt o         )
+ 19 (            wspolrzednych X Y )
+ 20 (  nalezy do objektu o numerze )
+ 21 (  NR-OBJ                     )
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 -->
+
+SCR # 82 ( TXT )
+  0 
+  1 
+  2 : (WP) >R R 1+ LIB @ >
+  3      IF DUP R YB1 ! R YB2 !
+  4        DUP R XB1 ! R XB2 !
+  5        R 1+ LIB ! 1
+  6      ELSE
+  7       R Y-OBJ DUP R> SWAP >R >R
+  8        IF
+  9         DUP  R YB2 @ >
+ 10         IF DUP  R YB2 ! ENDIF
+ 11         OVER R XB1 @ <
+ 12         IF OVER R XB1 ! ENDIF
+ 13         OVER R XB2 @ >
+ 14         IF OVER R XB2 ! ENDIF
+ 15        ENDIF 2DROP
+ 16       R> R> SWAP >R
+ 17      ENDIF R> DROP ;
+ 18 
+ 19 ( X Y NR-OBJ --- F   wpisuje   )
+ 20 (  pozycje X Y w objekt NR-OBJ )
+ 21 (  gdy nie nalezy F=0          )
+ 22 
+ 23 -->
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 83 ( TXT )
+  0  ( -------- )
+  1 
+  2 : WPIS IB>XY 20 0
+  3         DO 2DUP I (WP)
+  4           IF LEAVE ENDIF
+  5         LOOP 2DROP ;
+  6 
+  7 ( --- wpisze pozycje X Y w     )
+  8 (     prawidlowy numer objektu )
+  9 
+ 10 
+ 11 : (SZK) OVER >R + R> B/BUF +
+ 12    SWAP DO I C@ IF I PAD - IB !
+ 13             WPIS ENDIF LOOP ;
+ 14 
+ 15 ( ADR IB0@ ---   szuka objektu )
+ 16 ( miedzy ADR+IB0@ a ADR+B/BUF  )
+ 17 
+ 18 : SZK  0 LIB ! C-XYB IB0 @
+ 19        BLK0 @ DUP ILBL + SWAP
+ 20        DO I BLKB !
+ 21          PAD I 1 R/W PAD
+ 22          SWAP (SZK) 0
+ 23        LOOP DROP ;
+ 24 
+ 25 ( ---   czyta odpowiedni obraz )
+ 26 (  z dysku i szuka objektow    )
+ 27 (  zapisuje ich pozycje w      )
+ 28 (  tablicach XB1 XB2 YB1 YB2   )
+ 29 
+ 30 
+ 31 
+
+SCR # 84 ( TXT )
+  0  ( Format:" E " )
+  1 
+  2 
+  3  DECIMAL
+  4 
+  5  1033 ' R/W 6 + !
+  6 
+  7 
+  8  129 #GGE !
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 85 ( TXT )
+  0  ( HFORGET NOINT CONINT )
+  1 
+  2 : HFORGET [ ' DUP CFA ] LITERAL
+  3   ' FORGET ! [ ' DROP CFA ]
+  4   LITERAL [ ' FORGET 2+ ]
+  5   LITERAL ! FORGET
+  6  [ ' ' CFA ] LITERAL ' FORGET !
+  7  [ ' NFA CFA ] LITERAL
+  8  [ ' FORGET 2+ ] LITERAL ! ;
+  9 ( NFA ---  ksuje slowo ktorego
+ 10 (          adres pola nazwy
+ 11 (       znajduje sie na stosie.
+ 12 
+ 13 : NOINT -FIND IF DROP DROP
+ 14   [ ' DROP CFA ] LITERAL DUP
+ 15   [ ' CREATE 29 + ] LITERAL !
+ 16   [ ' CREATE 34 + ] LITERAL !
+ 17   HERE % 187 ELSE 0
+ 18   ENDIF ;
+ 19 (  --- CCC gdy w slowniku ist-
+ 20 (          nieje slowo CCC to
+ 21 (          nastempne na ekranie
+ 22 (     slowa nie sa kompilowane.
+ 23 
+ 24 : CONINT % 187 = IF HFORGET
+ 25   [ ' ID. CFA ] LITERAL
+ 26   [ ' CREATE 29 + ] LITERAL !
+ 27   [ ' MESSAGE CFA ] LITERAL
+ 28   [ ' CREATE 34 + ] LITERAL !
+ 29     ENDIF ;
+ 30 (  --- wylancza NOINT
+ 31 
+
+SCR # 86 ( TXT )
+  0  ( LOAD= LOAD<> )
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 : LOAD= -FIND IF DROP DROP
+  8         LOAD (ABORT) ENDIF ;
+  9 
+ 10 ( N --- CCC Uzywane na ekranach
+ 11 (           laduje ekran N gdy
+ 12 (           w slowniku jest
+ 13 (           slowo CCC .
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 : LOAD<> -FIND IF DROP DROP
+ 19        ELSE IN @ BLK @ ROT LOAD
+ 20        BLK ! IN ! INTERPRET
+ 21        ENDIF ;
+ 22 
+ 23 ( N --- CCC Uzywane na ekranach
+ 24 (           laduje ekran N gdy
+ 25 (           w slowniku jest
+ 26 (           slowo CCC .
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 87 ( TXT )
+  0  ( ONKUR OFFKUR P88 [os] -- )
+  1 
+  2 
+  3 752 CONSTANT CRSINH
+  4 
+  5 
+  6 : ONKUR 0 CRSINH C! ;
+  7 
+  8 (  ---  wlancza widocznosc
+  9 (       kursora.
+ 10 
+ 11 
+ 12 : OFFKUR 1 CRSINH C! ;
+ 13 
+ 14 (  ---  wylancza widocznosc
+ 15 (       kursora.
+ 16 
+ 17 
+ 18 : P88 % 40 * % 88 +! ;
+ 19 
+ 20 (  N --- przesuwa obsluge insr.
+ 21 (       POS o N lini w gore lub
+ 22 (       w dol w zaleznosci od
+ 23 (       znaku.
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 88 ( TXT )
+  0  ( STYPE S" [os] )
+  1 
+  2 
+  3 
+  4 : STYPE OVER OVER ASC-PEEK
+  5         OVER OVER DUP >R % 88
+  6         @ % 85 @ DUP >R + % 84
+  7         C@ % 40 * + SWAP R> R>
+  8        + 85 ! % 30 EMIT 31 EMIT
+  9        CMOVE PEEK-ASC ;
+ 10 
+ 11 ( AD N --- pisze na ekranie
+ 12 (          ciag znakow jak TYPE
+ 13 (          lecz szybciej, nie
+ 14 (          uwzglednia ???? itp.
+ 15 
+ 16 : (S") R COUNT DUP 1+ R> + >R
+ 17        STYPE ;
+ 18 
+ 19 : S" [ ' (S") CFA ] LITERAL
+ 20     [ ' ." 13 + ] LITERAL !
+ 21     [COMPILE] ."
+ 22     [ ' (.") CFA ] LITERAL
+ 23     [ ' ." 13 + ] LITERAL ! ;
+ 24     IMMEDIATE
+ 25 
+ 26 ( --- uzywane podczas kompilacji
+ 27  (    jak ." lecz wykozystuje
+ 28 (     do wyprowadzania STYPE
+ 29 
+ 30 
+ 31 
+
+SCR # 89 ( TXT )
+  0  ( CNUM: KEY: [os] )
+  1 
+  2 : (L1) 0 HERE >R 0 C, BEGIN BL
+  3         WORD HERE NUMBER DROP
+  4         DUP 256 < WHILE
+  5       C, 1+ REPEAT DROP R> C! ;
+  6 
+  7 : CNUM: <BUILDS (L1) DOES>
+  8         COUNT INSTR ;
+  9 ( --- CCC L1 L2 L3 L4 . . LN
+ 10 
+ 11 (         Slowo deklarujace
+ 12 ( w czasie delarowania slowo
+ 13 ( ccc przyjmuje liczby L1 L2 it
+ 14 ( az do LN gdy LN>255.
+ 15 ( dzialanie ccc
+ 16 ( L0 --- F Sprawdza czy posiada
+ 17 ( liczbe L0 w swojej deklaracji
+ 18 ( jezeli tak to F ma wartosc
+ 19 ( pozycji jakie zajmuje liczba
+ 20 ( jezeli nie to F=0
+ 21 
+ 22 : KEY: <BUILDS (L1) DOES>
+ 23        BEGIN KEY OVER COUNT
+ 24    INSTR -DUP UNTIL SWAP DROP ;
+ 25 ( --- CCC L1 L2 L3 . . LN
+ 26 (      Slowo deklarujace nowe
+ 27 ( KEY jak wyzej
+ 28 ( Dzialanie: --- NR gdzie NR to
+ 29 ( numer kolejny ASCII  odczyta-
+ 30 ( ny  z klawiatury.
+ 31 
+
+SCR # 90 ( TXT )
+  0  ( POS X@ Y@ X! Y! )
+  1 
+  2 
+  3 : X! % 85 ! ;
+  4 
+  5 : Y! % 84 C! ;
+  6 
+  7 : X@ % 85 @ ;
+  8 
+  9 : Y@ % 84 C@ ;
+ 10 
+ 11 : POS Y! X! ;
+ 12 
+ 13 
+ 14 ( Ustalanie pozycji kursora
+ 15 ( i odczyt tej pozycji
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 91 ( TXT )
+  0  ( <=W  )
+  1 
+  2 
+  3 : <=W >R 0 WORD HERE COUNT 2DUP
+  4       ASC-PEEK R> SWAP CMOVE ;
+  5 
+  6 ( ADR --- CCCC Wpisuje tekst cc
+  7 (    zakonczony znakiem ?
+  8 (    w adres ADR i zamienia go
+  9 (    na kody PEEK-POKE
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 92 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 93 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 94 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 95 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 96 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 97 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 98 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 99 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 100 ( TXT )
+  0  ( <=DL  display list         )
+  1 
+  2 : >P DUP % 255 > IF OVER ! 2 +
+  3      ELSE OVER C! 1+ ENDIF ;
+  4 0 VARIABLE IDL
+  5 0 VARIABLE LDL
+  6 : W>N BL WORD HERE NUMBER DROP ;
+  7 
+  8 : W>>N IDL @
+  9      IF LDL @ -1 IDL +!
+ 10      ELSE
+ 11       BL WORD HERE C@ 1 =
+ 12       HERE 1+ C@ 42 = *
+ 13        IF W>N IDL ! W>N LDL !
+ 14           LDL @ -1 IDL +!
+ 15        ELSE HERE NUMBER DROP
+ 16      ENDIF ENDIF ;  HEX
+ 17 : DL 0 IDL ! DUP BEGIN W>>N
+ 18      DUP % 41 = 0= WHILE >P
+ 19      REPEAT DUP % 41 =
+ 20      IF >P W>N >P ELSE DROP
+ 21      ENDIF SWAP - ;
+ 22   DECIMAL
+ 23 
+ 24 ( ADR --- N1 NN2 N3 ... 65 NN  )
+ 25 ( wpisuje D.L. pod adres ADR   )
+ 26 ( zakonczony skokiem 65 NN     )
+ 27 ( * ilosc bajt - taki zapis    )
+ 28 ( wiekszej ilosci jednakowych  )
+ 29 ( bajtow jest mozliwy         )
+ 30 ( zostawia DL na stosie       )
+ 31  -->
+
+SCR # 101 ( TXT )
+  0  ( ------- )
+  1 
+  2  010 LOAD" >MOVE
+  3 
+  4 : <=DL PAD SWAP PAD DL
+  5        >MOVE ;
+  6 
+  7 
+  8 
+  9 0 VARIABLE AS 40 ALLOT
+ 10 
+ 11 AS <=DL 20 20 * 10 5 65 2345
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 102 ( TXT )
+  0  ( =>DL  Display list )
+  1 
+  2 
+  3  000 LOAD" <MOVE
+  4 
+  5 : PE! OUNT OVER  + SWAP DO
+  6       I C@ 64 AND
+  7         IF I 1+ @ 88 ! LEAVE
+  8         ENDIF
+  9       LOOP ;
+ 10 
+ 11 : >=DL DUP OUNT + 2 - @ DUP >R
+ 12        <MOVE R> 560 ! PE! ;
+ 13 
+ 14 
+ 15 ( ADR ---  wysyla do dzialania )
+ 16 (   display list z adresu ADR )
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 103 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 104 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 105 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 106 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 107 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 108 ( TXT )
+  0  ( OSF - operacyjny sys forth )
+  1 
+  2 
+  3 
+  4 0 VARIABLE #GGE
+  5 : GGE #GGE @ ;  129 #GGE !
+  6 
+  7 
+  8 ( Zmienna ta posiada ilosc    )
+  9 ( ekranow na dykietce         )
+ 10 
+ 11 CODE INSTR 2 ,X LDA, XSAVE 2+
+ 12   STA, 3 ,X LDA, XSAVE 3 + STA,
+ 13    0 # LDY, BEGIN,
+ 14            XSAVE 2+ )Y LDA,
+ 15      4 ,X CMP, 0= IF,
+ 16              1 # LDA, INY,
+ 17      ELSE, INY, TYA, 0 ,X CMP,
+ 18              0= IF,
+ 19          1 # LDA, 0 # LDY,
+ 20              ELSE, 0 # LDA,
+ 21        THEN,
+ 22            THEN,
+ 23      1 # CMP,
+ 24          0= UNTIL, 4 ,X STY,
+ 25    POPTWO JMP,  END-CODE
+ 26 
+ 27 ( A ADR DLU --- NR             )
+ 28 
+ 29 : SELECT <BUILDS SMUDGE ] DOES>
+ 30 SWAP 2 * + @ EXECUTE ;
+ 31                          -->
+
+SCR # 109 ( TXT )
+  0 
+  1 
+  2 127 CONSTANT BNAG
+  3 
+  4 
+  5 4 CONSTANT 4
+  6 8 CONSTANT 8
+  7 16 CONSTANT 16
+  8 32 CONSTANT 32
+  9 64 CONSTANT 64
+ 10 128 CONSTANT 128
+ 11  0 VARIABLE #FP
+ 12  1 VARIABLE #F
+ 13 
+ 14  : FP2@ #FP @ #F @ AND 0= 0= ;
+ 15  ( --- F )
+ 16  : FP2! >R #F @ #FP @ R>
+ 17        IF OR ELSE XOR ENDIF
+ 18         #FP ! ;
+ 19 ( F --- )
+ 20  SELECT C2^ 1 2 4 8 16 32 64 128
+ 21  ;
+ 22 ( N -- 2^N )
+ 23 : POZ-NAG 8 /MOD
+ 24        BNAG BLOCK + SWAP C2^ ;
+ 25 
+ 26 ( SCR --- ADR WART podaje adres
+ 27 (       ADR gdzie zapisany jest
+ 28 (       naglowek oraz wartosc
+ 29 (      ktora mu odpowiada      )
+ 30                          -->
+ 31 
+
+SCR # 110 ( TXT )
+  0 
+  1 
+  2 : NAG POZ-NAG SWAP C@ AND 0= 0=
+  3               ;
+  4 
+  5 ( SCR --- F  dla danego ekranu )
+  6 (        SCR podaje czy ma     )
+  7 (        naglowek 1 czy nie 0  )
+  8 
+  9 : SAV-NAG OVER NAG =
+ 10       IF DROP
+ 11       ELSE POZ-NAG TOGGLE
+ 12       UPDATE
+ 13       ENDIF ;
+ 14 
+ 15 ( SCR F ---  zapisuje ekran SCR
+ 16 (     jako posiadajacy naglowek
+ 17 (     gdy F=1 lub bez F=0      )
+ 18 
+ 19 : $=$ >R BEGIN R> 1 - >R OVER
+ 20      R + C@ OVER R + C@ = 0=
+ 21      R 0= + UNTIL 2DROP R> 0= ;
+ 22 
+ 23 : SP$=$ SWAP DUP 1 - C@ BL = >R
+ 24         SWAP $=$ R> * ;
+ 25 
+ 26  -->
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 111 ( TXT )
+  0 
+  1 
+  2 0 VARIABLE D$
+  3 
+  4 : INSTR$ 0 >R D$ !
+  5     BEGIN OVER COUNT >R C@ OVER
+  6       D$ @ R> - R - 1+ SWAP R +
+  7       SWAP INSTR DUP
+  8       0= IF R> DROP >R 1
+  9       ELSE  R> + >R
+ 10       OVER COUNT >R OVER
+ 11      1 - R> SWAP R + SWAP SP$=$
+ 12       ENDIF
+ 13     UNTIL 2DROP R> ;
+ 14 ( ZM$ ADR DLU --- POZ   szuka  )
+ 15 ( slowa ZM$ z bajtem dlugosci  )
+ 16 ( w obszarze od ADR do ADR+DLU )
+ 17 ( daje na stos pozycje POZ )
+ 18 : INSTR$$ COUNT INSTR$ ;
+ 19 
+ 20 VOCABULARY OSF IMMEDIATE
+ 21 OSF DEFINITIONS
+ 22 
+ 23 : POPRAW FP2@ IF
+ 24          BLK @ BLOCK IN @ + HERE
+ 25      C@ -   10 -
+ 26        DUP 3 BLANKS
+ 27        SWAP S->D <# # # # #>
+ 28        >R SWAP R> CMOVE UPDATE
+ 29        FLUSH ELSE DROP ENDIF ;
+ 30 
+ 31   -->
+
+SCR # 112 ( TXT )
+  0 
+  1 
+  2  : LIN0 PAD SWAP B/SCR * 1 R/W ;
+  3 
+  4 
+  5  : Y-SLO LIN0 HERE PAD 64
+  6      INSTR$ ;
+  7 
+  8  : SZUK-SLO 0 GGE 1 DO
+  9      I NAG
+ 10        IF I Y-SLO
+ 11          IF I POPRAW DROP I 1
+ 12          LEAVE
+ 13          ENDIF
+ 14        ENDIF
+ 15      LOOP ;
+ 16 
+ 17  : PH HERE C@ 1+ HERE C!
+ 18       BL HERE DUP C@ + C! ;
+ 19 
+ 20  : F0! PAD BNAG 1 1 -DISK
+ 21        IF 1 #F ! CR
+ 22       ." BLAD DYSKOWY" CR
+ 23         ABORT
+ 24       ENDIF ;
+ 25 
+ 26 
+ 27 
+ 28  -->
+ 29 
+ 30 
+ 31 
+
+SCR # 113 ( TXT )
+  0  ( ------ )
+  1 
+  2  : ?KOMU DUP IF CR HERE
+  3          COUNT TYPE
+  4  ."  SCR# " OVER BASE @
+  5      DECIMAL SWAP . BASE !
+  6             ELSE BEEP CR
+  7       ." Brak na dysku slowa: "
+  8         HERE COUNT TYPE CR
+  9   CR ." RETURN-inna dyskietka"
+ 10   CR ." inny klawisz ABORT"
+ 11   KEY 155 =  IF 0 FP2! ELSE
+ 12   1 #F ! ABORT ENDIF
+ 13   ENDIF ;
+ 14 
+ 15 FORTH DEFINITIONS
+ 16  : LOAD" OSF -FIND PH
+ 17     #F @ 2 * #F ! 1 FP2!
+ 18     IF 2DROP DROP
+ 19     ELSE DUP F0! Y-SLO
+ 20       IF LOAD
+ 21       ELSE DROP
+ 22         BEGIN EMPTY-BUFFERS
+ 23           F0! SZUK-SLO ?KOMU
+ 24         UNTIL
+ 25         LOAD
+ 26       ENDIF
+ 27     ENDIF FP2@ 0= IF
+ 28    CR ." Dyskietka 1 i RETURN "
+ 29    KEY DROP ENDIF
+ 30     FORTH #F @ 2 / #F ! ;
+ 31  000 LOAD" SAVE
+
+SCR # 114 ( TXT )
+  0  ( SAVE BDISK - [os] )
+  1 
+  2 : <=< OVER > >R < R> * ;
+  3 : % COMPILE CLIT BL WORD HERE
+  4 NUMBER DROP -1 OVER 256 <=< 0=
+  5      IF CR ." Error: % " DUP .
+  6      ENDIF   C, ; IMMEDIATE
+  7  500 CONSTANT DIRB
+  8  0 VARIABLE S-L
+  9  : BDISK OVER + OVER 1 - OVER
+ 10      DIRB SWAP
+ 11      <=< 0= 0= + SWAP
+ 12      DO I DIRB = IF R> 1+ >R
+ 13                  ENDIF
+ 14       DUP I 1 S-L @ -DISK
+ 15       IF DROP 0 LEAVE
+ 16       ELSE B/BUF + ENDIF
+ 17      LOOP 0= ;
+ 18 ( ADR SEK IL-SEK --- F       )
+ 19 ( zapis i odczyt bloku )
+ 20 
+ 21 
+ 22 36000 CONSTANT HE
+ 23 ( przetrzymuje adres podzialu )
+ 24 
+ 25 0 VARIABLE SP&
+ 26 255 SP& C!
+ 27 
+ 28 ( sektor podziealu i SP& 1+
+ 29 ( ilosc sektorow po podziale )
+ 30            -->
+ 31 
+
+SCR # 115 ( TXT )
+  0  ( --- )
+  1 
+  2 
+  3 : LO+ HE SP& C@ SP& 1+ C@
+  4       1 S-L ! BDISK % 8 ?ERROR
+  5  [ ' CR 2 - ] LITERAL 7884 !
+  6  [ ' HERE 2 - ] LITERAL 10628 !
+  7    CR ;
+  8 
+  9 
+ 10 : SAVE HERE HE U<
+ 11    IF SAVE
+ 12    ELSE
+ 13   [ ' LO+ 2 - ] LITERAL 7884 !
+ 14   [ ' HE 2 -  ] LITERAL 10628 !
+ 15     HERE HE - % 128 / 1+
+ 16     SP& 1+ C! SAVE
+ 17     HE SP& C@ SP& 1+ C@
+ 18     0 S-L ! BDISK % 8 ?ERROR
+ 19  [ ' CR 2 - ] LITERAL 7884 !
+ 20  [ ' HERE 2 - ] LITERAL 10628 !
+ 21    ENDIF ;
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 116 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 117 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 118 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 119 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 120 ( TXT )
+  0 ( NAZW-DLU )
+  1 
+  2 
+  3 0 VARIABLE #NA
+  4 0 VARIABLE #IL
+  5 : NAZW-DLU
+  6   CONTEXT @ @
+  7   BEGIN DUP C@ 31 AND DUP
+  8    3 + #NA +! 1 #IL +!
+  9    + DUP C@ 128 AND 0=
+ 10    IF 1+ ENDIF 1+ @ DUP 0=
+ 11   UNTIL DROP CR #NA ? #IL ? ;
+ 12 
+ 13 ( --- wyswietla dlugosc
+ 14 ( wszystkich slow w slowniku )
+ 15 
+ 16 : TS 0ZEGAR! 0
+ 17      BEGIN 1+
+ 18       DUP DUP / OVER * OVER +
+ 19       OVER - DROP DUP 1000 =
+ 20      UNTIL ZEGAR@ DROP . ;
+ 21 
+ 22 : TS2 0ZEGAR! 0
+ 23      BEGIN 1+ DUP 1000 =
+ 24      UNTIL ZEGAR@ DROP . ;
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+
+SCR # 121 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 122 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 123 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 124 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 125 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 29 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 30 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+SCR # 126 ( TXT )
+  0 
+  1 
+  2 
+  3 
+  4 
+  5 
+  6 
+  7 
+  8 
+  9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31                         ( ASIA )
+
+SCR # 127 ( HEX/DATA )
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  7 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  9 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 11 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 12 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 13 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 14 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 19 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 21 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 22 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 24 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 25 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 26 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 27 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 28 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 29 FF FF FF FF FF FF FF 0 7F FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 30 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 
+ 31 FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF 30 1 0 0 0 0 
+
+SCR # 128 ( HEX/DATA )
+  0 20 28 20 C5 CE C4 20 29 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+  1 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+  2 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+  3 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+  4 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+  5 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+  6 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+  7 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+  8 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+  9 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 10 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 11 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 12 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 13 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 14 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 15 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 16 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 17 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 18 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 19 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 21 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 22 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 23 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 24 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 25 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 26 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 27 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 28 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 29 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 30 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 
+ 31 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 

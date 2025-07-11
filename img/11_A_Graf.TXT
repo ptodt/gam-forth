@@ -1,0 +1,34 @@
+
+SCR # 76 ( TXT )
+  0  ( CNUM: KEY: [os] )
+  1 
+  2 : (L1) 0 HERE >R 0 C, BEGIN BL
+  3         WORD HERE NUMBER DROP
+  4         DUP 256 < WHILE
+  5       C, 1+ REPEAT DROP R> C! ;
+  6 
+  7 : CNUM: <BUILDS (L1) DOES>
+  8         COUNT INSTR ;
+  9 
+ 10 ( --- CCC L1 L2 L3 L4 . . LN  )
+ 11 (         Slowo deklarujace
+ 12 ( w czasie delarowania slowo
+ 13 ( ccc przyjmuje liczby L1 L2 it
+ 14 ( az do LN gdy LN>255.
+ 15 ( dzialanie ccc
+ 16 ( L0 --- F Sprawdza czy posiada
+ 17 ( liczbe L0 w swojej deklaracji
+ 18 ( jezeli tak to F ma wartosc
+ 19 ( pozycji jakie zajmuje liczba
+ 20 ( jezeli nie to F=0           )
+ 21 
+ 22 : KEY: <BUILDS (L1) DOES>
+ 23        BEGIN KEY OVER COUNT
+ 24    INSTR -DUP UNTIL SWAP DROP ;
+ 25 ( --- CCC L1 L2 L3 . . LN
+ 26 (      Slowo deklarujace nowe
+ 27 ( KEY jak wyzej
+ 28 ( Dzialanie: --- NR gdzie NR to
+ 29 ( numer kolejny ASCII  odczyta-
+ 30 ( ny  z klawiatury.           )
+ 31 
